@@ -1,0 +1,312 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T20:39:18.368390+08:00",
+  "weather": {
+    "location": {
+      "name": "广东广州",
+      "province": "广东省",
+      "city": "广州市",
+      "county": ""
+    },
+    "weather": {
+      "condition": "多云",
+      "condition_code": "01",
+      "temperature": 28,
+      "humidity": 78,
+      "pressure": 993,
+      "precipitation": 0,
+      "wind_direction": "北风",
+      "wind_power": "4-5",
+      "weather_icon": "https://mat1.gtimg.com/qqcdn/xw/tianqi/bigIcon/heiye/01.png",
+      "weather_colors": [
+        "#546481",
+        "#8993AF",
+        "#DBC2A9"
+      ],
+      "updated": "2026-08-07 20:30:00",
+      "updated_at": 1786134600000
+    },
+    "air_quality": {
+      "aqi": 34,
+      "level": 1,
+      "quality": "优",
+      "pm25": 22,
+      "pm10": 34,
+      "co": 0.6,
+      "no2": 19,
+      "o3": 84,
+      "so2": 6,
+      "rank": 201,
+      "total_cities": 375,
+      "updated": "2026-08-07 20:00:00",
+      "updated_at": 1786132800000
+    },
+    "sunrise": {
+      "sunrise": "2026-08-07 05:59:00",
+      "sunrise_at": 1786082340000,
+      "sunrise_desc": "05:59",
+      "sunset": "2026-08-07 19:05:00",
+      "sunset_at": 1786129500000,
+      "sunset_desc": "19:05"
+    },
+    "life_indices": [
+      {
+        "key": "airconditioner",
+        "name": "空调开启",
+        "level": "部分时间开启",
+        "description": "天气热，到中午的时候您将会感到有点热，因此建议在午后较热时开启制冷空调。"
+      },
+      {
+        "key": "allergy",
+        "name": "过敏",
+        "level": "不易发",
+        "description": "天气条件不易诱发过敏，除特殊体质外，无需担心过敏问题。"
+      },
+      {
+        "key": "carwash",
+        "name": "洗车",
+        "level": "适宜",
+        "description": "适宜洗车，至少可维持4天"
+      },
+      {
+        "key": "chill",
+        "name": "风寒",
+        "level": "无",
+        "description": "温度未达到风寒所需的低温，稍作防寒准备即可。"
+      },
+      {
+        "key": "clothes",
+        "name": "穿衣",
+        "level": "炎热",
+        "description": "天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。"
+      },
+      {
+        "key": "cold",
+        "name": "感冒",
+        "level": "少发",
+        "description": "各项气象条件适宜，发生感冒几率较低。但请避免长期处于空调房间中，以防感冒。"
+      },
+      {
+        "key": "comfort",
+        "name": "舒适度",
+        "level": "较不舒适",
+        "description": "白天天气晴好，并且空气湿度偏大，在这种天气条件下，您会感到有些闷热，不很舒适。"
+      },
+      {
+        "key": "diffusion",
+        "name": "空气污染扩散条件",
+        "level": "中",
+        "description": "气象条件对空气污染物稀释、扩散和清除无明显影响。"
+      },
+      {
+        "key": "dry",
+        "name": "路况",
+        "level": "干燥",
+        "description": "天气较好，路面比较干燥，路况较好。"
+      },
+      {
+        "key": "drying",
+        "name": "晾晒",
+        "level": "极适宜",
+        "description": "天气不错，极适宜晾晒。"
+      },
+      {
+        "key": "fish",
+        "name": "钓鱼",
+        "level": "较适宜",
+        "description": "较适合垂钓，但天气稍热，会对垂钓产生一定的影响。"
+      },
+      {
+        "key": "heatstroke",
+        "name": "中暑",
+        "level": "易发",
+        "description": "酷热难耐，外出尽量不要打赤膊，通风的棉衫和赤膊相比更有消暑的作用。"
+      },
+      {
+        "key": "makeup",
+        "name": "化妆",
+        "level": "去油防晒",
+        "description": "建议用蜜质SPF20面霜打底，水质无油粉底霜。"
+      },
+      {
+        "key": "mood",
+        "name": "心情",
+        "level": "较好",
+        "description": "天气较好，注意室内通风降温，保持淡泊宁静的心态。"
+      },
+      {
+        "key": "morning",
+        "name": "晨练",
+        "level": "较适宜",
+        "description": "早晨气象条件较适宜晨练，但风力稍大，晨练时请注意选择避风的地点，避免迎风锻炼。"
+      },
+      {
+        "key": "sports",
+        "name": "运动",
+        "level": "较适宜",
+        "description": "天气较好，较适宜进行各种运动，但考虑气温较高且湿度较大，请适当降低运动强度，并及时补充水分。"
+      },
+      {
+        "key": "sunglasses",
+        "name": "太阳镜",
+        "level": "很必要",
+        "description": "白天天空晴朗，太阳辐射很强，建议佩戴透射比2级且标注UV400的遮阳镜"
+      },
+      {
+        "key": "sunscreen",
+        "name": "防晒",
+        "level": "极强",
+        "description": "紫外辐射极强，应特别加强防护，建议涂擦SPF20以上，PA++的防晒护肤品，并随时补涂。"
+      },
+      {
+        "key": "tourism",
+        "name": "旅游",
+        "level": "适宜",
+        "description": "天气较好，但稍感觉有些热，不过还是个好天气哦。适宜旅游，可不要错过机会呦！"
+      },
+      {
+        "key": "traffic",
+        "name": "交通",
+        "level": "良好",
+        "description": "天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。"
+      },
+      {
+        "key": "ultraviolet",
+        "name": "紫外线强度",
+        "level": "很强",
+        "description": "紫外线辐射极强，建议涂擦SPF20以上、PA++的防晒护肤品，尽量避免暴露于日光下。"
+      },
+      {
+        "key": "umbrella",
+        "name": "雨伞",
+        "level": "不带伞",
+        "description": "天气较好，您在出门的时候无须带雨伞。"
+      }
+    ],
+    "alerts": []
+  },
+  "fuel": {
+    "region": "广东",
+    "trend": {
+      "next_adjustment_date": "8月14日24时",
+      "direction": "下调",
+      "change_ton": 395,
+      "change_ton_desc": "下调395元/吨",
+      "change_liter_min": 0.3,
+      "change_liter_max": 0.36,
+      "change_liter_desc": "0.30元/升-0.36元/升",
+      "description": "下次调价时间: 8月14日24时，预计下调395元/吨 (0.30元/升-0.36元/升)"
+    },
+    "items": [
+      {
+        "name": "92#汽油",
+        "price": 7.99,
+        "price_desc": "7.99 元/升"
+      },
+      {
+        "name": "95#汽油",
+        "price": 8.65,
+        "price_desc": "8.65 元/升"
+      },
+      {
+        "name": "98#汽油",
+        "price": 10.65,
+        "price_desc": "10.65 元/升"
+      },
+      {
+        "name": "0#柴油",
+        "price": 7.64,
+        "price_desc": "7.64 元/升"
+      }
+    ],
+    "link": "http://www.qiyoujiage.com/guangdong.shtml",
+    "updated": "2026/08/07 20:39:31",
+    "updated_at": 1786106371101
+  },
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "气象台：台风 “白海豚” 可能于 9 日下午至 10 日早晨在浙江到福建北部沿海地区登陆",
+    "报告称中国暑期 “工厂游” 走红，热度同比增长超 36%，成为旅游市场新晋热门业态",
+    "安徽一景区邀自驾游客漂流凭票报销高速过路费，景区回应：不限出发地，上限 1 万元，返程不报",
+    "化妆品新国标发布：重金属部分指标实现国际领跑，从严监管儿童化妆品",
+    "一款红霉素眼膏盒子上的 “原研一致” 竟是商标，律师称极易误导消费者，药企表示：后续可能不会再用",
+    "汕头调查 “抗生素” 牛蛙，初步核实涉事企业牛蛙货源来自长沙和湛江",
+    "成都一女子发现系统漏洞 0 元买 3000 多台崭新电器，警方：已依法采取刑事强制措施",
+    "DeepSeek 宣布大幅涨价，业内人士预计 V4 Pro 正式版即将发布"
+  ],
+  "news_tip": "别用别人的地图找自己的路，你的终点不在他们标注的位置",
+  "hot_topics": [
+    {
+      "platform": "知乎",
+      "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战+世预赛？暴露出哪些问题？"
+    },
+    {
+      "platform": "知乎",
+      "title": "公司实行「上四休三」，但要降薪 1000 元，员工不接受只能辞职，这样合理吗？换做是你会如何选择？"
+    },
+    {
+      "platform": "知乎",
+      "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？"
+    },
+    {
+      "platform": "知乎",
+      "title": "如何评价GPT-5.6Luna免费不限量，后续基础大模型都会走向免费吗？"
+    },
+    {
+      "platform": "知乎",
+      "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？"
+    },
+    {
+      "platform": "微博",
+      "title": "歌手总决赛"
+    },
+    {
+      "platform": "微博",
+      "title": "台风"
+    },
+    {
+      "platform": "微博",
+      "title": "暑期档票房超80亿"
+    },
+    {
+      "platform": "微博",
+      "title": "iPhone18Pro起售或破万"
+    },
+    {
+      "platform": "微博",
+      "title": "河南三支一扶笔试将重考"
+    },
+    {
+      "platform": "抖音",
+      "title": "台风白海豚实时路径"
+    },
+    {
+      "platform": "头条",
+      "title": "北京暴雨"
+    }
+  ],
+  "today_in_history": [
+    {
+      "title": "雅典和马其顿之间的科罗尼亚战役发生",
+      "year": "-388",
+      "description": "马其顿共和国（Република Македониа），位于欧洲东南部巴尔干半岛。",
+      "event_type": "event",
+      "link": "https://baike.baidu.com/item/%E9%A9%AC%E5%85%B6%E9%A1%BF"
+    },
+    {
+      "title": "神圣罗马帝国皇帝亨利四世逝世",
+      "year": "1106",
+      "description": "亨利四世，法兰克尼亚王朝（也叫萨利安王朝）的第三位罗马人民的国王（1056年—1105年在位）和神圣罗马帝国皇帝（1084年加冕）。",
+      "event_type": "death",
+      "link": "https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96/14205"
+    },
+    {
+      "title": "清初小说戏剧评论家金圣叹逝世",
+      "year": "1661",
+      "description": "金采（1608年4月17日—1661年8月7日），明亡后改名人瑞，字圣叹，别号鲲鹏散士。",
+      "event_type": "death",
+      "link": "https://baike.baidu.com/item/%E9%87%91%E5%9C%A3%E5%8F%B9"
+    }
+  ]
+}

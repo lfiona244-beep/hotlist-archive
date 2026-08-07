@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "message": "获取成功。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。",
+  "data": {
+    "date": "8-7",
+    "month": 8,
+    "day": 7,
+    "items": [
+      {
+        "title": "雅典和马其顿之间的科罗尼亚战役发生",
+        "year": "-388",
+        "description": "马其顿共和国（Република Македониа），位于欧洲东南部巴尔干半岛。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E9%A9%AC%E5%85%B6%E9%A1%BF"
+      },
+      {
+        "title": "神圣罗马帝国皇帝亨利四世逝世",
+        "year": "1106",
+        "description": "亨利四世，法兰克尼亚王朝（也叫萨利安王朝）的第三位罗马人民的国王（1056年—1105年在位）和神圣罗马帝国皇帝（1084年加冕）。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96/14205"
+      },
+      {
+        "title": "清初小说戏剧评论家金圣叹逝世",
+        "year": "1661",
+        "description": "金采（1608年4月17日—1661年8月7日），明亡后改名人瑞，字圣叹，别号鲲鹏散士。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E9%87%91%E5%9C%A3%E5%8F%B9"
+      },
+      {
+        "title": "美国紫心勋章诞生",
+        "year": "1782",
+        "description": "紫心勋章是世界上仍在颁发的历史最悠久的军事荣誉，而且是第一种向普通士兵颁发的勋章。它于1782年8月7日由乔治·华盛顿将军设立，当时叫军功章，专门授予作战中负伤的军人，也可授予阵亡者的最近亲属。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E7%B4%AB%E5%BF%83%E5%8B%8B%E7%AB%A0"
+      },
+      {
+        "title": "孙中山辞去政务总裁一职",
+        "year": "1919",
+        "description": "孙中山 （1866年—1925年），名文，字载之，号日新，又号逸仙，幼名帝象，化名中山。伟大的民族英雄、伟大的爱国主义者、中国民主革命的伟大先驱，中华民国和中国国民党的缔造者，三民主义的倡导者，创立了《五权宪法》。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E5%AD%99%E4%B8%AD%E5%B1%B1/128084"
+      },
+      {
+        "title": "印度诗人泰戈尔逝世",
+        "year": "1941",
+        "description": "拉宾德拉纳特 · 泰戈尔（1861年—1941年），印度著名诗人、文学家、社会活动家、哲学家和印度民族主义者。1861年5月7日，拉宾德拉纳特·泰戈尔出生于印度加尔各答一个富有的贵族家庭。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E6%8B%89%E5%AE%BE%E5%BE%B7%E6%8B%89%E7%BA%B3%E7%89%B9%C2%B7%E6%B3%B0%E6%88%88%E5%B0%94"
+      },
+      {
+        "title": "香港企业家林建岳出生",
+        "year": "1957",
+        "description": "林建岳，广东潮阳人，香港商人，主力投资娱乐事业。1957年生于香港。香港著名企业家林百欣次子。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E6%9E%97%E5%BB%BA%E5%B2%B3"
+      },
+      {
+        "title": "美国好莱坞著名演员大卫·杜考夫尼出生",
+        "year": "1960",
+        "description": "大卫·杜考夫尼（全名David William Duchovny)；1960年8月7日－，生于纽约市）是一位美国电视与电影演员，曾经获得金球奖。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E5%A4%A7%E5%8D%AB%C2%B7%E6%9D%9C%E6%A5%9A%E5%B0%BC"
+      },
+      {
+        "title": "维基百科创始人吉米·多纳尔·威尔士出生",
+        "year": "1966",
+        "description": "吉米·多纳尔·威尔士（Jimmy Donal Wales，1966年8月7日~）维基百科（Wikipedia）的创始人之一。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E5%90%89%E7%B1%B3%C2%B7%E5%A4%9A%E7%BA%B3%E5%B0%94%C2%B7%E5%A8%81%E5%B0%94%E5%A3%AB"
+      },
+      {
+        "title": "美国好莱坞著名女演员查理兹·赛隆出生",
+        "year": "1975",
+        "description": "查理兹·塞隆（Charlize Theron），1975年8月7日出生于南非豪登省伯诺尼，美国影视演员，奥斯卡影后。1995年，查理兹·塞隆出演了她的电影处女作《芝加哥打鬼3》。2003年，她出演了《偷天换日》。2004年，查理兹·塞隆凭借在《女魔头》中的演出而获得第76届奥斯卡最佳女主角。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E6%9F%A5%E7%90%86%E5%85%B9%C2%B7%E5%A1%9E%E9%9A%86"
+      },
+      {
+        "title": "台湾演员吴建豪出生",
+        "year": "1978",
+        "description": "吴建豪，英文名VanNess Wu，1978年8月7日生于美国加利福尼亚州圣塔莫尼卡市。美籍华裔歌手、演员，偶像组合F4中的一员。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E5%90%B4%E5%BB%BA%E8%B1%AA"
+      },
+      {
+        "title": "中国国家女子排球队在洛杉矶奥运会上获得冠军",
+        "year": "1984",
+        "description": "这是中国第一个奥运会团体项目金牌。此役前后，女排姑娘们在1981、1982、1984、1985、1986五次世界大赛上拿下世界第一个“五连冠”，这支以郎平、张蓉芳领衔的中国女排也一度成为国人骄傲。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%A5%B3%E5%AD%90%E6%8E%92%E7%90%83%E9%98%9F"
+      },
+      {
+        "title": "国画艺术大师刘海粟逝世",
+        "year": "1994",
+        "description": "刘海粟（1896-1994），名槃，字季芳，号海翁。汉族，江苏常州人。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E5%88%98%E6%B5%B7%E7%B2%9F"
+      },
+      {
+        "title": "中国甘肃省舟曲县发生特大泥石流灾害",
+        "year": "2010",
+        "description": "舟曲县，隶属于甘肃省甘南藏族自治州，位于甘肃省南部，甘南藏族自治州东南部，东邻武都区，北接宕昌县，西、南与迭部县、文县、九寨沟县接壤，总面积3009.98平方千米。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E8%88%9F%E6%9B%B2%E5%8E%BF"
+      }
+    ]
+  }
+}

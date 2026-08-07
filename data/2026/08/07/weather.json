@@ -1,0 +1,188 @@
+{
+  "code": 200,
+  "message": "获取成功。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。",
+  "data": {
+    "location": {
+      "name": "广东广州",
+      "province": "广东省",
+      "city": "广州市",
+      "county": ""
+    },
+    "weather": {
+      "condition": "多云",
+      "condition_code": "01",
+      "temperature": 28,
+      "humidity": 78,
+      "pressure": 993,
+      "precipitation": 0,
+      "wind_direction": "北风",
+      "wind_power": "4-5",
+      "weather_icon": "https://mat1.gtimg.com/qqcdn/xw/tianqi/bigIcon/heiye/01.png",
+      "weather_colors": [
+        "#546481",
+        "#8993AF",
+        "#DBC2A9"
+      ],
+      "updated": "2026-08-07 20:30:00",
+      "updated_at": 1786134600000
+    },
+    "air_quality": {
+      "aqi": 34,
+      "level": 1,
+      "quality": "优",
+      "pm25": 22,
+      "pm10": 34,
+      "co": 0.6,
+      "no2": 19,
+      "o3": 84,
+      "so2": 6,
+      "rank": 201,
+      "total_cities": 375,
+      "updated": "2026-08-07 20:00:00",
+      "updated_at": 1786132800000
+    },
+    "sunrise": {
+      "sunrise": "2026-08-07 05:59:00",
+      "sunrise_at": 1786082340000,
+      "sunrise_desc": "05:59",
+      "sunset": "2026-08-07 19:05:00",
+      "sunset_at": 1786129500000,
+      "sunset_desc": "19:05"
+    },
+    "life_indices": [
+      {
+        "key": "airconditioner",
+        "name": "空调开启",
+        "level": "部分时间开启",
+        "description": "天气热，到中午的时候您将会感到有点热，因此建议在午后较热时开启制冷空调。"
+      },
+      {
+        "key": "allergy",
+        "name": "过敏",
+        "level": "不易发",
+        "description": "天气条件不易诱发过敏，除特殊体质外，无需担心过敏问题。"
+      },
+      {
+        "key": "carwash",
+        "name": "洗车",
+        "level": "适宜",
+        "description": "适宜洗车，至少可维持4天"
+      },
+      {
+        "key": "chill",
+        "name": "风寒",
+        "level": "无",
+        "description": "温度未达到风寒所需的低温，稍作防寒准备即可。"
+      },
+      {
+        "key": "clothes",
+        "name": "穿衣",
+        "level": "炎热",
+        "description": "天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。"
+      },
+      {
+        "key": "cold",
+        "name": "感冒",
+        "level": "少发",
+        "description": "各项气象条件适宜，发生感冒几率较低。但请避免长期处于空调房间中，以防感冒。"
+      },
+      {
+        "key": "comfort",
+        "name": "舒适度",
+        "level": "较不舒适",
+        "description": "白天天气晴好，并且空气湿度偏大，在这种天气条件下，您会感到有些闷热，不很舒适。"
+      },
+      {
+        "key": "diffusion",
+        "name": "空气污染扩散条件",
+        "level": "中",
+        "description": "气象条件对空气污染物稀释、扩散和清除无明显影响。"
+      },
+      {
+        "key": "dry",
+        "name": "路况",
+        "level": "干燥",
+        "description": "天气较好，路面比较干燥，路况较好。"
+      },
+      {
+        "key": "drying",
+        "name": "晾晒",
+        "level": "极适宜",
+        "description": "天气不错，极适宜晾晒。"
+      },
+      {
+        "key": "fish",
+        "name": "钓鱼",
+        "level": "较适宜",
+        "description": "较适合垂钓，但天气稍热，会对垂钓产生一定的影响。"
+      },
+      {
+        "key": "heatstroke",
+        "name": "中暑",
+        "level": "易发",
+        "description": "酷热难耐，外出尽量不要打赤膊，通风的棉衫和赤膊相比更有消暑的作用。"
+      },
+      {
+        "key": "makeup",
+        "name": "化妆",
+        "level": "去油防晒",
+        "description": "建议用蜜质SPF20面霜打底，水质无油粉底霜。"
+      },
+      {
+        "key": "mood",
+        "name": "心情",
+        "level": "较好",
+        "description": "天气较好，注意室内通风降温，保持淡泊宁静的心态。"
+      },
+      {
+        "key": "morning",
+        "name": "晨练",
+        "level": "较适宜",
+        "description": "早晨气象条件较适宜晨练，但风力稍大，晨练时请注意选择避风的地点，避免迎风锻炼。"
+      },
+      {
+        "key": "sports",
+        "name": "运动",
+        "level": "较适宜",
+        "description": "天气较好，较适宜进行各种运动，但考虑气温较高且湿度较大，请适当降低运动强度，并及时补充水分。"
+      },
+      {
+        "key": "sunglasses",
+        "name": "太阳镜",
+        "level": "很必要",
+        "description": "白天天空晴朗，太阳辐射很强，建议佩戴透射比2级且标注UV400的遮阳镜"
+      },
+      {
+        "key": "sunscreen",
+        "name": "防晒",
+        "level": "极强",
+        "description": "紫外辐射极强，应特别加强防护，建议涂擦SPF20以上，PA++的防晒护肤品，并随时补涂。"
+      },
+      {
+        "key": "tourism",
+        "name": "旅游",
+        "level": "适宜",
+        "description": "天气较好，但稍感觉有些热，不过还是个好天气哦。适宜旅游，可不要错过机会呦！"
+      },
+      {
+        "key": "traffic",
+        "name": "交通",
+        "level": "良好",
+        "description": "天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。"
+      },
+      {
+        "key": "ultraviolet",
+        "name": "紫外线强度",
+        "level": "很强",
+        "description": "紫外线辐射极强，建议涂擦SPF20以上、PA++的防晒护肤品，尽量避免暴露于日光下。"
+      },
+      {
+        "key": "umbrella",
+        "name": "雨伞",
+        "level": "不带伞",
+        "description": "天气较好，您在出门的时候无须带雨伞。"
+      }
+    ],
+    "alerts": []
+  }
+}
