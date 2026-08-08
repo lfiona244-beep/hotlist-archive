@@ -1,0 +1,88 @@
+{
+  "code": 200,
+  "message": "获取成功。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。",
+  "data": {
+    "date": "8-8",
+    "month": 8,
+    "day": 8,
+    "items": [
+      {
+        "title": "清朝大臣傅鼐逝世",
+        "year": "1811",
+        "description": "傅鼐（1758-1811）字重庵，顺天宛平人，原籍浙江山阴，清朝大臣。由吏员入赀为府经历，发云南，擢宁洱知县。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E5%82%85%E9%BC%90"
+      },
+      {
+        "title": "前英国首相乔治·坎宁逝世",
+        "year": "1827",
+        "description": "乔治·坎宁（George Canning，1770年4月11日—1827年8月8日），女演员之子，英国杰出的外交家，他一反前任卡斯尔雷子爵的欧洲协调原则，抛弃了神圣同盟，承认了南美各国的解放，自诩用新世界来平衡旧世界，他支持希腊独立运动，1827年当了100天英国首相后就病逝于任上。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E4%B9%94%E6%B2%BB%C2%B7%E5%9D%8E%E5%AE%81"
+      },
+      {
+        "title": "中国金石学家罗振玉出生",
+        "year": "1866",
+        "description": "罗振玉（1866年8月8日－1940年5月14日），字式如、叔蕴、叔言，号雪堂，永丰乡人，晚号贞松老人、松翁。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E7%BD%97%E6%8C%AF%E7%8E%89"
+      },
+      {
+        "title": "俄国全面入侵中国东北，爆发庚子事变",
+        "year": "1900",
+        "description": "八国联军侵华战争，是指1900年5月28日（清光绪二十六年）以英国、美国、德国、法国、俄国、日本、意大利、奥匈帝国八个主要国家组成的对中国的武装侵略战争。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E5%BA%9A%E5%AD%90%E5%9B%BD%E5%8F%98"
+      },
+      {
+        "title": "美国物理学家欧内斯特·劳伦斯出生",
+        "year": "1901",
+        "description": "美国物理学家。1930年任加利福尼亚大学教授。同年设计和制造第一台高能粒子加速器，获得1939年度诺贝尔物理学奖。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E6%AC%A7%E5%86%85%E6%96%AF%E7%89%B9%C2%B7%E5%8A%B3%E4%BC%A6%E6%96%AF"
+      },
+      {
+        "title": "英国物理学家、量子力学奠基人之一保罗·狄拉克出生",
+        "year": "1902",
+        "description": "欧内斯特·劳伦斯（全名：欧内斯特·奥兰多·劳伦斯，Ernest Orlando Lawrence，1901年8月8日—1958年8月27日），物理学家，美国国家科学院院士，美国艺术与科学院院士，诺贝尔物理学奖获得者，生前是加州大学伯克利分校物理学教授。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E4%BF%9D%E7%BD%97%C2%B7%E7%8B%84%E6%8B%89%E5%85%8B"
+      },
+      {
+        "title": "京剧表演艺术大师梅兰芳因病在北京逝世",
+        "year": "1961",
+        "description": "梅兰芳，江苏泰州人，名澜，又名鹤鸣，乳名裙姊，字畹华，别署缀玉轩主人，艺名兰芳。清光绪二十年出生于北京的一个梨园世家。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E6%A2%85%E5%85%B0%E8%8A%B3/10991"
+      },
+      {
+        "title": "美国总统尼克松因水门事件辞职",
+        "year": "1974",
+        "description": "水门事件（Watergate scandal），或称水门丑闻，是美国历史上最不光彩的政治丑闻事件之一，对美国对三权分立的美国宪政体制中总统的权力产生了巨大影响。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E6%B0%B4%E9%97%A8%E4%BA%8B%E4%BB%B6"
+      },
+      {
+        "title": "瑞士职业网球选手罗杰·费德勒出生",
+        "year": "1981",
+        "description": "罗杰·费德勒（Roger Federer，1981年8月8日－），瑞士男子职业网球运动员（1998年转为职业）。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E7%BD%97%E6%9D%B0%C2%B7%E8%B4%B9%E5%BE%B7%E5%8B%92"
+      },
+      {
+        "title": "中国医学家张孝骞逝世",
+        "year": "1987",
+        "description": "张孝骞（1897－1987），男，内科专家、医学教育家、中国消化病学的奠基人。毕生致力于临床医学、医学科学研究和医学教育工作。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E5%BC%A0%E5%AD%9D%E9%AA%9E"
+      },
+      {
+        "title": "第29届夏季奥林匹克运动会在北京开幕",
+        "year": "2008",
+        "description": "北京承办的奥运会为世界奉献了一场精彩的体育盛宴，北京奥运会共创造43项新世界纪录及132项新奥运纪录，中国以51枚金牌居金牌榜首名，是奥运历史上首个登上金牌榜首的亚洲国家。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/2008%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A"
+      }
+    ]
+  }
+}

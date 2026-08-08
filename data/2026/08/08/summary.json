@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-08",
+  "fetched_at": "2026-08-08T11:23:26.185254+08:00",
+  "has_hotlist": true,
+  "has_news": true,
+  "has_weather": true,
+  "has_fuel": true,
+  "fuel_changed": true,
+  "fuel_change_detail": "{'updated_at': 1786106371101} → {'updated_at': 1786159418889}"
+}

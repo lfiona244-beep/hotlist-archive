@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "message": "获取成功。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。",
+  "data": {
+    "region": "广东",
+    "trend": {
+      "next_adjustment_date": "8月14日24时",
+      "direction": "下调",
+      "change_ton": 395,
+      "change_ton_desc": "下调395元/吨",
+      "change_liter_min": 0.3,
+      "change_liter_max": 0.36,
+      "change_liter_desc": "0.30元/升-0.36元/升",
+      "description": "下次调价时间: 8月14日24时，预计下调395元/吨 (0.30元/升-0.36元/升)"
+    },
+    "items": [
+      {
+        "name": "92#汽油",
+        "price": 7.99,
+        "price_desc": "7.99 元/升"
+      },
+      {
+        "name": "95#汽油",
+        "price": 8.65,
+        "price_desc": "8.65 元/升"
+      },
+      {
+        "name": "98#汽油",
+        "price": 10.65,
+        "price_desc": "10.65 元/升"
+      },
+      {
+        "name": "0#柴油",
+        "price": 7.64,
+        "price_desc": "7.64 元/升"
+      }
+    ],
+    "link": "http://www.qiyoujiage.com/guangdong.shtml",
+    "updated": "2026/08/08 11:23:38",
+    "updated_at": 1786159418889
+  }
+}
