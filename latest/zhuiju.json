@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-12",
+  "total": 94,
+  "available": 0,
+  "available_rate": 0.0,
+  "categories": {
+    "online_video": 34,
+    "video_app": 3,
+    "subtitles": 3,
+    "player": 7,
+    "subscription": 1,
+    "tvbox_config": 15,
+    "magnet_search": 12,
+    "cloud_search": 4,
+    "open_source": 15
+  },
+  "available_samples": [],
+  "broken": []
+}

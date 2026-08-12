@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-12",
+  "checked_at": "2026-08-12T08:29:38.720217+08:00",
+  "total": 10,
+  "ok": 9,
+  "fail": 1,
+  "sources": [
+    {
+      "name": "60s热榜API",
+      "url": "https://60s.viki.moe/v2/zhihu",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 1282,
+      "expect": 200,
+      "note": "知乎热榜（hotlist 数据源）"
+    },
+    {
+      "name": "60s新闻API",
+      "url": "https://60s.viki.moe/v2/60s",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 3092,
+      "expect": 200,
+      "note": "每日新闻60s"
+    },
+    {
+      "name": "默沙东手册",
+      "url": "https://www.msdmanuals.cn/home",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 111,
+      "expect": 200,
+      "note": "心理健康权威源（kb-run 路径）"
+    },
+    {
+      "name": "追剧导航站",
+      "url": "https://zhuiju.me",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 949,
+      "expect": 200,
+      "note": "awesome-zhuiju-free 官网"
+    },
+    {
+      "name": "追剧资源JSON",
+      "url": "https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 24,
+      "expect": 200,
+      "note": "94个追剧资源清单"
+    },
+    {
+      "name": "GitHub API",
+      "url": "https://api.github.com",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 28,
+      "expect": 200,
+      "note": "GitHub 官方 API"
+    },
+    {
+      "name": "博查搜索API",
+      "url": "https://api.bochaai.com/v1/web-search",
+      "status": "✅ 正常",
+      "code": 405,
+      "latency_ms": 1138,
+      "expect": 405,
+      "note": "博查 AI 搜索（POST接口，405=存活）"
+    },
+    {
+      "name": "美股日报",
+      "url": "https://finews.elsetech.app/",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 613,
+      "expect": 200,
+      "note": "美股盘后日报"
+    },
+    {
+      "name": "Bing搜索",
+      "url": "https://www.bing.com",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 136,
+      "expect": 200,
+      "note": "中文搜索兜底"
+    },
+    {
+      "name": "StackExchange",
+      "url": "https://api.stackexchange.com",
+      "status": "❌ 异常",
+      "code": 200,
+      "latency_ms": 172,
+      "expect": 400,
+      "note": "技术问答（400=存活）"
+    }
+  ]
+}
