@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
   "total": 94,
-  "available": 0,
-  "available_rate": 0.0,
+  "available": 61,
+  "available_rate": 64.9,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -14,6 +14,74 @@
     "cloud_search": 4,
     "open_source": 15
   },
-  "available_samples": [],
-  "broken": []
+  "available_samples": [
+    "搜TV啦",
+    "雪落影视",
+    "多瑙影视",
+    "白嫖者联盟",
+    "青空次元",
+    "APP影院",
+    "爱电影",
+    "爱壹帆"
+  ],
+  "restricted": [
+    {
+      "name": "No影视",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "注视影视",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "937影视",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "厂长资源",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "LIBVIO",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "黑夜影院",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "奈飞工厂",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "影猫仓库",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "SubHD",
+      "status": "受限 HTTP 403"
+    }
+  ],
+  "broken": [
+    {
+      "name": "金牌影视",
+      "status": "unreachable"
+    },
+    {
+      "name": "91毒舌",
+      "status": "unreachable"
+    },
+    {
+      "name": "好好看",
+      "status": "unreachable"
+    },
+    {
+      "name": "字幕库",
+      "status": "unreachable"
+    }
+  ]
 }
