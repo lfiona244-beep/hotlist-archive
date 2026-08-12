@@ -14,7 +14,6 @@
 
 import json
 import os
-import sys
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
@@ -39,12 +38,10 @@ def write_json(path, data):
 
 
 def classify_count(resources):
-    """按分类统计资源数量"""
     counts = {}
     for r in resources:
-        raw = r.get("分类") or r.get("category") or r.get("type") or "其它"
-        raw = str(raw).strip()
-        counts[raw] = counts.get(raw, 0) + 1
+        raw = r.get("category") or r.get("分类") or r.get("type") or "其它"
+        counts[str(raw).strip()] = counts.get(str(raw).strip(), 0) + 1
     return counts
 
 
@@ -67,36 +64,35 @@ def main():
         raise SystemExit("❌ 资源列表抓取失败，未生成完整存档")
 
     res_list = resources if isinstance(resources, list) else resources.get("resources", resources.get("data", []))
-    if isinstance(resources, dict) and isinstance(res_list, dict):
-        res_list = res_list.get("items", [])
     if not isinstance(res_list, list):
         res_list = []
 
+    # 可用性报告解析：results 数组，每条含 resource_id + status(reachable/restricted/unreachable) + http_status
     avail_map = {}
     if isinstance(availability, dict):
         a = availability.get("results") or availability.get("availability") or availability.get("data") or availability
-        if isinstance(a, dict):
+        if isinstance(a, list):
+            avail_map = {item.get("resource_id"): item for item in a if isinstance(item, dict)}
+        elif isinstance(a, dict):
             avail_map = a
-        elif isinstance(a, list):
-            avail_map = {item.get("name") or item.get("id"): item for item in a if isinstance(item, dict)}
 
     total = len(res_list)
     ok_count = 0
     ok_samples = []
     broken = []
+    restricted = []
     for r in res_list:
         name = r.get("名称") or r.get("name") or r.get("title") or ""
-        info = avail_map.get(name) or avail_map.get(r.get("id"))
-        status = None
-        if isinstance(info, dict):
-            status = info.get("status") or info.get("ok") or info.get("code")
-            if status is None:
-                status = info.get("available")
-        if status in (True, "true", "up", "ok", "OK", 200, "200"):
+        info = avail_map.get(r.get("id")) or avail_map.get(name)
+        st = info.get("status") if isinstance(info, dict) else None
+        code = info.get("http_status") if isinstance(info, dict) else None
+        if st in ("reachable", "ok", "up", "available", True, 200):
             ok_count += 1
             ok_samples.append(name)
-        elif status in (False, "false", "down", "fail", "dead", 0, "0", 404, "404"):
-            broken.append({"name": name, "status": str(status)})
+        elif st == "restricted":
+            restricted.append({"name": name, "status": f"受限 HTTP {code}"})
+        elif st in ("unreachable", "down", "dead", "fail", False):
+            broken.append({"name": name, "status": str(st)})
 
     cats = classify_count(res_list)
 
@@ -109,6 +105,7 @@ def main():
         "available_rate": round(ok_count / total * 100, 1) if total else 0,
         "categories": cats,
         "available_samples": ok_samples[:8],
+        "restricted": restricted[:10],
         "broken": broken[:10],
     }
     snapshot["resources"] = res_list
@@ -123,6 +120,7 @@ def main():
         "available_rate": round(ok_count / total * 100, 1) if total else 0,
         "categories": cats,
         "available_samples": ok_samples[:8],
+        "restricted": restricted[:10],
         "broken": broken[:10],
     })
 

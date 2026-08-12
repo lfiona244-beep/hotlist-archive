@@ -31,7 +31,7 @@ SOURCES = {
     "博查搜索API": ("https://api.bochaai.com/v1/web-search", 405, "博查 AI 搜索（POST接口，405=存活）"),
     "美股日报": ("https://finews.elsetech.app/", 200, "美股盘后日报"),
     "Bing搜索": ("https://www.bing.com", 200, "中文搜索兜底"),
-    "StackExchange": ("https://api.stackexchange.com", 400, "技术问答（400=存活）"),
+    "StackExchange": ("https://api.stackexchange.com/2.3/sites", 200, "技术问答（sites 公开接口）"),
 }
 
 
