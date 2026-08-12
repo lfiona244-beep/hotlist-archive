@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "checked_at": "2026-08-12T08:37:30.670251+08:00",
+  "checked_at": "2026-08-12T11:32:05.519663+08:00",
   "total": 10,
   "ok": 10,
   "fail": 0,
@@ -10,7 +10,7 @@
       "url": "https://60s.viki.moe/v2/zhihu",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 1146,
+      "latency_ms": 1331,
       "expect": 200,
       "note": "知乎热榜（hotlist 数据源）"
     },
@@ -19,7 +19,7 @@
       "url": "https://60s.viki.moe/v2/60s",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 1384,
+      "latency_ms": 2443,
       "expect": 200,
       "note": "每日新闻60s"
     },
@@ -28,7 +28,7 @@
       "url": "https://www.msdmanuals.cn/home",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 642,
+      "latency_ms": 448,
       "expect": 200,
       "note": "心理健康权威源（kb-run 路径）"
     },
@@ -37,7 +37,7 @@
       "url": "https://zhuiju.me",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 924,
+      "latency_ms": 870,
       "expect": 200,
       "note": "awesome-zhuiju-free 官网"
     },
@@ -46,7 +46,7 @@
       "url": "https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 146,
+      "latency_ms": 47,
       "expect": 200,
       "note": "94个追剧资源清单"
     },
@@ -55,7 +55,7 @@
       "url": "https://api.github.com",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 95,
+      "latency_ms": 77,
       "expect": 200,
       "note": "GitHub 官方 API"
     },
@@ -64,7 +64,7 @@
       "url": "https://api.bochaai.com/v1/web-search",
       "status": "✅ 正常",
       "code": 405,
-      "latency_ms": 1168,
+      "latency_ms": 1263,
       "expect": 405,
       "note": "博查 AI 搜索（POST接口，405=存活）"
     },
@@ -73,7 +73,7 @@
       "url": "https://finews.elsetech.app/",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 905,
+      "latency_ms": 637,
       "expect": 200,
       "note": "美股盘后日报"
     },
@@ -82,7 +82,7 @@
       "url": "https://www.bing.com",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 172,
+      "latency_ms": 114,
       "expect": 200,
       "note": "中文搜索兜底"
     },
@@ -91,7 +91,7 @@
       "url": "https://api.stackexchange.com/2.3/sites",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 317,
+      "latency_ms": 342,
       "expect": 200,
       "note": "技术问答（sites 公开接口）"
     }
