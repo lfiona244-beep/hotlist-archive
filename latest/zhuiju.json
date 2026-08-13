@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "total": 94,
   "available": 59,
   "available_rate": 62.8,
@@ -19,10 +19,10 @@
     "雪落影视",
     "多瑙影视",
     "白嫖者联盟",
-    "青空次元",
     "APP影院",
     "爱电影",
-    "爱壹帆"
+    "爱壹帆",
+    "Auete影视"
   ],
   "restricted": [
     {
@@ -68,6 +68,10 @@
   ],
   "broken": [
     {
+      "name": "青空次元",
+      "status": "unreachable"
+    },
+    {
       "name": "金牌影视",
       "status": "unreachable"
     },
@@ -81,10 +85,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "小马",
       "status": "unreachable"
     },
     {
