@@ -7,9 +7,11 @@ hotlist-archive 每日自动化抓取脚本
   data/YYYY/MM/DD/   每日原始数据
     - hotlist.json   全网热榜（知乎/微博/抖音/头条）
     - news.json      每日新闻 60s
-    - weather.json   广州天气
+    - weather.json   广州天气（Open-Meteo 替代方案备用）
     - fuel.json      广东油价
     - today.json     历史上的今天
+    - zhihu_daily.json  知乎日报精选（RSS）
+    - bilibili.json     B站热门视频
     - summary.json   当天汇总
   latest/            最新数据固定路径（AI 快速读取）
     - brief.json     开工简报（天气+油价+新闻+热点 一页纸）
@@ -109,6 +111,53 @@ def main():
         write_json(f"{dir_path}/today.json", today_hist)
         print("  ✅")
 
+    # 5b. 知乎日报每日精选
+    print("\n📖 知乎日报精选...")
+    zhihu_daily = []
+    try:
+        req = urllib.request.Request(
+            "https://ghfast.top/https://raw.githubusercontent.com/zzkeier/gen_zhihu_daily/main/zhihu.xml",
+            headers={"User-Agent": UA}
+        )
+        with urllib.request.urlopen(req, timeout=20) as r:
+            xml_data = r.read().decode("utf-8")
+        import re
+        entries = re.findall(r'<item>([\s\S]*?)</item>', xml_data)
+        for entry in entries[:12]:
+            title = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', entry)
+            link = re.search(r'<link>(.*?)</link>', entry)
+            desc = re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', entry)
+            if title:
+                zhihu_daily.append({
+                    "title": title.group(1),
+                    "link": link.group(1) if link else "",
+                    "description": desc.group(1)[:300] if desc else ""
+                })
+        write_json(f"{dir_path}/zhihu_daily.json", zhihu_daily)
+        print(f"  ✅ {len(zhihu_daily)} 条")
+    except Exception as e:
+        print(f"  ⚠️ 知乎日报抓取失败: {e}")
+
+    # 5c. B站热门
+    print("\n📺 B站热门...")
+    bili_hot = []
+    bili = fetch("https://api.bilibili.com/x/web-interface/popular?ps=20", "B站热门")
+    if bili and bili.get("code") == 0:
+        bili_data = bili.get("data", {}).get("list", [])
+        for v in bili_data[:15]:
+            bili_hot.append({
+                "title": v.get("title", ""),
+                "play": v.get("stat", {}).get("view", 0),
+                "like": v.get("stat", {}).get("like", 0),
+                "author": v.get("owner", {}).get("name", ""),
+                "bvid": v.get("bvid", ""),
+                "url": f"https://www.bilibili.com/video/{v.get('bvid', '')}",
+            })
+        write_json(f"{dir_path}/bilibili.json", bili_hot)
+        print(f"  ✅ {len(bili_hot)} 条")
+    else:
+        print(f"  ⚠️ B站热门抓取失败
+
     # 6. 油价变动检测（对比昨天的 latest/fuel.json 是当日覆盖前的旧值，所以存昨日副本）
     print("\n📊 油价变动检测...")
     fuel_changed = False
@@ -185,6 +234,8 @@ def main():
         "has_fuel": fuel is not None,
         "fuel_changed": fuel_changed,
         "fuel_change_detail": fuel_change_detail,
+        "has_zhihu_daily": len(zhihu_daily) > 0,
+        "has_bilibili": len(bili_hot) > 0,
     }
     write_json(f"{dir_path}/summary.json", summary)
     print(f"  ✅ {dir_path}/summary.json")
