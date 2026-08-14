@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "total": 94,
-  "available": 59,
-  "available_rate": 62.8,
+  "available": 60,
+  "available_rate": 63.8,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -19,10 +19,10 @@
     "雪落影视",
     "多瑙影视",
     "白嫖者联盟",
+    "青空次元",
     "APP影院",
     "爱电影",
-    "爱壹帆",
-    "Auete影视"
+    "爱壹帆"
   ],
   "restricted": [
     {
@@ -67,10 +67,6 @@
     }
   ],
   "broken": [
-    {
-      "name": "青空次元",
-      "status": "unreachable"
-    },
     {
       "name": "金牌影视",
       "status": "unreachable"
