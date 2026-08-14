@@ -23,6 +23,9 @@ jobs:
       - name: 运行抓取脚本
         run: python3 scripts/archive.py
 
+      - name: 运行数据清洗
+        run: python3 scripts/clean.py
+
       - name: 提交并推送
         run: |
           git config user.name "hotlist-bot"
