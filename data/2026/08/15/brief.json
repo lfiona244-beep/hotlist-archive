@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T04:42:12.831807+08:00",
+  "generated_at": "2026-08-15T04:47:28.759490+08:00",
   "weather": null,
   "fuel": null,
   "fuel_changed": false,
@@ -34,7 +34,7 @@
     },
     {
       "platform": "微博",
-      "title": "Wenbo受伤"
+      "title": "台风白海豚"
     },
     {
       "platform": "微博",
@@ -51,6 +51,10 @@
     {
       "platform": "抖音",
       "title": "国防部：敦促日方认罪赎罪"
+    },
+    {
+      "platform": "头条",
+      "title": "台风白海豚杀了个“回马枪”"
     }
   ],
   "today_in_history": []
