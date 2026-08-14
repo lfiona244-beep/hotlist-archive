@@ -156,8 +156,7 @@ def main():
         write_json(f"{dir_path}/bilibili.json", bili_hot)
         print(f"  ✅ {len(bili_hot)} 条")
     else:
-        print(f"  ⚠️ B站热门抓取失败
-
+        print(f"  ⚠️ B站热门抓取失败")
     # 6. 油价变动检测（对比昨天的 latest/fuel.json 是当日覆盖前的旧值，所以存昨日副本）
     print("\n📊 油价变动检测...")
     fuel_changed = False
