@@ -1,27 +1,50 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T04:47:34.681021+08:00",
-  "total_raw": 179,
-  "total_cleaned": 179,
+  "generated_at": "2026-08-15T10:49:38.478016+08:00",
+  "total_raw": 129,
+  "total_cleaned": 128,
   "category_stats": {
-    "娱乐": 18,
-    "科技": 9,
-    "其他": 130,
+    "其他": 85,
+    "娱乐": 16,
+    "体育": 3,
+    "财经": 3,
     "社会": 8,
-    "财经": 7,
-    "体育": 2,
+    "游戏": 1,
     "动漫": 2,
-    "生活": 2,
-    "游戏": 1
+    "科技": 8,
+    "生活": 2
   },
-  "hotspot": [],
-  "top_trending": [
+  "hotspot": [
     {
-      "title": "台风白海豚杀了个“回马枪”",
+      "title": "郭宇欣新剧清醒到让人心疼",
       "platforms": [
-        "toutiao"
+        "weibo",
+        "douyin"
       ],
       "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "印尼7.7级强震或引发区域海啸",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "日本战败投降81周年",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "具身智能机器人扎堆进厂干活",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
     },
     {
       "title": "国防部：敦促日方认罪赎罪",
@@ -31,63 +54,7 @@
       "category": "其他"
     },
     {
-      "title": "江泽民诞辰100周年纪念币将发行",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "周口贾鲁河溃口正开展封堵作业",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "我国生态环境质量持续向好",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
       "title": "七夕约会怎么穿",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "想和你一起去海边看晚霞",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "人工智能激活力 “新”意盎然促发展",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "WTT瑞典站国乒男女双遭淘汰",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "浙江省博一周内两次道歉",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中国公开赛周跃龙6:5吉尔伯特",
       "platforms": [
         "douyin"
       ],
@@ -108,6 +75,20 @@
       "category": "其他"
     },
     {
+      "title": "想和你一起去海边看晚霞",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "秋天是韩系穿搭的统治区",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
       "title": "娃圈黑色穿搭大赏",
       "platforms": [
         "douyin"
@@ -115,53 +96,81 @@
       "category": "生活"
     },
     {
-      "title": "JDG战胜NOVA",
+      "title": "北京雷雨",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
+    },
+    {
+      "title": "水利部升级发布洪水黄色预警",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "致所有00后蛋仔的一封信",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "本周谣言鉴赏",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "电影空枪8月19日全国上映",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "娱乐"
     }
   ],
   "bilibili": [
     {
-      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-      "author": "WasteTheFallen",
-      "play": 5158246
-    },
-    {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "author": "里无敌本人",
-      "play": 992001
+      "play": 3381125
     },
     {
-      "title": "《下一个是谁》音乐特辑",
-      "author": "雨哥到处跑",
-      "play": 974736
+      "title": "我实现了我儿时的梦想",
+      "author": "李炮炮儿",
+      "play": 893706
+    },
+    {
+      "title": "《影之刃零》预购开启，11分钟实机预告公开",
+      "author": "影之刃零",
+      "play": 13741289
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第1集 遗忘的过去【8月国创】",
       "author": "哔哩哔哩国创",
-      "play": 2265612
+      "play": 2456068
     },
     {
       "title": "用MC还原《神的随波逐流》 【B萌应援】",
       "author": "dawn214",
-      "play": 1304675
-    },
-    {
-      "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
-      "author": "神·潜行瞬杀",
-      "play": 2075113
-    },
-    {
-      "title": "【火遮眼】浪客剑心武指执导，年度最爽打戏！",
-      "author": "哔哩哔哩电影",
-      "play": 710354
+      "play": 1562477
     },
     {
       "title": "老王出息了，今天带家人们一起探班龙餐馆的幕后~",
       "author": "老王在中国",
-      "play": 890858
+      "play": 1295664
+    },
+    {
+      "title": "【火遮眼】浪客剑心武指执导，年度最爽打戏！",
+      "author": "哔哩哔哩电影",
+      "play": 771420
+    },
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "author": "你的影月月",
+      "play": 5495223
     }
   ],
   "zhihu_daily": []
