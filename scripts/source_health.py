@@ -32,6 +32,7 @@ SOURCES = {
     "美股日报": ("https://finews.elsetech.app/", 200, "美股盘后日报"),
     "Bing搜索": ("https://www.bing.com", 200, "中文搜索兜底"),
     "StackExchange": ("https://api.stackexchange.com/2.3/sites", 200, "技术问答（sites 公开接口）"),
+    "EcoHub追剧": ("https://eco.fe-spark.cn/", 200, "主追剧源（Next.js 聚合站）"),
 }
 
 
