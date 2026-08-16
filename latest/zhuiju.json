@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "total": 94,
-  "available": 58,
-  "available_rate": 61.7,
+  "available": 59,
+  "available_rate": 62.8,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -85,10 +85,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "小马",
       "status": "unreachable"
     },
     {
