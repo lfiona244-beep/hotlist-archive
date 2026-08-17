@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "total": 94,
-  "available": 59,
-  "available_rate": 62.8,
+  "available": 56,
+  "available_rate": 59.6,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -19,10 +19,10 @@
     "雪落影视",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
-    "Auete影视"
+    "Auete影视",
+    "电影人生"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -60,10 +64,6 @@
     {
       "name": "影猫仓库",
       "status": "受限 HTTP 403"
-    },
-    {
-      "name": "SubHD",
-      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
@@ -88,7 +88,15 @@
       "status": "unreachable"
     },
     {
+      "name": "射手网(伪)",
+      "status": "unreachable"
+    },
+    {
       "name": "VOX",
+      "status": "unreachable"
+    },
+    {
+      "name": "美剧粉",
       "status": "unreachable"
     }
   ]
