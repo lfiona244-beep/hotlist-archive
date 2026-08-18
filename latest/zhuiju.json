@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "total": 94,
-  "available": 56,
-  "available_rate": 59.6,
+  "available": 49,
+  "available_rate": 52.1,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -88,15 +88,11 @@
       "status": "unreachable"
     },
     {
-      "name": "射手网(伪)",
-      "status": "unreachable"
-    },
-    {
       "name": "VOX",
       "status": "unreachable"
     },
     {
-      "name": "美剧粉",
+      "name": "奈飞工厂",
       "status": "unreachable"
     }
   ]
