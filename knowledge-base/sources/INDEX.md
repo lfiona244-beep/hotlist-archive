@@ -120,6 +120,13 @@
 | 文件 | 内容 | 类型 |
 |------|------|------|
 | github-sex-ed-resources.md | GitHub 两性知识项目清单（性教育/工具/资源） | 导航 |
+| 两性健康知识.md | WHO/Planned Parenthood权威内容整合（STI/避孕/就医指南） | 知识 |
+
+## 🔍 RAG快速问答
+
+| 文件 | 内容 | 类型 |
+|------|------|------|
+| rag快速问答开源项目.md | GitHub RAG项目清单（Chat2Anything/KnowledgeRAG等10+项目） | 导航 |
 
 ## 🔧 其他
 
