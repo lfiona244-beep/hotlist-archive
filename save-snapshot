@@ -1,0 +1,24 @@
+#!/bin/bash
+# save — 一键保存：git快照 → 坚果云记忆增量（次） → 验证
+# ⚠️ 不再自动push GitHub，改为定期任务（github-push-daily.sh）
+cd /workspace
+
+# 1. git 提交本地快照
+git add -A
+if git diff --cached --quiet; then
+    echo "✅ 没有新变更"
+else
+    git commit -m "📝 快照 $(date '+%Y-%m-%d %H:%M')"
+    echo "✅ 已保存快照"
+fi
+
+# 2. 坚果云只同步记忆数据（小文件增量，快）
+echo "☁️  坚果云记忆增量同步..."
+rclone sync /workspace/memory/ jianguoyun:_AI_RECOVERY_/memory/ \
+    --exclude "*.tar.gz" 2>/dev/null && echo "✅ 记忆已同步" || echo "⚠️  记忆同步跳过"
+
+# 3. 交叉验证（本地 vs GitHub）
+if command -v backup-verify >/dev/null 2>&1; then
+    echo "🔍 交叉验证..."
+    backup-verify 2>/dev/null | tail -5
+fi

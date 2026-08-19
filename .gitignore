@@ -1,0 +1,21 @@
+# 密钥文件
+.github_token
+.gmail_imap
+.iriz_key
+.iriz_agnes_key
+.iriz_key_new
+.iriz_qwen_key
+.sensenova_key
+
+# 缓存目录
+.cache/
+__pycache__/
+dev-tools/__pycache__/
+dev-tools/tests/
+dev-tools/skillcheck/
+
+# 其他
+.git-rewrite/
+RSSHub/
+agent/
+books/
