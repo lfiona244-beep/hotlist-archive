@@ -274,7 +274,7 @@ def search(query: str, limit: int = 10) -> list:
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="知识库搜索")
-    parser.add_argument("query", help="搜索关键词")
+    parser.add_argument("query", nargs="?", help="搜索关键词")
     parser.add_argument("--json", action="store_true", help="输出JSON格式")
     parser.add_argument("--limit", type=int, default=10, help="返回结果数")
     parser.add_argument("--rebuild", action="store_true", help="重建索引")
@@ -288,6 +288,10 @@ def main():
     
     if not os.path.exists(DB_PATH):
         build_index()
+    
+    if not args.query:
+        print("❌ 请提供搜索关键词，或使用 --rebuild 重建索引")
+        return 1
     
     results = search(args.query, args.limit)
     
