@@ -1,0 +1,102 @@
+{
+  "code": 200,
+  "message": "获取成功。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。",
+  "data": {
+    "date": "8-20",
+    "month": 8,
+    "day": 20,
+    "items": [
+      {
+        "title": "美国第23任总统本杰明·哈里森出生",
+        "year": "1833",
+        "description": "本杰明·哈里森是美国第23任总统。他受到良好的教育，毕业于迈阿密大学，毕业后操律师业。南北战争期间参加联邦军，获将军衔。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E5%93%88%E9%87%8C%E6%A3%AE"
+      },
+      {
+        "title": "日本外交家陆奥宗光出生",
+        "year": "1844",
+        "description": "陆奥宗光（1844年8月20日－1897年8月24日） 是日本明治时代的政治家和外交官。又名陆奥阳之助，正二位，勋一等，伯爵。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E9%99%86%E5%A5%A5%E5%AE%97%E5%85%89"
+      },
+      {
+        "title": "德国哲学家谢林逝世",
+        "year": "1854",
+        "description": "弗里德里希·威廉·约瑟夫·冯·谢林（Friedrich Wilhelm Joseph von Schelling，1775年1月27日－1854年8月20日）德国哲学家。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E8%B0%A2%E6%9E%97/12698"
+      },
+      {
+        "title": "诺贝尔生理或医学奖得主罗杰·斯佩里出生",
+        "year": "1913",
+        "description": "罗杰·斯佩里（Roger Wolcott Sperry，1913年8月20日－1994年4月17日）是一位美国神经生理学家，出生于康乃狄克州。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E7%BD%97%E6%9D%B0%C2%B7%E6%96%AF%E4%BD%A9%E9%87%8C"
+      },
+      {
+        "title": "德国细菌学家埃尔利希逝世",
+        "year": "1915",
+        "description": "保罗·埃尔利希（Paul Ehrlich，1854年3月14日－1915年8月20日）是一位德国科学家，曾经获得1908年的诺贝尔生理学或医学奖。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E4%BF%9D%E7%BD%97%C2%B7%E5%9F%83%E5%B0%94%E5%88%A9%E5%B8%8C"
+      },
+      {
+        "title": "廖仲恺被刺杀逝世",
+        "year": "1925",
+        "description": "廖仲恺（1877—1925）汉族客家人，原名恩煦，又名夷白，字仲恺。中国近代民主革命家、国民党左派政治家、中华民国政府财政部总长、中华民国军事委员会常务委员。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E5%BB%96%E4%BB%B2%E6%81%BA/44473"
+      },
+      {
+        "title": "诺贝尔化学奖得主白川英树出生",
+        "year": "1936",
+        "description": "白川英树（1936年－）日本化学家，2000年诺贝尔化学奖获得者。其主要贡献为导电高分子的研究。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E7%99%BD%E5%B7%9D%E8%8B%B1%E6%A0%91"
+      },
+      {
+        "title": "八路军发动“百团大战”",
+        "year": "1940",
+        "description": "百团大战是中国抗日战争时期，中国共产党领导下的八路军、新四军与日军在中国华北地区晋察冀边区发生的一次规模最大、持续时间最长的战役。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98/13411"
+      },
+      {
+        "title": "印度前总理拉吉夫·甘地出生",
+        "year": "1944",
+        "description": "拉吉夫·甘地 Rajiv Gandhi1944年8月20日出生于孟买，1991年5月21日逝世于印度泰米尔纳德邦斯克里伯鲁布德，是印度总理。",
+        "event_type": "birth",
+        "link": "https://baike.baidu.com/item/%E6%8B%89%E5%90%89%E5%A4%AB%C2%B7%E7%94%98%E5%9C%B0"
+      },
+      {
+        "title": "世界第一袋方便面“鸡汁面”问世",
+        "year": "1958",
+        "description": "日清食品公司的创始人安藤百福在传统的面条和拉面的基础上，加入一些食用油，经过脱水处理，变成了方便面。1958年，他销售了全球第一袋方便面——袋装鸡汤拉面。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E6%96%B9%E4%BE%BF%E9%9D%A2/648"
+      },
+      {
+        "title": "塞内加尔共和国成立",
+        "year": "1960",
+        "description": "塞内加尔位于非洲西部凸出部位的最西端，首都达喀尔。北接毛里塔尼亚，东邻马里，南接几内亚和几内亚比绍，西临佛得角群岛。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94"
+      },
+      {
+        "title": "中国第一条高速公路沈大高速全线试通车",
+        "year": "1990",
+        "description": "沈阳—大连高速公路，简称“沈大高速”，中国辽宁省境内高速公路线路，为中国国家高速公路网纵向干线的构成路段。",
+        "event_type": "event",
+        "link": "https://baike.baidu.com/item/%E6%B2%88%E5%A4%A7%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF"
+      },
+      {
+        "title": "中华人民共和国前领导人华国锋逝世",
+        "year": "2008",
+        "description": "华国锋，1921年生，山西交城人。中国共产党的优秀党员，久经考验的忠诚的共产主义战士，无产阶级革命家，曾担任党和国家重要领导职务，为中国革命、建设、改革奉献了毕生精力。",
+        "event_type": "death",
+        "link": "https://baike.baidu.com/item/%E5%8D%8E%E5%9B%BD%E9%94%8B"
+      }
+    ]
+  }
+}
