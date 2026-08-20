@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "total": 94,
-  "available": 50,
-  "available_rate": 53.2,
+  "available": 49,
+  "available_rate": 52.1,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -19,10 +19,10 @@
     "雪落影视",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
-    "Auete影视"
+    "Auete影视",
+    "电影人生"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -59,10 +63,6 @@
     },
     {
       "name": "影猫仓库",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "SeleneTV",
       "status": "受限 HTTP 403"
     }
   ],
