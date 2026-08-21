@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "total": 94,
   "available": 49,
   "available_rate": 52.1,
@@ -85,14 +85,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "小马",
-      "status": "unreachable"
-    },
-    {
-      "name": "VOX",
       "status": "unreachable"
     }
   ]
