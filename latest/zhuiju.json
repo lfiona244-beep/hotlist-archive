@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "total": 94,
-  "available": 58,
-  "available_rate": 61.7,
+  "available": 59,
+  "available_rate": 62.8,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -89,10 +89,6 @@
     },
     {
       "name": "小马",
-      "status": "unreachable"
-    },
-    {
-      "name": "拾光多仓",
       "status": "unreachable"
     }
   ]
