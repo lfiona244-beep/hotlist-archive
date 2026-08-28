@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "total": 94,
-  "available": 60,
-  "available_rate": 63.8,
+  "available": 59,
+  "available_rate": 62.8,
   "categories": {
     "online_video": 34,
     "video_app": 3,
@@ -22,7 +22,7 @@
     "APP影院",
     "爱电影",
     "爱壹帆",
-    "Auete影视"
+    "LIBVIO"
   ],
   "restricted": [
     {
@@ -46,10 +46,6 @@
       "status": "受限 HTTP 403"
     },
     {
-      "name": "LIBVIO",
-      "status": "受限 HTTP 403"
-    },
-    {
       "name": "黑夜影院",
       "status": "受限 HTTP 403"
     },
@@ -63,6 +59,10 @@
     },
     {
       "name": "SubHD",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "Kodi",
       "status": "受限 HTTP 403"
     }
   ],
@@ -85,6 +85,10 @@
     },
     {
       "name": "字幕库",
+      "status": "unreachable"
+    },
+    {
+      "name": "4K原盘",
       "status": "unreachable"
     }
   ]
