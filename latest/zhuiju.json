@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "total": 114,
   "available": 71,
   "available_rate": 62.3,
@@ -19,10 +19,10 @@
     "雪落影视",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
-    "LIBVIO"
+    "Auete影视",
+    "电影人生"
   ],
   "restricted": [
     {
@@ -38,11 +38,19 @@
       "status": "受限 HTTP 403"
     },
     {
+      "name": "APP影院",
+      "status": "受限 HTTP 403"
+    },
+    {
       "name": "937影视",
       "status": "受限 HTTP 403"
     },
     {
       "name": "厂长资源",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "LIBVIO",
       "status": "受限 HTTP 403"
     },
     {
@@ -55,14 +63,6 @@
     },
     {
       "name": "影猫仓库",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "SubHD",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "Kodi",
       "status": "受限 HTTP 403"
     }
   ],
@@ -85,10 +85,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "小马",
       "status": "unreachable"
     },
     {
