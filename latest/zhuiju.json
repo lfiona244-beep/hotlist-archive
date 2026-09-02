@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "total": 114,
-  "available": 72,
-  "available_rate": 63.2,
+  "available": 70,
+  "available_rate": 61.4,
   "categories": {
     "online_video": 49,
     "video_app": 3,
@@ -85,6 +85,14 @@
     },
     {
       "name": "字幕库",
+      "status": "unreachable"
+    },
+    {
+      "name": "SA视频",
+      "status": "unreachable"
+    },
+    {
+      "name": "蛋蛋奇",
       "status": "unreachable"
     },
     {
