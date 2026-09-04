@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "total": 114,
-  "available": 71,
-  "available_rate": 62.3,
+  "available": 69,
+  "available_rate": 60.5,
   "categories": {
     "online_video": 49,
     "video_app": 3,
@@ -85,6 +85,14 @@
     },
     {
       "name": "字幕库",
+      "status": "unreachable"
+    },
+    {
+      "name": "小马",
+      "status": "unreachable"
+    },
+    {
+      "name": "POMO",
       "status": "unreachable"
     },
     {
