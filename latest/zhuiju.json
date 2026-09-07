@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "total": 114,
   "available": 69,
   "available_rate": 60.5,
@@ -89,10 +89,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "POMO",
       "status": "unreachable"
     },
     {
