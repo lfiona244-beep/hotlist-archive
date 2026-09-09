@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "total": 114,
-  "available": 70,
-  "available_rate": 61.4,
+  "available": 68,
+  "available_rate": 59.6,
   "categories": {
     "online_video": 49,
     "video_app": 3,
@@ -92,15 +92,19 @@
       "status": "unreachable"
     },
     {
+      "name": "小马",
+      "status": "unreachable"
+    },
+    {
+      "name": "POMO",
+      "status": "unreachable"
+    },
+    {
       "name": "蛋蛋奇",
       "status": "unreachable"
     },
     {
       "name": "影视大全",
-      "status": "unreachable"
-    },
-    {
-      "name": "歪比巴卜",
       "status": "unreachable"
     }
   ]
