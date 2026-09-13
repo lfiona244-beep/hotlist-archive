@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-12",
-  "total": 114,
-  "available": 66,
-  "available_rate": 57.9,
+  "date": "2026-09-13",
+  "total": 117,
+  "available": 67,
+  "available_rate": 57.3,
   "categories": {
-    "online_video": 49,
-    "video_app": 3,
+    "online_video": 52,
+    "video_app": 4,
     "subtitles": 3,
     "player": 7,
     "subscription": 1,
     "tvbox_config": 15,
     "magnet_search": 16,
     "cloud_search": 4,
-    "open_source": 16
+    "open_source": 15
   },
   "available_samples": [
     "搜TV啦",
@@ -68,23 +68,11 @@
   ],
   "broken": [
     {
-      "name": "多瑙影视",
-      "status": "unreachable"
-    },
-    {
       "name": "金牌影视",
       "status": "unreachable"
     },
     {
-      "name": "PPnix",
-      "status": "unreachable"
-    },
-    {
       "name": "91毒舌",
-      "status": "unreachable"
-    },
-    {
-      "name": "光速影视",
       "status": "unreachable"
     },
     {
@@ -96,15 +84,23 @@
       "status": "unreachable"
     },
     {
+      "name": "摸鱼儿",
+      "status": "unreachable"
+    },
+    {
+      "name": "找电影时光",
+      "status": "unreachable"
+    },
+    {
       "name": "POMO",
       "status": "unreachable"
     },
     {
-      "name": "蛋蛋奇",
+      "name": "歪比巴卜",
       "status": "unreachable"
     },
     {
-      "name": "影视大全",
+      "name": "可可影视",
       "status": "unreachable"
     }
   ]
