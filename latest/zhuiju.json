@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "total": 117,
-  "available": 69,
-  "available_rate": 59.0,
+  "available": 68,
+  "available_rate": 58.1,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -85,6 +85,10 @@
     },
     {
       "name": "摸鱼儿",
+      "status": "unreachable"
+    },
+    {
+      "name": "VOX",
       "status": "unreachable"
     },
     {
