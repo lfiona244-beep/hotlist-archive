@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "total": 117,
-  "available": 67,
-  "available_rate": 57.3,
+  "available": 66,
+  "available_rate": 56.4,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -100,11 +100,11 @@
       "status": "unreachable"
     },
     {
-      "name": "歪比巴卜",
+      "name": "POMO",
       "status": "unreachable"
     },
     {
-      "name": "可可影视",
+      "name": "歪比巴卜",
       "status": "unreachable"
     }
   ]
