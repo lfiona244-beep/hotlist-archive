@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
 
     steps:
       - name: 检出仓库
@@ -25,6 +26,8 @@ jobs:
 
       - name: 在线源健康巡检
         run: python3 scripts/source_health.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 提交并推送
         run: |
