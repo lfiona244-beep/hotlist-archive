@@ -6,7 +6,7 @@ hotlist-archive 每日自动化抓取脚本
 数据源（2026-09-30 换源，原全部走 60s.viki.moe）：
   - 天气：Open-Meteo（2026-09-29 起，60s/weather 源失效改用）
   - 热榜：抖音/头条/百度官方直连（60s 全线失效后改用）
-  - 新闻：知乎日报 news-at.zhihu.com
+  - 新闻：少数派 → 知乎日报（降级链；少数派海外可达，知乎日报对海外限流）
   - 油价：qiyoujiage.com（按省份）
   - 历史：百度百科 CMS 静态 JSON
   - 知乎日报：RSS
@@ -20,7 +20,7 @@ hotlist-archive 每日自动化抓取脚本
 输出目录：
   data/YYYY/MM/DD/   每日原始数据
     - hotlist.json   全网热榜（抖音/头条/百度）
-    - news.json      每日资讯（知乎日报）
+    - news.json      每日资讯（少数派/知乎日报）
     - weather.json   广州天气（Open-Meteo）
     - fuel.json      广东油价
     - today.json     历史上的今天
@@ -166,14 +166,14 @@ def main():
     write_json(f"{dir_path}/hotlist.json", {"date": date_str, "platforms": hotlist})
     print(f"  💾 {dir_path}/hotlist.json")
 
-    # 2. 每日资讯（知乎日报，原 60s/60s 已失效）
-    print("\n📰 每日资讯（知乎日报）...")
-    news_items = fs.news_zhihu_daily(12)
+    # 2. 每日资讯（少数派 → 知乎日报降级链；原 60s/60s 已失效）
+    print("\n📰 每日资讯...")
+    news_items, news_src = fs.news(12)
     # ⚠️ 保持原 JSON 契约 {"data": {"news": [...]}}：clean.py 按 news["data"]["news"] 读。
     news = {"data": {"news": news_items, "tip": None}}
     if news_items:
         write_json(f"{dir_path}/news.json", news)
-        print(f"  ✅ {len(news_items)} 条")
+        print(f"  ✅ {len(news_items)} 条（来源 {news_src}）")
     else:
         print("  ⚠️ 无数据")
 
