@@ -37,6 +37,14 @@ def _get_json(url, headers=None, timeout=10):
     return json.loads(_get(url, headers, timeout))
 
 
+def _to_int(v):
+    """热度值统一成 int。各源有的给数字有的给字符串，clean.py 按数字排序会崩。"""
+    try:
+        return int(v)
+    except (TypeError, ValueError):
+        return 0
+
+
 # ── 热榜（三个官方直连源）────────────────────────────────────────
 
 def hot_douyin(limit=10):
@@ -45,7 +53,7 @@ def hot_douyin(limit=10):
         d = _get_json("https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/"
                       "?aid=1128&version_code=880")
         words = (d.get("data") or {}).get("word_list") or []
-        return [{"title": w.get("word", ""), "hot": w.get("hot_value", "")} for w in words[:limit]]
+        return [{"title": w.get("word", ""), "hot": _to_int(w.get("hot_value"))} for w in words[:limit]]
     except Exception:
         return []
 
@@ -54,7 +62,7 @@ def hot_toutiao(limit=10):
     """头条热榜。需浏览器 UA。"""
     try:
         d = _get_json("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc")
-        return [{"title": x.get("Title", ""), "hot": x.get("HotValue", "")}
+        return [{"title": x.get("Title", ""), "hot": _to_int(x.get("HotValue"))}
                 for x in (d.get("data") or [])[:limit]]
     except Exception:
         return []
@@ -75,7 +83,7 @@ def hot_baidu(limit=10):
             inner = cards[0].get("content") or []
             content = (inner[0].get("content") if inner and isinstance(inner[0], dict)
                        else inner) or []
-        return [{"title": c.get("word") or c.get("query", ""), "hot": c.get("hotScore", "")}
+        return [{"title": c.get("word") or c.get("query", ""), "hot": _to_int(c.get("hotScore"))}
                 for c in content[:limit]]
     except Exception:
         return []
