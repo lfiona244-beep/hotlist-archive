@@ -1,9 +1,9 @@
 {
   "date": "2026-09-29",
-  "fetched_at": "2026-09-29T15:52:34.442163+08:00",
+  "fetched_at": "2026-09-29T23:59:00.467016+08:00",
   "has_hotlist": false,
   "has_news": false,
-  "has_weather": false,
+  "has_weather": true,
   "has_fuel": false,
   "fuel_changed": false,
   "fuel_change_detail": "",
