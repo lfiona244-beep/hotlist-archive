@@ -13,6 +13,9 @@ hotlist-archive 每日自动化抓取脚本
   - B站热门：api.bilibili.com
   ⚠️ 60s.viki.moe 2026-09-29 起全线失效（429/400/403），四段长期输出空。
      统一走 scripts/free_sources.py（本地 dev-tools/free_sources.py 同源）。
+  ⚠️ JSON 契约保持不变（clean.py / archive-query.py 依赖）：
+     hotlist.json  {"date":.., "platforms": {"douyin": {"data":[...]}, ...}}
+     news.json     {"data": {"news": [...], "tip": ...}}
 
 输出目录：
   data/YYYY/MM/DD/   每日原始数据
@@ -152,7 +155,9 @@ def main():
     for key, (name, fn) in platforms.items():
         items = fn(20)
         if items:
-            hotlist[key] = items
+            # ⚠️ 保持原 JSON 契约 {"data": [...]}：clean.py 和本地 archive-query.py
+            # 都按 platforms[key]["data"] 读（2026-09-30 踩坑：写成裸 list 会让两者崩）。
+            hotlist[key] = {"data": items}
             print(f"  ✅ {name}: {len(items)} 条")
         else:
             hotlist[key] = None
@@ -164,7 +169,8 @@ def main():
     # 2. 每日资讯（知乎日报，原 60s/60s 已失效）
     print("\n📰 每日资讯（知乎日报）...")
     news_items = fs.news_zhihu_daily(12)
-    news = {"date": date_str, "news": news_items, "source": "zhihu_daily"}
+    # ⚠️ 保持原 JSON 契约 {"data": {"news": [...]}}：clean.py 按 news["data"]["news"] 读。
+    news = {"data": {"news": news_items, "tip": None}}
     if news_items:
         write_json(f"{dir_path}/news.json", news)
         print(f"  ✅ {len(news_items)} 条")
@@ -284,7 +290,7 @@ def main():
     # 多平台共同热点（取各平台前5条标题合并去重）
     seen = set()
     for key, (name, _fn) in platforms.items():
-        items = hotlist.get(key) or []
+        items = (hotlist.get(key) or {}).get("data", [])
         for it in items[:5]:
             title = it.get("title") or ""
             if title and title not in seen:
