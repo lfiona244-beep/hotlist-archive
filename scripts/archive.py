@@ -206,23 +206,19 @@ def main():
     # 5b. 知乎日报每日精选（RSS）
     print("\n📖 知乎日报精选（RSS）...")
     zhihu_daily = []
-    # ⚠️ 2026-09-30 修：原来硬编码 ghfast.top 代理前缀——GitHub Actions 在海外，
-    # 直连 raw.githubusercontent.com 本来就通，加代理反而被卡住取不到。
-    # 改成直连优先、代理兜底（本地网络直连慢，代理才需要）。
-    _rss_paths = [
-        "https://raw.githubusercontent.com/zzkeier/gen_zhihu_daily/main/zhihu.xml",
-        "https://ghfast.top/https://raw.githubusercontent.com/zzkeier/gen_zhihu_daily/main/zhihu.xml",
-    ]
+    # ⚠️ 2026-09-30 修两处：
+    #  ① 原来硬编码 ghfast.top 代理前缀——GitHub Actions 在海外，代理反而卡住。
+    #  ② raw.githubusercontent.com 在本网络实测直连不通（curl 返回 000），
+    #     改走 GitHub contents API 取文件（api.github.com 稳），任何网络都能取。
     xml_data = None
-    for _u in _rss_paths:
-        try:
-            req = urllib.request.Request(_u, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=20) as r:
-                xml_data = r.read().decode("utf-8")
-            if xml_data:
-                break
-        except Exception:
-            continue
+    try:
+        _api = ("https://api.github.com/repos/zzkeier/gen_zhihu_daily/contents/zhihu.xml")
+        req = urllib.request.Request(_api, headers={
+            "User-Agent": UA, "Accept": "application/vnd.github.raw+json"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            xml_data = r.read().decode("utf-8")
+    except Exception as e:
+        print(f"  ⚠️ RSS 源取不到: {e}")
     try:
         import re
         entries = re.findall(r'<item>([\s\S]*?)</item>', xml_data or "")
