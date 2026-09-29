@@ -3,16 +3,21 @@
 hotlist-archive 每日自动化抓取脚本
 用于 GitHub Actions 定时执行
 
-数据源：
-  - 天气：Open-Meteo（2026-09-29 起，60s.viki.moe/weather 源失效改用）
-  - 热榜/新闻/油价/历史：60s.viki.moe（免费公开 API，部分模块限流时该日空缺）
+数据源（2026-09-30 换源，原全部走 60s.viki.moe）：
+  - 天气：Open-Meteo（2026-09-29 起，60s/weather 源失效改用）
+  - 热榜：抖音/头条/百度官方直连（60s 全线失效后改用）
+  - 新闻：知乎日报 news-at.zhihu.com
+  - 油价：qiyoujiage.com（按省份）
+  - 历史：百度百科 CMS 静态 JSON
   - 知乎日报：RSS
   - B站热门：api.bilibili.com
+  ⚠️ 60s.viki.moe 2026-09-29 起全线失效（429/400/403），四段长期输出空。
+     统一走 scripts/free_sources.py（本地 dev-tools/free_sources.py 同源）。
 
 输出目录：
   data/YYYY/MM/DD/   每日原始数据
-    - hotlist.json   全网热榜（知乎/微博/抖音/头条）
-    - news.json      每日新闻 60s
+    - hotlist.json   全网热榜（抖音/头条/百度）
+    - news.json      每日资讯（知乎日报）
     - weather.json   广州天气（Open-Meteo）
     - fuel.json      广东油价
     - today.json     历史上的今天
@@ -26,14 +31,16 @@ hotlist-archive 每日自动化抓取脚本
 
 import json
 import os
-import glob
+import sys
 import urllib.request
-import urllib.parse
 from datetime import datetime, timezone, timedelta
+
+# free_sources 与脚本同目录（GitHub Actions 从仓库根跑 python3 scripts/archive.py）
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import free_sources as fs
 
 # 北京时间
 TZ = timezone(timedelta(hours=8))
-BASE = "https://60s.viki.moe/v2"
 UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36"
 
 # 广州坐标（Open-Meteo 用）
@@ -134,31 +141,37 @@ def main():
     print(f"📦 开始抓取 {date_str}")
     print(f"   输出目录: {dir_path}")
 
-    # 1. 全网热榜
+    # 1. 全网热榜（官方直连三源）
     print("\n🔥 热榜获取中...")
     hotlist = {}
-    platforms = {"zhihu": "知乎", "weibo": "微博", "douyin": "抖音", "toutiao": "头条"}
-    for key, name in platforms.items():
-        data = fetch(f"{BASE}/{key}", f"{name}热榜")
-        if data:
-            hotlist[key] = data
-            n = len(data.get("data", [])) if isinstance(data, dict) else "?"
-            print(f"  ✅ {name}: {n} 条")
+    platforms = {
+        "douyin": ("抖音", fs.hot_douyin),
+        "toutiao": ("头条", fs.hot_toutiao),
+        "baidu": ("百度", fs.hot_baidu),
+    }
+    for key, (name, fn) in platforms.items():
+        items = fn(20)
+        if items:
+            hotlist[key] = items
+            print(f"  ✅ {name}: {len(items)} 条")
         else:
             hotlist[key] = None
+            print(f"  ⚠️ {name}: 无数据")
 
     write_json(f"{dir_path}/hotlist.json", {"date": date_str, "platforms": hotlist})
     print(f"  💾 {dir_path}/hotlist.json")
 
-    # 2. 每日新闻
-    print("\n📰 每日新闻...")
-    news = fetch(f"{BASE}/60s", "60s新闻")
-    if news:
+    # 2. 每日资讯（知乎日报，原 60s/60s 已失效）
+    print("\n📰 每日资讯（知乎日报）...")
+    news_items = fs.news_zhihu_daily(12)
+    news = {"date": date_str, "news": news_items, "source": "zhihu_daily"}
+    if news_items:
         write_json(f"{dir_path}/news.json", news)
-        n = len(news.get("data", [])) if isinstance(news, dict) else "?"
-        print(f"  ✅ {n} 条")
+        print(f"  ✅ {len(news_items)} 条")
+    else:
+        print("  ⚠️ 无数据")
 
-    # 3. 广州天气（Open-Meteo，2026-09-29 起替代 60s）
+    # 3. 广州天气（Open-Meteo）
     print("\n🌤️ 广州天气（Open-Meteo）...")
     weather = fetch_weather_om()
     if weather:
@@ -168,23 +181,27 @@ def main():
     else:
         print("  ⚠️ 天气抓取失败")
 
-    # 4. 广东油价
+    # 4. 广东油价（qiyoujiage.com）
     print("\n⛽ 广东油价...")
-    fuel = fetch(f"{BASE}/fuel-price?region={urllib.parse.quote('广东')}", "油价")
+    fuel = fs.fuel_price("广东", 4)
     if fuel:
         write_json(f"{dir_path}/fuel.json", fuel)
         write_json("latest/fuel.json", fuel)  # 覆盖最新
-        print("  ✅")
+        print(f"  ✅ {'  '.join(x['name'] + ' ' + x['price'] for x in fuel)}")
+    else:
+        print("  ⚠️ 油价抓取失败")
 
-    # 5. 历史上的今天
+    # 5. 历史上的今天（百度百科）
     print("\n📅 历史上的今天...")
-    today_hist = fetch(f"{BASE}/today-in-history", "历史上的今天")
+    today_hist = fs.today_in_history(limit=5)
     if today_hist:
         write_json(f"{dir_path}/today.json", today_hist)
-        print("  ✅")
+        print(f"  ✅ {len(today_hist)} 条")
+    else:
+        print("  ⚠️ 历史抓取失败")
 
-    # 5b. 知乎日报每日精选
-    print("\n📖 知乎日报精选...")
+    # 5b. 知乎日报每日精选（RSS）
+    print("\n📖 知乎日报精选（RSS）...")
     zhihu_daily = []
     try:
         req = urllib.request.Request(
@@ -229,19 +246,16 @@ def main():
         print(f"  ✅ {len(bili_hot)} 条")
     else:
         print(f"  ⚠️ B站热门抓取失败")
-    # 6. 油价变动检测（对比昨天的 latest/fuel.json 是当日覆盖前的旧值，所以存昨日副本）
+
+    # 6. 油价变动检测（对比昨天同路径的 fuel.json）
     print("\n📊 油价变动检测...")
     fuel_changed = False
     fuel_change_detail = ""
     yesterday_path = f"data/{now.year}/{now.month:02d}/{max(now.day-1,1):02d}/fuel.json"
     prev_fuel = read_json(yesterday_path) if os.path.exists(yesterday_path) else None
     if fuel and prev_fuel:
-        # 取价格字段做对比（各 API 版本字段不同，尽量通用）
-        def prices(d):
-            d = d.get("data", d) if isinstance(d, dict) else d
-            if isinstance(d, dict):
-                return {k: v for k, v in d.items() if isinstance(v, (int, float))}
-            return {}
+        def prices(lst):
+            return {x.get("name"): x.get("price") for x in lst if isinstance(x, dict)}
         cur_p = prices(fuel)
         old_p = prices(prev_fuel)
         if cur_p and old_p and cur_p != old_p:
@@ -255,40 +269,27 @@ def main():
 
     # 7. 生成开工简报（一页纸）
     print("\n📋 生成开工简报...")
-    news_list = []
-    if news:
-        nd = news.get("data", {})
-        news_list = nd.get("news", []) if isinstance(nd, dict) else []
     brief = {
         "date": date_str,
         "generated_at": now.isoformat(),
         "weather": weather,
-        "fuel": fuel.get("data", fuel) if fuel else None,
+        "fuel": fuel or None,
         "fuel_changed": fuel_changed,
         "fuel_change_detail": fuel_change_detail,
-        "news": news_list[:8],
-        "news_tip": (news.get("data", {}).get("tip") if news and isinstance(news.get("data"), dict) else None),
+        "news": [x["title"] for x in news_items[:8]],
+        "news_tip": None,
         "hot_topics": [],
-        "today_in_history": [],
+        "today_in_history": today_hist[:3],
     }
-    # 历史上的今天
-    if today_hist:
-        th = today_hist.get("data", today_hist)
-        if isinstance(th, dict):
-            th = th.get("items", [])
-        brief["today_in_history"] = th[:3] if isinstance(th, list) else []
     # 多平台共同热点（取各平台前5条标题合并去重）
     seen = set()
-    for key in platforms:
-        d = hotlist.get(key)
-        if not d:
-            continue
-        items = d.get("data", []) if isinstance(d, dict) else []
+    for key, (name, _fn) in platforms.items():
+        items = hotlist.get(key) or []
         for it in items[:5]:
-            title = it.get("title") or it.get("name") or ""
+            title = it.get("title") or ""
             if title and title not in seen:
                 seen.add(title)
-                brief["hot_topics"].append({"platform": platforms[key], "title": title})
+                brief["hot_topics"].append({"platform": name, "title": title})
             if len(brief["hot_topics"]) >= 10:
                 break
     write_json(f"{dir_path}/brief.json", brief)
@@ -299,10 +300,10 @@ def main():
     summary = {
         "date": date_str,
         "fetched_at": now.isoformat(),
-        "has_hotlist": hotlist.get("zhihu") is not None,
-        "has_news": news is not None,
+        "has_hotlist": any(hotlist.get(k) for k in platforms),
+        "has_news": bool(news_items),
         "has_weather": weather is not None,
-        "has_fuel": fuel is not None,
+        "has_fuel": bool(fuel),
         "fuel_changed": fuel_changed,
         "fuel_change_detail": fuel_change_detail,
         "has_zhihu_daily": len(zhihu_daily) > 0,
