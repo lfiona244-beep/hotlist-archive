@@ -8,6 +8,9 @@
   靠 Issue 邮件推送让异常主动浮出，不靠人主动查。
   去重：相同标题的 open Issue 已存在则不重复创建。
 
+2026-09-30 更新：60s.viki.moe 全线失效，原两条 60s 巡检项换成新数据源
+  （抖音热搜、知乎日报），否则巡检会一直报这两个已知失效的源。
+
 输出目录：
   data/YYYY/MM/DD/source-health.json   当日巡检报告
   latest/source-health.json            最新巡检报告（AI 快速读取）
@@ -29,8 +32,10 @@ UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36"
 TIMEOUT = 8
 
 SOURCES = {
-    "60s热榜API": ("https://60s.viki.moe/v2/zhihu", 200, "知乎热榜（hotlist 数据源）"),
-    "60s新闻API": ("https://60s.viki.moe/v2/60s", 200, "每日新闻60s"),
+    "抖音热搜API": ("https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/?aid=1128&version_code=880", 200, "抖音热榜（hotlist 数据源）"),
+    "知乎日报API": ("https://news-at.zhihu.com/api/4/news/latest", 200, "每日资讯（news 数据源）"),
+    "百度百科历史": ("https://baike.baidu.com/cms/home/eventsOnHistory/09.json", 200, "历史上的今天"),
+    "油价网": ("http://www.qiyoujiage.com/guangdong.shtml", 200, "广东油价"),
     "默沙东手册": ("https://www.msdmanuals.cn/home", 200, "心理健康权威源（kb-run 路径）"),
     "追剧导航站": ("https://zhuiju.me", 200, "awesome-zhuiju-free 官网"),
     "追剧资源JSON": ("https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json", 200, "94个追剧资源清单"),
