@@ -223,14 +223,17 @@ def main():
         import re
         entries = re.findall(r'<item>([\s\S]*?)</item>', xml_data or "")
         for entry in entries[:12]:
-            title = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', entry)
-            link = re.search(r'<link>(.*?)</link>', entry)
-            desc = re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', entry)
+            # ⚠️ title 有的带 CDATA 有的不带（2026-09-30 实测这个 RSS 不带），两种都兼容
+            title = (re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', entry, re.S)
+                     or re.search(r'<title>(.*?)</title>', entry, re.S))
+            link = re.search(r'<link>(.*?)</link>', entry, re.S)
+            desc = (re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', entry, re.S)
+                    or re.search(r'<description>(.*?)</description>', entry, re.S))
             if title:
                 zhihu_daily.append({
-                    "title": title.group(1),
-                    "link": link.group(1) if link else "",
-                    "description": desc.group(1)[:300] if desc else ""
+                    "title": title.group(1).strip(),
+                    "link": link.group(1).strip() if link else "",
+                    "description": desc.group(1).strip()[:300] if desc else ""
                 })
         write_json(f"{dir_path}/zhihu_daily.json", zhihu_daily)
         print(f"  ✅ {len(zhihu_daily)} 条")
