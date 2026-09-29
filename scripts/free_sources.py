@@ -15,7 +15,7 @@ free_sources.py — 免费公开数据源统一取数（2026-09-30 建）
   - 百度热搜  top.baidu.com（HTML 内嵌 s-data 注释里的 JSON）
   - 历史上的今天  baike.baidu.com（CMS 静态 JSON，按月一个文件）
   - 油价  qiyoujiage.com（HTML 表格，按省份）
-  - 新闻  知乎日报 news-at.zhihu.com（无 key JSON）
+  - 新闻  少数派（全球 CDN，海外也能取）→ 知乎日报（降级）
 
 ⚠️ 每个取数函数失败返回 None/[]，不抛异常——上游可能随时失效，
    调用方自行降级（数据源失效是常态，不该整份简报崩）。
@@ -134,12 +134,25 @@ def fuel_price(province="广东", limit=4):
         return []
 
 
-# ── 新闻（知乎日报，无 key JSON）─────────────────────────────────
+# ── 新闻（多源降级，无 key JSON）─────────────────────────────────
+
+def news_sspai(limit=8):
+    """少数派最新。无 key JSON，字段 data[].title。
+    有全球 CDN，GitHub Actions（海外）也能取到——知乎日报对海外 IP 限流。"""
+    try:
+        d = _get_json("https://sspai.com/api/v1/article/index/page/get?limit=10&offset=0")
+        return [{"title": x.get("title", ""), "url": f"https://sspai.com/post/{x.get('id', '')}"}
+                for x in (d.get("data") or [])[:limit]]
+    except Exception:
+        return []
+
 
 def news_zhihu_daily(limit=8):
     """知乎日报最新。无 key JSON，字段 stories[].title。
     ⚠️ 这是「话题式」新闻不是「快讯式」，跟原 60s 每日 8 条的形态不同——
-    当每日资讯摘要用，别当突发快讯。"""
+    当每日资讯摘要用，别当突发快讯。
+    ⚠️ 对海外 IP 限流，GitHub Actions 里取不到（2026-09-30 实测），
+    本地可用；archive.py 里作降级链的第二级。"""
     try:
         d = _get_json("https://news-at.zhihu.com/api/4/news/latest")
         return [{"title": s.get("title", ""), "url": s.get("url", "")}
@@ -148,10 +161,21 @@ def news_zhihu_daily(limit=8):
         return []
 
 
+def news(limit=8):
+    """每日资讯，多源降级：少数派 → 知乎日报。取到第一个非空的就返回。
+    返回 (items, source_name)。"""
+    for name, fn in [("sspai", news_sspai), ("zhihu_daily", news_zhihu_daily)]:
+        items = fn(limit)
+        if items:
+            return items, name
+    return [], "none"
+
+
 if __name__ == "__main__":
     print("抖音:", [x["title"] for x in hot_douyin(3)])
     print("头条:", [x["title"] for x in hot_toutiao(3)])
     print("百度:", [x["title"] for x in hot_baidu(3)])
     print("历史:", today_in_history())
     print("油价:", fuel_price())
-    print("新闻:", [x["title"] for x in news_zhihu_daily(3)])
+    n, src = news(3)
+    print(f"新闻({src}):", [x["title"] for x in n])
