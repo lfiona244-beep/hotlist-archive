@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T04:10:32.861121+08:00",
+  "generated_at": "2026-09-30T04:14:09.845059+08:00",
   "total_raw": 59,
   "total_cleaned": 58,
   "category_stats": {
@@ -65,7 +65,35 @@
       "category": "其他"
     },
     {
-      "title": "谁能享受房贷贴息",
+      "title": "陈妤颉最后一棒上演惊天逆转",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "陈妤颉极限反超混接4x100米夺冠",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "世纪工程如何给鱼儿开绿色通道",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "陈芋汐卢为包揽10米台冠亚军",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "房贷贴息后100万房贷月供能省多少",
       "platforms": [
         "toutiao"
       ],
@@ -79,27 +107,6 @@
       "category": "生活"
     },
     {
-      "title": "世纪工程如何给鱼儿开绿色通道",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "陈妤颉极限反超混接4x100米夺冠",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "陈妤颉最后一棒上演惊天逆转",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
       "title": "还没出发就已经出片了",
       "platforms": [
         "douyin"
@@ -107,14 +114,7 @@
       "category": "其他"
     },
     {
-      "title": "最好的祝福献给祖国",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "俄罗斯扩军到244万意味着什么",
+      "title": "朱亚文获金鹰最佳男配宋佳哭了",
       "platforms": [
         "toutiao"
       ],
@@ -128,46 +128,57 @@
       "category": "其他"
     }
   ],
+  "news": [
+    "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+    "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+    "可塑的白昼：ColorOS17 深度评测",
+    "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+    "派评 | 近期值得关注的 App",
+    "基于 Termux 的 Android 手机开发服务器实操",
+    "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+    "摸鱼+3 | 还剩三天班，一天一个解谜游戏"
+  ],
+  "news_tip": null,
   "bilibili": [
     {
       "title": "自学动画 爆肝俩月 自创一集《猫和老鼠》【手搓动画大赛】",
       "author": "小蒙古包卓拉",
-      "play": 2395982
-    },
-    {
-      "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
-      "author": "棕与灰9",
-      "play": 823918
-    },
-    {
-      "title": "这个量筒里到底有几毫升水？别笑，你也答不上来！",
-      "author": "毕的二阶导",
-      "play": 1371421
-    },
-    {
-      "title": "【剧情】长生契（2026）11【方逸伦 / 谢可寅】",
-      "author": "迷影社",
-      "play": 410429
+      "play": 2396991
     },
     {
       "title": "龙泉印泥",
       "author": "谢大炮8",
-      "play": 1005212
+      "play": 1005816
     },
     {
       "title": "【矢量突破#3】拟生态全关卡 摆完挂机 简单好抄 核心突破/特别战线",
       "author": "萧然Q",
-      "play": 421686
+      "play": 422471
+    },
+    {
+      "title": "【剧情】长生契（2026）11【方逸伦 / 谢可寅】",
+      "author": "迷影社",
+      "play": 410509
     },
     {
       "title": "第一视角带你沉浸式体验修家电师傅的一天",
       "author": "超越家电",
-      "play": 2173298
+      "play": 2173689
     },
     {
       "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间",
       "author": "漫游会议室",
-      "play": 643841
+      "play": 644241
+    },
+    {
+      "title": "“柳条人年年立起，没人记得这火燃了几世”",
+      "author": "治愈哥CULT",
+      "play": 725360
+    },
+    {
+      "title": "⚡️她连唐笑都在调上⚡️",
+      "author": "哦呼w",
+      "play": 1244739
     }
   ],
   "zhihu_daily": []
