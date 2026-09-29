@@ -6,21 +6,18 @@ hotlist-archive 每日自动化抓取脚本
 数据源（2026-09-30 换源，原全部走 60s.viki.moe）：
   - 天气：Open-Meteo（2026-09-29 起，60s/weather 源失效改用）
   - 热榜：抖音/头条/百度官方直连（60s 全线失效后改用）
-  - 新闻：少数派 → 知乎日报（降级链；少数派海外可达，知乎日报对海外限流）
+  - 新闻：知乎日报 news-at.zhihu.com
   - 油价：qiyoujiage.com（按省份）
   - 历史：百度百科 CMS 静态 JSON
   - 知乎日报：RSS
   - B站热门：api.bilibili.com
   ⚠️ 60s.viki.moe 2026-09-29 起全线失效（429/400/403），四段长期输出空。
      统一走 scripts/free_sources.py（本地 dev-tools/free_sources.py 同源）。
-  ⚠️ JSON 契约保持不变（clean.py / archive-query.py 依赖）：
-     hotlist.json  {"date":.., "platforms": {"douyin": {"data":[...]}, ...}}
-     news.json     {"data": {"news": [...], "tip": ...}}
 
 输出目录：
   data/YYYY/MM/DD/   每日原始数据
     - hotlist.json   全网热榜（抖音/头条/百度）
-    - news.json      每日资讯（少数派/知乎日报）
+    - news.json      每日资讯（知乎日报）
     - weather.json   广州天气（Open-Meteo）
     - fuel.json      广东油价
     - today.json     历史上的今天
@@ -209,15 +206,26 @@ def main():
     # 5b. 知乎日报每日精选（RSS）
     print("\n📖 知乎日报精选（RSS）...")
     zhihu_daily = []
+    # ⚠️ 2026-09-30 修：原来硬编码 ghfast.top 代理前缀——GitHub Actions 在海外，
+    # 直连 raw.githubusercontent.com 本来就通，加代理反而被卡住取不到。
+    # 改成直连优先、代理兜底（本地网络直连慢，代理才需要）。
+    _rss_paths = [
+        "https://raw.githubusercontent.com/zzkeier/gen_zhihu_daily/main/zhihu.xml",
+        "https://ghfast.top/https://raw.githubusercontent.com/zzkeier/gen_zhihu_daily/main/zhihu.xml",
+    ]
+    xml_data = None
+    for _u in _rss_paths:
+        try:
+            req = urllib.request.Request(_u, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                xml_data = r.read().decode("utf-8")
+            if xml_data:
+                break
+        except Exception:
+            continue
     try:
-        req = urllib.request.Request(
-            "https://ghfast.top/https://raw.githubusercontent.com/zzkeier/gen_zhihu_daily/main/zhihu.xml",
-            headers={"User-Agent": UA}
-        )
-        with urllib.request.urlopen(req, timeout=20) as r:
-            xml_data = r.read().decode("utf-8")
         import re
-        entries = re.findall(r'<item>([\s\S]*?)</item>', xml_data)
+        entries = re.findall(r'<item>([\s\S]*?)</item>', xml_data or "")
         for entry in entries[:12]:
             title = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', entry)
             link = re.search(r'<link>(.*?)</link>', entry)
