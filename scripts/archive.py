@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 """
 hotlist-archive 每日自动化抓取脚本
-用于 GitHub Actions 定时执行，数据源：60s.viki.moe（免费公开 API）
+用于 GitHub Actions 定时执行
+
+数据源：
+  - 天气：Open-Meteo（2026-09-29 起，60s.viki.moe/weather 源失效改用）
+  - 热榜/新闻/油价/历史：60s.viki.moe（免费公开 API，部分模块限流时该日空缺）
+  - 知乎日报：RSS
+  - B站热门：api.bilibili.com
 
 输出目录：
   data/YYYY/MM/DD/   每日原始数据
     - hotlist.json   全网热榜（知乎/微博/抖音/头条）
     - news.json      每日新闻 60s
-    - weather.json   广州天气（Open-Meteo 替代方案备用）
+    - weather.json   广州天气（Open-Meteo）
     - fuel.json      广东油价
     - today.json     历史上的今天
     - zhihu_daily.json  知乎日报精选（RSS）
@@ -30,6 +36,23 @@ TZ = timezone(timedelta(hours=8))
 BASE = "https://60s.viki.moe/v2"
 UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36"
 
+# 广州坐标（Open-Meteo 用）
+GZ_LAT, GZ_LON = 23.13, 113.26
+
+# WMO weather_code → 中文天气描述（Open-Meteo 返回的是数字代码）
+WMO_CODE = {
+    0: "晴", 1: "多云", 2: "阴", 3: "阴",
+    45: "雾", 48: "雾凇",
+    51: "毛毛雨", 53: "毛毛雨", 55: "毛毛雨",
+    56: "冻雨", 57: "冻雨",
+    61: "小雨", 63: "中雨", 65: "大雨",
+    66: "冻雨", 67: "冻雨",
+    71: "小雪", 73: "中雪", 75: "大雪", 77: "冰粒",
+    80: "阵雨", 81: "阵雨", 82: "大雨",
+    85: "阵雪", 86: "阵雪",
+    95: "雷暴", 96: "雷暴", 99: "雷暴",
+}
+
 
 def fetch(url, label=""):
     """抓取 JSON 数据，失败返回 None"""
@@ -39,6 +62,52 @@ def fetch(url, label=""):
             return json.loads(r.read().decode("utf-8"))
     except Exception as e:
         print(f"  ⚠️ {label} 抓取失败: {e}")
+        return None
+
+
+def fetch_weather_om():
+    """广州天气（Open-Meteo，60s 源失效后的替代）。
+    返回整理后的 dict，含 current/today 两段；失败返回 None。"""
+    url = (
+        "https://api.open-meteo.com/v1/forecast"
+        f"?latitude={GZ_LAT}&longitude={GZ_LON}"
+        "&current=temperature_2m,relative_humidity_2m,apparent_temperature,"
+        "weather_code,wind_speed_10m,wind_direction_10m"
+        "&daily=temperature_2m_max,temperature_2m_min,"
+        "precipitation_probability_max,uv_index_max,sunrise,sunset"
+        "&timezone=Asia/Shanghai&forecast_days=1"
+    )
+    data = fetch(url, "天气(Open-Meteo)")
+    if not data:
+        return None
+    try:
+        c = data.get("current", {})
+        d = data.get("daily", {})
+        code = c.get("weather_code")
+        return {
+            "source": "open-meteo",
+            "location": {"name": "广州", "lat": GZ_LAT, "lon": GZ_LON},
+            "fetched_at": c.get("time"),
+            "current": {
+                "temperature": c.get("temperature_2m"),
+                "feels_like": c.get("apparent_temperature"),
+                "humidity": c.get("relative_humidity_2m"),
+                "condition": WMO_CODE.get(code, f"code{code}"),
+                "weather_code": code,
+                "wind_speed": c.get("wind_speed_10m"),
+                "wind_direction": c.get("wind_direction_10m"),
+            },
+            "today": {
+                "temp_min": (d.get("temperature_2m_min") or [None])[0],
+                "temp_max": (d.get("temperature_2m_max") or [None])[0],
+                "precipitation_probability": (d.get("precipitation_probability_max") or [None])[0],
+                "uv_index": (d.get("uv_index_max") or [None])[0],
+                "sunrise": (d.get("sunrise") or [None])[0],
+                "sunset": (d.get("sunset") or [None])[0],
+            },
+        }
+    except Exception as e:
+        print(f"  ⚠️ 天气解析失败: {e}")
         return None
 
 
@@ -89,12 +158,15 @@ def main():
         n = len(news.get("data", [])) if isinstance(news, dict) else "?"
         print(f"  ✅ {n} 条")
 
-    # 3. 广州天气
-    print("\n🌤️ 广州天气...")
-    weather = fetch(f"{BASE}/weather?query={urllib.parse.quote('广州')}", "天气")
+    # 3. 广州天气（Open-Meteo，2026-09-29 起替代 60s）
+    print("\n🌤️ 广州天气（Open-Meteo）...")
+    weather = fetch_weather_om()
     if weather:
         write_json(f"{dir_path}/weather.json", weather)
-        print("  ✅")
+        c = weather["current"]
+        print(f"  ✅ {c['temperature']}°C（体感{c['feels_like']}°C）{c['condition']} 湿度{c['humidity']}%")
+    else:
+        print("  ⚠️ 天气抓取失败")
 
     # 4. 广东油价
     print("\n⛽ 广东油价...")
@@ -190,7 +262,7 @@ def main():
     brief = {
         "date": date_str,
         "generated_at": now.isoformat(),
-        "weather": weather.get("data", weather) if weather else None,
+        "weather": weather,
         "fuel": fuel.get("data", fuel) if fuel else None,
         "fuel_changed": fuel_changed,
         "fuel_change_detail": fuel_change_detail,
