@@ -5,14 +5,14 @@
     "lat": 23.13,
     "lon": 113.26
   },
-  "fetched_at": "2026-09-30T04:00",
+  "fetched_at": "2026-09-30T04:15",
   "current": {
-    "temperature": 28.4,
+    "temperature": 28.3,
     "feels_like": 34.9,
     "humidity": 85,
     "condition": "晴",
     "weather_code": 0,
-    "wind_speed": 3.6,
+    "wind_speed": 3.3,
     "wind_direction": 225
   },
   "today": {

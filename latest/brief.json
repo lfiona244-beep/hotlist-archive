@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T04:13:57.032071+08:00",
+  "generated_at": "2026-09-30T04:16:41.803388+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,14 +8,14 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-09-30T04:00",
+    "fetched_at": "2026-09-30T04:15",
     "current": {
-      "temperature": 28.4,
+      "temperature": 28.3,
       "feels_like": 34.9,
       "humidity": 85,
       "condition": "晴",
       "weather_code": 0,
-      "wind_speed": 3.6,
+      "wind_speed": 3.3,
       "wind_direction": 225
     },
     "today": {
@@ -61,11 +61,11 @@
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "请三休十三的人现在都到哪里了"
+      "title": "陈妤颉极限反超混接4x100米夺冠"
     },
     {
       "platform": "抖音",
-      "title": "陈妤颉极限反超混接4x100米夺冠"
+      "title": "请三休十三的人现在都到哪里了"
     },
     {
       "platform": "抖音",
@@ -73,11 +73,11 @@
     },
     {
       "platform": "抖音",
-      "title": "陈芋汐卢为包揽10米台冠亚军"
+      "title": "住房贴息贷款什么意思"
     },
     {
       "platform": "抖音",
-      "title": "风中已经有了国庆的味道"
+      "title": "陈芋汐卢为包揽10米台冠亚军"
     },
     {
       "platform": "头条",
