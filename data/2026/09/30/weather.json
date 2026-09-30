@@ -5,21 +5,21 @@
     "lat": 23.13,
     "lon": 113.26
   },
-  "fetched_at": "2026-09-30T04:15",
+  "fetched_at": "2026-09-30T15:45",
   "current": {
-    "temperature": 28.3,
-    "feels_like": 34.9,
-    "humidity": 85,
-    "condition": "晴",
-    "weather_code": 0,
-    "wind_speed": 3.3,
-    "wind_direction": 225
+    "temperature": 36.1,
+    "feels_like": 40.2,
+    "humidity": 47,
+    "condition": "雷暴",
+    "weather_code": 95,
+    "wind_speed": 8.3,
+    "wind_direction": 186
   },
   "today": {
-    "temp_min": 27.8,
-    "temp_max": 37.5,
-    "precipitation_probability": 41,
-    "uv_index": 7.9,
+    "temp_min": 27.9,
+    "temp_max": 37.3,
+    "precipitation_probability": 47,
+    "uv_index": 7.85,
     "sunrise": "2026-09-30T06:18",
     "sunset": "2026-09-30T18:15"
   }

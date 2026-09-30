@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T04:19:34.141918+08:00",
+  "generated_at": "2026-09-30T15:58:20.364775+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,21 +8,21 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-09-30T04:15",
+    "fetched_at": "2026-09-30T15:45",
     "current": {
-      "temperature": 28.3,
-      "feels_like": 34.9,
-      "humidity": 85,
-      "condition": "晴",
-      "weather_code": 0,
-      "wind_speed": 3.3,
-      "wind_direction": 225
+      "temperature": 36.1,
+      "feels_like": 40.2,
+      "humidity": 47,
+      "condition": "雷暴",
+      "weather_code": 95,
+      "wind_speed": 8.3,
+      "wind_direction": 186
     },
     "today": {
-      "temp_min": 27.8,
-      "temp_max": 37.5,
-      "precipitation_probability": 41,
-      "uv_index": 7.9,
+      "temp_min": 27.9,
+      "temp_max": 37.3,
+      "precipitation_probability": 47,
+      "uv_index": 7.85,
       "sunrise": "2026-09-30T06:18",
       "sunset": "2026-09-30T18:15"
     }
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "经典任务管理软件的现代重构： 新版 2Do 详解",
+    "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+    "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
     "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
     "更懂你的心，也更懂你：Apple Watch Series 12 体验",
     "可塑的白昼：ColorOS17 深度评测",
     "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-    "派评 | 近期值得关注的 App",
-    "基于 Termux 的 Android 手机开发服务器实操",
-    "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-    "摸鱼+3 | 还剩三天班，一天一个解谜游戏"
+    "派评 | 近期值得关注的 App"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "陈妤颉极限反超混接4x100米夺冠"
+      "title": "男足1:2不敌韩国无缘亚运决赛"
     },
     {
       "platform": "抖音",
-      "title": "请三休十三的人现在都到哪里了"
+      "title": "最好的祝福献给祖国"
     },
     {
       "platform": "抖音",
-      "title": "世纪工程如何给鱼儿开绿色通道"
+      "title": "向英雄致敬"
     },
     {
       "platform": "抖音",
-      "title": "陈芋汐卢为包揽10米台冠亚军"
+      "title": "一年一度国庆出片大赛"
     },
     {
       "platform": "抖音",
-      "title": "风中已经有了国庆的味道"
+      "title": "国庆反向出游指南"
     },
     {
       "platform": "头条",
-      "title": "房贷贴息"
+      "title": "国足亚运队遭韩国逆转 无缘决赛"
     },
     {
       "platform": "头条",
-      "title": "宋佳金鹰奖最佳女主"
+      "title": "解放军霸气回应菲律宾飞机侵权碰瓷"
     },
     {
       "platform": "头条",
-      "title": "人民英雄 永垂不朽"
+      "title": "满城“中国红” 喜迎国庆"
     },
     {
       "platform": "头条",
-      "title": "“星舰”受控溅落时发生剧烈爆炸"
+      "title": "目击者称东航空姐向乘客跪了两三次"
     },
     {
       "platform": "头条",
-      "title": "于和伟2026白玉兰金鹰双料视帝"
+      "title": "今年下半年以来最强冷空气来袭"
     },
     {
       "platform": "百度",
-      "title": "三张照片 见证中美关系的刻度"
+      "title": "习近平出席向人民英雄敬献花篮仪式"
     }
   ],
   "today_in_history": [
     {
-      "year": "1364",
-      "title": "英国军队在欧赖战役中击败法国军队"
+      "year": "1147",
+      "title": "南宋皇帝宋光宗赵惇出生"
     },
     {
-      "year": "1571",
-      "title": "意大利画家卡拉瓦乔出生"
+      "year": "1626",
+      "title": "清太祖爱新觉罗·努尔哈赤逝世"
     },
     {
-      "year": "1758",
-      "title": "英国海军将领霍雷肖·纳尔逊出生"
+      "year": "1862",
+      "title": "德国首任宰相俾斯麦实行“铁血政策”"
     }
   ]
 }

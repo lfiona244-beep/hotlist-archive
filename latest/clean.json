@@ -1,195 +1,185 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T04:19:44.442367+08:00",
+  "generated_at": "2026-09-30T15:58:38.025555+08:00",
   "total_raw": 59,
-  "total_cleaned": 58,
+  "total_cleaned": 59,
   "category_stats": {
-    "其他": 46,
-    "生活": 4,
-    "科技": 1,
-    "体育": 4,
+    "体育": 5,
+    "其他": 40,
+    "生活": 12,
     "社会": 1,
-    "娱乐": 2
+    "财经": 1
   },
-  "hotspot": [
-    {
-      "title": "于和伟获金鹰奖最佳男主角",
-      "platforms": [
-        "douyin",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "房贷贴息",
+      "title": "国足亚运队遭韩国逆转 无缘决赛",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "解放军霸气回应菲律宾飞机侵权碰瓷",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "满城“中国红” 喜迎国庆",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "目击者称东航空姐向乘客跪了两三次",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "宋佳金鹰奖最佳女主",
+      "title": "今年下半年以来最强冷空气来袭",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "人民英雄 永垂不朽",
+      "title": "以媒：客机返航“不是劫机”",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "“星舰”受控溅落时发生剧烈爆炸",
+      "title": "唐湘龙：两岸统一已在有序进行中",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "于和伟2026白玉兰金鹰双料视帝",
+      "title": "国内油价有望大幅下调",
       "platforms": [
         "toutiao"
       ],
-      "category": "其他"
+      "category": "财经"
     },
     {
-      "title": "谁能享受房贷贴息",
+      "title": "为什么要在国庆前一天怀念烈士",
       "platforms": [
         "toutiao"
       ],
-      "category": "其他"
+      "category": "生活"
     },
     {
-      "title": "陈妤颉极限反超混接4x100米夺冠",
+      "title": "男足1:2不敌韩国无缘亚运决赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "最好的祝福献给祖国",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "请三休十三的人现在都到哪里了",
+      "title": "向英雄致敬",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "世纪工程如何给鱼儿开绿色通道",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "陈芋汐卢为包揽10米台冠亚军",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "陈妤颉最后一棒上演惊天逆转",
+      "title": "金价又摸回900以上这次能站稳吗",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "风中已经有了国庆的味道",
+      "title": "一年一度国庆出片大赛",
       "platforms": [
         "douyin"
       ],
       "category": "生活"
     },
     {
-      "title": "我的玩心满电了",
+      "title": "国庆反向出游指南",
       "platforms": [
         "douyin"
       ],
-      "category": "其他"
-    },
-    {
-      "title": "特朗普评中美会晤：满分10分我打12分",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "我将奔向更好的远方",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
+      "category": "生活"
     }
   ],
   "news": [
+    "经典任务管理软件的现代重构： 新版 2Do 详解",
+    "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+    "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
     "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
     "更懂你的心，也更懂你：Apple Watch Series 12 体验",
     "可塑的白昼：ColorOS17 深度评测",
     "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-    "派评 | 近期值得关注的 App",
-    "基于 Termux 的 Android 手机开发服务器实操",
-    "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-    "摸鱼+3 | 还剩三天班，一天一个解谜游戏"
+    "派评 | 近期值得关注的 App"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "自学动画 爆肝俩月 自创一集《猫和老鼠》【手搓动画大赛】",
-      "author": "小蒙古包卓拉",
-      "play": 2398570
+      "title": "艺术斗法",
+      "author": "想想工作室",
+      "play": 1616700
     },
     {
-      "title": "龙泉印泥",
-      "author": "谢大炮8",
-      "play": 1006769
+      "title": "这不是黑暗料理！！",
+      "author": "马蹄厨房",
+      "play": 299801
+    },
+    {
+      "title": "《善》善良是什么",
+      "author": "阿廖沙别害怕_",
+      "play": 642661
+    },
+    {
+      "title": "【给阿嬷的情书】做人得有情义",
+      "author": "哔哩哔哩电影",
+      "play": 684235
+    },
+    {
+      "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
+      "author": "棕与灰9",
+      "play": 1930922
     },
     {
       "title": "【矢量突破#3】拟生态全关卡 摆完挂机 简单好抄 核心突破/特别战线",
       "author": "萧然Q",
-      "play": 423734
+      "play": 937530
     },
     {
-      "title": "【剧情】长生契（2026）11【方逸伦 / 谢可寅】",
-      "author": "迷影社",
-      "play": 410641
+      "title": "⚡️门捷列夫 科学界巡演 怒唱元素周期表⚡️",
+      "author": "酸奶煎个蛋",
+      "play": 814900
     },
     {
-      "title": "第一视角带你沉浸式体验修家电师傅的一天",
-      "author": "超越家电",
-      "play": 2174247
-    },
-    {
-      "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间",
-      "author": "漫游会议室",
-      "play": 644773
-    },
-    {
-      "title": "“柳条人年年立起，没人记得这火燃了几世”",
-      "author": "治愈哥CULT",
-      "play": 725972
-    },
-    {
-      "title": "⚡️她连唐笑都在调上⚡️",
-      "author": "哦呼w",
-      "play": 1245119
+      "title": "动态视频｜泳池里究竟有多少尿？",
+      "author": "亿点点不一样",
+      "play": 825785
     }
   ],
   "zhihu_daily": [
     {
-      "title": "不懂书法的人怎么分辨一副作品的好坏？"
+      "title": "猫咪底层代码到底是什么，为什么总是那么神经？"
     },
     {
-      "title": "网友呼吁归还配料表中的白砂糖，它为啥重回白月光？食品饮料为何用果葡糖浆替代白砂糖？前者会影响健康吗？"
+      "title": "网购燃气灶防风罩一月后妻儿中毒死亡，该产品为何会导致如此严重的事故？是否该全面禁售？"
     },
     {
-      "title": "闰秒制度可能将被提前废除，什么是闰秒？为啥用了半个多世纪会被取消？对我们生活有影响吗？"
+      "title": "瓶装水在开封后，多久会变质？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
