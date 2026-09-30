@@ -1,34 +1,52 @@
 {
   "date": "2026-09-30",
-  "checked_at": "2026-09-30T00:07:11.500414+08:00",
-  "total": 11,
-  "ok": 9,
-  "fail": 2,
+  "checked_at": "2026-09-30T14:56:03.781623+08:00",
+  "total": 13,
+  "ok": 12,
+  "fail": 1,
   "sources": [
     {
-      "name": "60s热榜API",
-      "url": "https://60s.viki.moe/v2/zhihu",
-      "status": "❌ 异常",
-      "code": 403,
-      "latency_ms": 250,
+      "name": "抖音热搜API",
+      "url": "https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/?aid=1128&version_code=880",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 1257,
       "expect": 200,
-      "note": "知乎热榜（hotlist 数据源）"
+      "note": "抖音热榜（hotlist 数据源）"
     },
     {
-      "name": "60s新闻API",
-      "url": "https://60s.viki.moe/v2/60s",
+      "name": "知乎日报API",
+      "url": "https://news-at.zhihu.com/api/4/news/latest",
       "status": "❌ 异常",
-      "code": 403,
-      "latency_ms": 86,
+      "code": null,
+      "latency_ms": 185,
       "expect": 200,
-      "note": "每日新闻60s"
+      "note": "每日资讯（news 数据源）"
+    },
+    {
+      "name": "百度百科历史",
+      "url": "https://baike.baidu.com/cms/home/eventsOnHistory/09.json",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 1359,
+      "expect": 200,
+      "note": "历史上的今天"
+    },
+    {
+      "name": "油价网",
+      "url": "http://www.qiyoujiage.com/guangdong.shtml",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 2341,
+      "expect": 200,
+      "note": "广东油价"
     },
     {
       "name": "默沙东手册",
       "url": "https://www.msdmanuals.cn/home",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 383,
+      "latency_ms": 405,
       "expect": 200,
       "note": "心理健康权威源（kb-run 路径）"
     },
@@ -37,7 +55,7 @@
       "url": "https://zhuiju.me",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 837,
+      "latency_ms": 729,
       "expect": 200,
       "note": "awesome-zhuiju-free 官网"
     },
@@ -46,7 +64,7 @@
       "url": "https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 57,
+      "latency_ms": 11,
       "expect": 200,
       "note": "94个追剧资源清单"
     },
@@ -55,7 +73,7 @@
       "url": "https://api.github.com",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 153,
+      "latency_ms": 12,
       "expect": 200,
       "note": "GitHub 官方 API"
     },
@@ -64,7 +82,7 @@
       "url": "https://api.bochaai.com/v1/web-search",
       "status": "✅ 正常",
       "code": 405,
-      "latency_ms": 2926,
+      "latency_ms": 1244,
       "expect": 405,
       "note": "博查 AI 搜索（POST接口，405=存活）"
     },
@@ -73,7 +91,7 @@
       "url": "https://finews.elsetech.app/",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 920,
+      "latency_ms": 862,
       "expect": 200,
       "note": "美股盘后日报"
     },
@@ -82,7 +100,7 @@
       "url": "https://www.bing.com",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 149,
+      "latency_ms": 54,
       "expect": 200,
       "note": "中文搜索兜底"
     },
@@ -91,7 +109,7 @@
       "url": "https://api.stackexchange.com/2.3/sites",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 367,
+      "latency_ms": 79,
       "expect": 200,
       "note": "技术问答（sites 公开接口）"
     },
@@ -100,7 +118,7 @@
       "url": "https://eco.fe-spark.cn/",
       "status": "✅ 正常",
       "code": 200,
-      "latency_ms": 798,
+      "latency_ms": 1628,
       "expect": 200,
       "note": "主追剧源（Next.js 聚合站）"
     }
