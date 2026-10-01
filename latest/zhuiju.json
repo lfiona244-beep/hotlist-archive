@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "total": 117,
-  "available": 64,
-  "available_rate": 54.7,
+  "available": 66,
+  "available_rate": 56.4,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -68,18 +68,6 @@
   ],
   "broken": [
     {
-      "name": "雪落影视",
-      "status": "unreachable"
-    },
-    {
-      "name": "金牌影视",
-      "status": "unreachable"
-    },
-    {
-      "name": "泥视频",
-      "status": "unreachable"
-    },
-    {
       "name": "91毒舌",
       "status": "unreachable"
     },
@@ -92,10 +80,6 @@
       "status": "unreachable"
     },
     {
-      "name": "小马",
-      "status": "unreachable"
-    },
-    {
       "name": "摸鱼儿",
       "status": "unreachable"
     },
@@ -105,6 +89,14 @@
     },
     {
       "name": "POMO",
+      "status": "unreachable"
+    },
+    {
+      "name": "歪比巴卜",
+      "status": "unreachable"
+    },
+    {
+      "name": "可可影视",
       "status": "unreachable"
     }
   ]
