@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 110" width="300" height="110">
+  <rect width="300" height="110" rx="8" fill="#eef4ee"/>
+  <text x="150" y="42" font-size="24" text-anchor="middle" fill="#2d5a3d" font-family="sans-serif">SVG 中文测试</text>
+  <text x="150" y="72" font-size="15" text-anchor="middle" fill="#555" font-family="sans-serif">看得到中文 = 矢量渲染正常</text>
+  <circle cx="50" cy="88" r="10" fill="#5a8a5a"/>
+  <rect x="140" y="80" width="20" height="16" fill="#c88"/>
+  <polygon points="240,80 255,96 225,96" fill="#88a"/>
+</svg>
