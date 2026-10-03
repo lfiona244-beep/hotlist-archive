@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "total": 117,
-  "available": 67,
-  "available_rate": 57.3,
+  "available": 66,
+  "available_rate": 56.4,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -15,14 +15,14 @@
     "open_source": 15
   },
   "available_samples": [
-    "搜TV啦",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
     "Auete影视",
-    "电影人生"
+    "电影人生",
+    "奈菲影视",
+    "PPnix"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -60,13 +64,13 @@
     {
       "name": "影猫仓库",
       "status": "受限 HTTP 403"
-    },
-    {
-      "name": "SubHD",
-      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
+    {
+      "name": "搜TV啦",
+      "status": "unreachable"
+    },
     {
       "name": "91毒舌",
       "status": "unreachable"
@@ -77,10 +81,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "小马",
       "status": "unreachable"
     },
     {
