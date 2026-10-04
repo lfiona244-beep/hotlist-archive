@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "total": 117,
-  "available": 66,
-  "available_rate": 56.4,
+  "available": 65,
+  "available_rate": 55.6,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -17,12 +17,12 @@
   "available_samples": [
     "白嫖者联盟",
     "青空次元",
+    "APP影院",
     "爱电影",
     "爱壹帆",
     "Auete影视",
     "电影人生",
-    "奈菲影视",
-    "PPnix"
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -35,10 +35,6 @@
     },
     {
       "name": "蛋蛋魔法",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -63,6 +59,10 @@
     },
     {
       "name": "影猫仓库",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "SubHD",
       "status": "受限 HTTP 403"
     }
   ],
@@ -89,6 +89,14 @@
     },
     {
       "name": "VOX",
+      "status": "unreachable"
+    },
+    {
+      "name": "POMO",
+      "status": "unreachable"
+    },
+    {
+      "name": "星河影视",
       "status": "unreachable"
     },
     {
