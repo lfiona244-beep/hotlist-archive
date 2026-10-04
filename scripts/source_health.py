@@ -11,6 +11,10 @@
 2026-09-30 更新：60s.viki.moe 全线失效，原两条 60s 巡检项换成新数据源
   （抖音热搜、知乎日报），否则巡检会一直报这两个已知失效的源。
 
+2026-10-05 更新：补齐现役源（头条热榜/百度热榜/少数派/Open-Meteo 天气/ModelScope，
+  均在本地逐条实测 200 后加入）；「默沙东手册」note 去掉已退役的 kb-run 字样；
+  百度百科历史改为按当前月份动态取（原来硬编码 09，会逐月过期）。
+
 输出目录：
   data/YYYY/MM/DD/source-health.json   当日巡检报告
   latest/source-health.json            最新巡检报告（AI 快速读取）
@@ -33,18 +37,23 @@ TIMEOUT = 8
 
 SOURCES = {
     "抖音热搜API": ("https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/?aid=1128&version_code=880", 200, "抖音热榜（hotlist 数据源）"),
+    "头条热榜": ("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc", 200, "头条热榜（brief 数据源）"),
+    "百度热榜": ("https://top.baidu.com/board?tab=realtime", 200, "百度实时榜"),
     "知乎日报API": ("https://news-at.zhihu.com/api/4/news/latest", 200, "每日资讯（news 数据源）"),
-    "百度百科历史": ("https://baike.baidu.com/cms/home/eventsOnHistory/09.json", 200, "历史上的今天"),
+    "少数派": ("https://sspai.com/api/v1/article/index/page/get?limit=10&offset=0", 200, "少数派文章 API（brief 新闻源）"),
+    "百度百科历史": (f"https://baike.baidu.com/cms/home/eventsOnHistory/{datetime.now(TZ).month:02d}.json", 200, "历史上的今天"),
     "油价网": ("http://www.qiyoujiage.com/guangdong.shtml", 200, "广东油价"),
-    "默沙东手册": ("https://www.msdmanuals.cn/home", 200, "心理健康权威源（kb-run 路径）"),
-    "追剧导航站": ("https://zhuiju.me", 200, "awesome-zhuiju-free 官网"),
-    "追剧资源JSON": ("https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json", 200, "94个追剧资源清单"),
+    "Open-Meteo天气": ("https://api.open-meteo.com/v1/forecast?latitude=23.13&longitude=113.26&current=temperature_2m", 200, "广州天气（weather.py 源）"),
+    "默沙东手册": ("https://www.msdmanuals.cn/home", 200, "健康权威源"),
     "GitHub API": ("https://api.github.com", 200, "GitHub 官方 API"),
     "博查搜索API": ("https://api.bochaai.com/v1/web-search", 405, "博查 AI 搜索（POST接口，405=存活）"),
+    "ModelScope": ("https://www.modelscope.cn", 200, "中文模型/数据集（HuggingFace 不通时的镜像）"),
     "美股日报": ("https://finews.elsetech.app/", 200, "美股盘后日报"),
     "Bing搜索": ("https://www.bing.com", 200, "中文搜索兜底"),
     "StackExchange": ("https://api.stackexchange.com/2.3/sites", 200, "技术问答（sites 公开接口）"),
     "EcoHub追剧": ("https://eco.fe-spark.cn/", 200, "主追剧源（Next.js 聚合站）"),
+    "追剧导航站": ("https://zhuiju.me", 200, "awesome-zhuiju-free 官网"),
+    "追剧资源JSON": ("https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json", 200, "94个追剧资源清单"),
 }
 
 
