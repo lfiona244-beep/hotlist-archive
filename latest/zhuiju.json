@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "total": 117,
-  "available": 65,
-  "available_rate": 55.6,
+  "available": 66,
+  "available_rate": 56.4,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -15,9 +15,9 @@
     "open_source": 15
   },
   "available_samples": [
+    "搜TV啦",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
     "Auete影视",
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -60,17 +64,9 @@
     {
       "name": "影猫仓库",
       "status": "受限 HTTP 403"
-    },
-    {
-      "name": "SubHD",
-      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
-    {
-      "name": "搜TV啦",
-      "status": "unreachable"
-    },
     {
       "name": "91毒舌",
       "status": "unreachable"
@@ -85,10 +81,6 @@
     },
     {
       "name": "摸鱼儿",
-      "status": "unreachable"
-    },
-    {
-      "name": "VOX",
       "status": "unreachable"
     },
     {
