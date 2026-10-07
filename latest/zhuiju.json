@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "total": 117,
-  "available": 67,
-  "available_rate": 57.3,
+  "available": 64,
+  "available_rate": 54.7,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -18,11 +18,11 @@
     "搜TV啦",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
     "Auete影视",
-    "电影人生"
+    "电影人生",
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -38,6 +38,10 @@
       "status": "受限 HTTP 403"
     },
     {
+      "name": "APP影院",
+      "status": "受限 HTTP 403"
+    },
+    {
       "name": "937影视",
       "status": "受限 HTTP 403"
     },
@@ -47,10 +51,6 @@
     },
     {
       "name": "LIBVIO",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "黑夜影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -68,6 +68,10 @@
   ],
   "broken": [
     {
+      "name": "黑夜影院",
+      "status": "unreachable"
+    },
+    {
       "name": "91毒舌",
       "status": "unreachable"
     },
@@ -81,6 +85,10 @@
     },
     {
       "name": "摸鱼儿",
+      "status": "unreachable"
+    },
+    {
+      "name": "VOX",
       "status": "unreachable"
     },
     {
