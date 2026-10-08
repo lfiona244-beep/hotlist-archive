@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "total": 117,
-  "available": 64,
-  "available_rate": 54.7,
+  "available": 65,
+  "available_rate": 55.6,
   "categories": {
     "online_video": 52,
     "video_app": 4,
@@ -84,15 +84,15 @@
       "status": "unreachable"
     },
     {
+      "name": "肥猫",
+      "status": "unreachable"
+    },
+    {
       "name": "摸鱼儿",
       "status": "unreachable"
     },
     {
       "name": "VOX",
-      "status": "unreachable"
-    },
-    {
-      "name": "POMO",
       "status": "unreachable"
     },
     {
