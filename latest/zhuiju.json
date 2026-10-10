@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-09",
-  "total": 117,
-  "available": 66,
-  "available_rate": 56.4,
+  "date": "2026-10-10",
+  "total": 121,
+  "available": 68,
+  "available_rate": 56.2,
   "categories": {
-    "online_video": 52,
+    "online_video": 55,
     "video_app": 4,
     "subtitles": 3,
     "player": 7,
-    "subscription": 1,
+    "subscription": 2,
     "tvbox_config": 15,
     "magnet_search": 16,
     "cloud_search": 4,
@@ -18,11 +18,11 @@
     "搜TV啦",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
     "Auete影视",
-    "电影人生"
+    "电影人生",
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -59,10 +63,6 @@
     },
     {
       "name": "SubHD",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "Kodi",
       "status": "受限 HTTP 403"
     }
   ],
