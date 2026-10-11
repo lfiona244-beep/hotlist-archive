@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:17:12.719914+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-11T16:15",
+    "current": {
+      "temperature": 32.3,
+      "feels_like": 34.7,
+      "humidity": 47,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 8.2,
+      "wind_direction": 122
+    },
+    "today": {
+      "temp_min": 22.6,
+      "temp_max": 32.6,
+      "precipitation_probability": 0,
+      "uv_index": 7.45,
+      "sunrise": "2026-10-11T06:22",
+      "sunset": "2026-10-11T18:05"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+    "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+    "本周看什么 | 最近值得一看的 11 部作品",
+    "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+    "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+    "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+    "iPhone Duo：苹果，终究还是对强迫症下手了",
+    "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "周启豪无缘WTT男单决赛"
+    },
+    {
+      "platform": "抖音",
+      "title": "沙特利雅得机场遇袭"
+    },
+    {
+      "platform": "抖音",
+      "title": "全国秋粮收获进度过半"
+    },
+    {
+      "platform": "抖音",
+      "title": "当北方人第一次闻桂花香"
+    },
+    {
+      "platform": "抖音",
+      "title": "大自然的秋天进度更新了"
+    },
+    {
+      "platform": "头条",
+      "title": "中国人亲历机场遇袭：多人被巨响吓哭"
+    },
+    {
+      "platform": "头条",
+      "title": "警方回应梅艳芳骨灰被盗"
+    },
+    {
+      "platform": "头条",
+      "title": "这些文物见证伟大远征"
+    },
+    {
+      "platform": "头条",
+      "title": "周启豪2-4新科世界第一松岛辉空"
+    },
+    {
+      "platform": "头条",
+      "title": "郑钦文2站排名狂升130位"
+    },
+    {
+      "platform": "百度",
+      "title": "总书记同卫生健康工作者的故事"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1671",
+      "title": "丹麦国王弗雷德里克四世出生"
+    },
+    {
+      "year": "1738",
+      "title": "英国海军上将亚瑟·菲利普出生"
+    },
+    {
+      "year": "1758",
+      "title": "德国天文学家奥伯斯出生"
+    }
+  ]
+}

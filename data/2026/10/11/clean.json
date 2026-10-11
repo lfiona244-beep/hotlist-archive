@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:17:30.467874+08:00",
+  "total_raw": 60,
+  "total_cleaned": 58,
+  "category_stats": {
+    "体育": 3,
+    "其他": 43,
+    "科技": 3,
+    "生活": 4,
+    "社会": 3,
+    "财经": 1,
+    "娱乐": 1
+  },
+  "hotspot": [
+    {
+      "title": "国乒男单14人出征无人进决赛",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "李连杰澄清抛妻弃子传闻",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "中国人亲历机场遇袭：多人被巨响吓哭",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "警方回应梅艳芳骨灰被盗",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "这些文物见证伟大远征",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "周启豪2-4新科世界第一松岛辉空",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "郑钦文2站排名狂升130位",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "周启豪无缘WTT男单决赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "沙特利雅得机场遇袭",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "人民日报评刹车踏板风波",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "全国秋粮收获进度过半",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "当北方人第一次闻桂花香",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "大自然的秋天进度更新了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "医生：熬夜就是熬命",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "这一口湘辣过瘾不烧心",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国乒男单14人出征无人进决赛",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "李连杰澄清抛妻弃子传闻",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+    "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+    "本周看什么 | 最近值得一看的 11 部作品",
+    "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+    "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+    "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+    "iPhone Duo：苹果，终究还是对强迫症下手了",
+    "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
+      "author": "陈要得",
+      "play": 1398756
+    },
+    {
+      "title": "《为何要生两个》",
+      "author": "大胜锅锅_",
+      "play": 1863283
+    },
+    {
+      "title": "也是当上外卖大法官了",
+      "author": "阿萨Aza",
+      "play": 1334061
+    },
+    {
+      "title": "【独家】牧神记 第104集 龙王有请",
+      "author": "哔哩哔哩国创",
+      "play": 1127466
+    },
+    {
+      "title": "10w？100w？1000w？普通人多少战备才打得过职业哥？",
+      "author": "特效小哥studio",
+      "play": 1428805
+    },
+    {
+      "title": "阴阳师你最好解释一下！",
+      "author": "盐鱼安图丁",
+      "play": 204376
+    },
+    {
+      "title": "如果把我和男朋友这几年的约会地点列出来",
+      "author": "锣斯特",
+      "play": 798986
+    },
+    {
+      "title": "《结账是你的谎言》",
+      "author": "郑凯伦伦伦",
+      "play": 698057
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "虫子为啥不进化的可爱一点，这样人类就不忍心踩死了？"
+    },
+    {
+      "title": "你觉得哪一项计算机技术被大众严重低估了？"
+    },
+    {
+      "title": "美国本土的地又大又好，为啥古代从来没有出现过文明古国？"
+    },
+    {
+      "title": "周围吵成一片时，我怎么还能一下听见有人叫我的名字？"
+    }
+  ]
+}
