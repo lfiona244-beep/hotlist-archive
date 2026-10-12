@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "total": 119,
   "available": 69,
   "available_rate": 58.0,
@@ -85,10 +85,6 @@
     },
     {
       "name": "VOX",
-      "status": "unreachable"
-    },
-    {
-      "name": "POMO",
       "status": "unreachable"
     },
     {
