@@ -1,209 +1,190 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T16:17:30.467874+08:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:36:38.860891+08:00",
   "total_raw": 60,
-  "total_cleaned": 58,
+  "total_cleaned": 60,
   "category_stats": {
-    "体育": 3,
-    "其他": 43,
-    "科技": 3,
-    "生活": 4,
-    "社会": 3,
-    "财经": 1,
-    "娱乐": 1
+    "社会": 7,
+    "其他": 45,
+    "科技": 4,
+    "体育": 1,
+    "娱乐": 1,
+    "生活": 1,
+    "财经": 1
   },
-  "hotspot": [
-    {
-      "title": "国乒男单14人出征无人进决赛",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "李连杰澄清抛妻弃子传闻",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "中国人亲历机场遇袭：多人被巨响吓哭",
+      "title": "霸王茶姬店员劝退消费者",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "警方回应梅艳芳骨灰被盗",
+      "title": "俄方回应特朗普要求换掉乌总统",
       "platforms": [
         "toutiao"
       ],
       "category": "社会"
     },
     {
-      "title": "这些文物见证伟大远征",
+      "title": "未来5年卫生健康领域将迎这些发展",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "央视曝投资1.2亿项目仅建5个棚",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "外交部：美方应当慎重处理台湾问题",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "周启豪2-4新科世界第一松岛辉空",
+      "title": "男生梦到妈妈去世 醒来后情绪崩溃",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "郑钦文2站排名狂升130位",
+      "title": "“中国天眼”发现真实宇宙三体世界",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "周启豪无缘WTT男单决赛",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "沙特利雅得机场遇袭",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "人民日报评刹车踏板风波",
+      "title": "全市场超4300只个股下挫",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "全国秋粮收获进度过半",
+      "title": "官方通报宣称投资15亿项目撂荒",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
-      "category": "其他"
+      "category": "社会"
     },
     {
-      "title": "当北方人第一次闻桂花香",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "大自然的秋天进度更新了",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "医生：熬夜就是熬命",
+      "title": "郑钦文3年商业收入追平李娜整个生涯",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "这一口湘辣过瘾不烧心",
+      "title": "北京热力辟谣内部人员代缴采暖费打折",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "国乒男单14人出征无人进决赛",
+      "title": "老人被撞后主动让骑车者走",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "toutiao"
       ],
-      "category": "体育"
+      "category": "其他"
     },
     {
-      "title": "李连杰澄清抛妻弃子传闻",
+      "title": "王曼昱和孙颖莎谁能先拿到大满贯",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "邱毅：岛内认为大陆解决台湾问题加快",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "郑钦文对手输球告状：没有加油声",
+      "platforms": [
+        "toutiao"
       ],
       "category": "其他"
     }
   ],
   "news": [
+    "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+    "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+    "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
     "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
     "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
     "本周看什么 | 最近值得一看的 11 部作品",
     "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-    "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
-    "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-    "iPhone Duo：苹果，终究还是对强迫症下手了",
-    "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole"
+    "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
-      "author": "陈要得",
-      "play": 1398756
+      "title": "那个卖菱角的小贩想要弄伤我的鳞片",
+      "author": "印度老吃家",
+      "play": 967617
     },
     {
-      "title": "《为何要生两个》",
-      "author": "大胜锅锅_",
-      "play": 1863283
+      "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
+      "author": "-欣小萌-",
+      "play": 1640254
     },
     {
-      "title": "也是当上外卖大法官了",
-      "author": "阿萨Aza",
-      "play": 1334061
+      "title": "那些无法解释的瞬间心理感受。。。又一次把我心里的画面拍了出来，这次你中了几个？",
+      "author": "李如儒也是李蠕蠕",
+      "play": 709949
     },
     {
-      "title": "【独家】牧神记 第104集 龙王有请",
-      "author": "哔哩哔哩国创",
-      "play": 1127466
+      "title": "【26年双11显示器推荐】热门型号直降1000+？一条视频讲清楚！2万字爆肝 工业级设备实测 全规格尺寸实拍 1080P/2K/4K的电竞/办公/设计/性价比",
+      "author": "屏心而论",
+      "play": 432459
     },
     {
-      "title": "10w？100w？1000w？普通人多少战备才打得过职业哥？",
-      "author": "特效小哥studio",
-      "play": 1428805
+      "title": "你 坐 不 过 我 你 信 吗 ？",
+      "author": "蓝飘飘fly",
+      "play": 321033
     },
     {
-      "title": "阴阳师你最好解释一下！",
-      "author": "盐鱼安图丁",
-      "play": 204376
+      "title": "“我酒桶有自己的想法！”369、Karsa重聊纳尔往事【LPL视频播客丨把TA叫过来ep2】",
+      "author": "英雄联盟赛事",
+      "play": 216954
     },
     {
-      "title": "如果把我和男朋友这几年的约会地点列出来",
-      "author": "锣斯特",
-      "play": 798986
+      "title": "12个脑洞大开的做饭方式！",
+      "author": "胡仔一人食",
+      "play": 2197212
     },
     {
-      "title": "《结账是你的谎言》",
-      "author": "郑凯伦伦伦",
-      "play": 698057
+      "title": "用十三年去拍一部纪录片，然后明白死亡只是一个炎热的夏天午后 【探照灯计划】",
+      "author": "柯永权",
+      "play": 337599
     }
   ],
   "zhihu_daily": [
     {
-      "title": "虫子为啥不进化的可爱一点，这样人类就不忍心踩死了？"
+      "title": "于敏-邓稼先构型的是怎么设计出来的，为什么别的国家死活搞不出来？"
     },
     {
-      "title": "你觉得哪一项计算机技术被大众严重低估了？"
+      "title": "日本饮食为什么一餐的量那么少？"
     },
     {
-      "title": "美国本土的地又大又好，为啥古代从来没有出现过文明古国？"
+      "title": "为什么纸张沾了油会变得更透，而沾了水就没这么明显？"
     },
     {
-      "title": "周围吵成一片时，我怎么还能一下听见有人叫我的名字？"
+      "title": "瞎扯 · 如何正确地吐槽"
     }
   ]
 }

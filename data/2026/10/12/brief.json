@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:36:25.377419+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-12T16:30",
+    "current": {
+      "temperature": 32.9,
+      "feels_like": 36.5,
+      "humidity": 48,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 2.3,
+      "wind_direction": 198
+    },
+    "today": {
+      "temp_min": 24.2,
+      "temp_max": 33.0,
+      "precipitation_probability": 6,
+      "uv_index": 7.4,
+      "sunrise": "2026-10-12T06:22",
+      "sunset": "2026-10-12T18:04"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+    "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+    "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+    "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+    "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+    "本周看什么 | 最近值得一看的 11 部作品",
+    "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+    "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "武网官方回应郑钦文退赛"
+    },
+    {
+      "platform": "抖音",
+      "title": "冰雪大世界官宣联名迪士尼"
+    },
+    {
+      "platform": "抖音",
+      "title": "AI万里绘征途"
+    },
+    {
+      "platform": "抖音",
+      "title": "几度秋意浓最是桂花香"
+    },
+    {
+      "platform": "抖音",
+      "title": "我的假日慢充宝藏城市"
+    },
+    {
+      "platform": "头条",
+      "title": "霸王茶姬店员劝退消费者"
+    },
+    {
+      "platform": "头条",
+      "title": "俄方回应特朗普要求换掉乌总统"
+    },
+    {
+      "platform": "头条",
+      "title": "未来5年卫生健康领域将迎这些发展"
+    },
+    {
+      "platform": "头条",
+      "title": "央视曝投资1.2亿项目仅建5个棚"
+    },
+    {
+      "platform": "头条",
+      "title": "外交部：美方应当慎重处理台湾问题"
+    },
+    {
+      "platform": "百度",
+      "title": "长征是一次理想信念的伟大远征"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1492",
+      "title": "西班牙独立"
+    },
+    {
+      "year": "1537",
+      "title": "英格兰王国女王简·格蕾出生"
+    },
+    {
+      "year": "1810",
+      "title": "首届慕尼黑啤酒节举行"
+    }
+  ]
+}
