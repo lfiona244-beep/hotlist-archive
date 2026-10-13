@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T16:56:12.109609+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-13T16:45",
+    "current": {
+      "temperature": 33.7,
+      "feels_like": 36.2,
+      "humidity": 42,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 6.2,
+      "wind_direction": 75
+    },
+    "today": {
+      "temp_min": 24.9,
+      "temp_max": 34.3,
+      "precipitation_probability": 0,
+      "uv_index": 7.35,
+      "sunrise": "2026-10-13T06:22",
+      "sunset": "2026-10-13T18:03"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
+    "高端，不只是材质而已：Apple Watch Edition 的前世今生",
+    "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+    "派评 | 近期值得关注的 App",
+    "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+    "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+    "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "缅北魏家犯罪集团案一审宣判"
+    },
+    {
+      "platform": "抖音",
+      "title": "所有人展示十月美甲"
+    },
+    {
+      "platform": "抖音",
+      "title": "红星照耀中国"
+    },
+    {
+      "platform": "抖音",
+      "title": "完美穿搭不浪费"
+    },
+    {
+      "platform": "抖音",
+      "title": "A股午后强势拉升翻红"
+    },
+    {
+      "platform": "头条",
+      "title": "3人死刑！缅北魏家犯罪集团案宣判"
+    },
+    {
+      "platform": "头条",
+      "title": "中方回应特朗普称不相信中俄在帮伊朗"
+    },
+    {
+      "platform": "头条",
+      "title": "你我的长征"
+    },
+    {
+      "platform": "头条",
+      "title": "24岁女吃播猝死 或因缺钾"
+    },
+    {
+      "platform": "头条",
+      "title": "特朗普为什么突然“倒向”俄罗斯"
+    },
+    {
+      "platform": "百度",
+      "title": "深耕“土特产” 挑稳“金扁担”"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1773",
+      "title": "首次发现具有螺旋结构的星系M51"
+    },
+    {
+      "year": "1815",
+      "title": "英国占领大西洋上的阿森松岛"
+    },
+    {
+      "year": "1815",
+      "title": "法国军事家若阿尚·缪拉逝世"
+    }
+  ]
+}

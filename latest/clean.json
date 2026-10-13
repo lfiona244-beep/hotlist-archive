@@ -1,119 +1,137 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T16:36:38.860891+08:00",
-  "total_raw": 60,
-  "total_cleaned": 60,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T16:56:25.086555+08:00",
+  "total_raw": 59,
+  "total_cleaned": 57,
   "category_stats": {
-    "社会": 7,
-    "其他": 45,
-    "科技": 4,
-    "体育": 1,
-    "娱乐": 1,
+    "其他": 39,
+    "娱乐": 5,
     "生活": 1,
+    "游戏": 3,
+    "体育": 1,
+    "社会": 4,
+    "科技": 3,
     "财经": 1
   },
-  "hotspot": [],
-  "top_trending": [
+  "hotspot": [
     {
-      "title": "霸王茶姬店员劝退消费者",
+      "title": "星野源新垣结衣孩子出生",
       "platforms": [
-        "toutiao"
+        "toutiao",
+        "baidu"
       ],
       "category": "其他"
     },
     {
-      "title": "俄方回应特朗普要求换掉乌总统",
+      "title": "男群演疑似猥亵女演员 剧组回应",
       "platforms": [
-        "toutiao"
+        "toutiao",
+        "baidu"
       ],
-      "category": "社会"
+      "category": "娱乐"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "缅北魏家犯罪集团案一审宣判",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
     },
     {
-      "title": "未来5年卫生健康领域将迎这些发展",
+      "title": "所有人展示十月美甲",
       "platforms": [
-        "toutiao"
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "红星照耀中国",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "完美穿搭不浪费",
+      "platforms": [
+        "douyin"
       ],
       "category": "生活"
     },
     {
-      "title": "央视曝投资1.2亿项目仅建5个棚",
+      "title": "A股午后强势拉升翻红",
       "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "外交部：美方应当慎重处理台湾问题",
-      "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "男生梦到妈妈去世 醒来后情绪崩溃",
+      "title": "用1200个魔方祝贺郑钦文夺冠",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "“中国天眼”发现真实宇宙三体世界",
+      "title": "年轻人办婚礼有自己的想法",
       "platforms": [
-        "toutiao"
+        "douyin"
+      ],
+      "category": "娱乐"
+    },
+    {
+      "title": "杨瀚森13分4板4助攻",
+      "platforms": [
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "全市场超4300只个股下挫",
+      "title": "是秋天的魔法帽呀",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "官方通报宣称投资15亿项目撂荒",
+      "title": "大道永远的长征",
       "platforms": [
-        "toutiao"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "郑钦文3年商业收入追平李娜整个生涯",
-      "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "北京热力辟谣内部人员代缴采暖费打折",
+      "title": "纯过日子人的双11必买清单",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "老人被撞后主动让骑车者走",
+      "title": "白泽启动手游狙击赛",
       "platforms": [
-        "toutiao"
+        "douyin"
+      ],
+      "category": "游戏"
+    },
+    {
+      "title": "玉簟秋我比男主先爱上女主",
+      "platforms": [
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "王曼昱和孙颖莎谁能先拿到大满贯",
+      "title": "网剧替罪开播",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "邱毅：岛内认为大陆解决台湾问题加快",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "郑钦文对手输球告状：没有加油声",
+      "title": "3人死刑！缅北魏家犯罪集团案宣判",
       "platforms": [
         "toutiao"
       ],
@@ -121,67 +139,67 @@
     }
   ],
   "news": [
+    "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
+    "高端，不只是材质而已：Apple Watch Edition 的前世今生",
+    "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+    "派评 | 近期值得关注的 App",
     "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
     "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
-    "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
-    "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
-    "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
-    "本周看什么 | 最近值得一看的 11 部作品",
-    "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-    "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts"
+    "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "那个卖菱角的小贩想要弄伤我的鳞片",
-      "author": "印度老吃家",
-      "play": 967617
+      "title": "我来到了世界第10小国，生活在地中海岛上的人幸福吗?",
+      "author": "世茹很如意",
+      "play": 362887
     },
     {
-      "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
-      "author": "-欣小萌-",
-      "play": 1640254
+      "title": "《异环》明音凛EP丨晨星与海",
+      "author": "异环",
+      "play": 426268
     },
     {
-      "title": "那些无法解释的瞬间心理感受。。。又一次把我心里的画面拍了出来，这次你中了几个？",
-      "author": "李如儒也是李蠕蠕",
-      "play": 709949
+      "title": "苏联版“空中监狱”是什么？【神奇组织55】",
+      "author": "小约翰可汗",
+      "play": 585969
     },
     {
-      "title": "【26年双11显示器推荐】热门型号直降1000+？一条视频讲清楚！2万字爆肝 工业级设备实测 全规格尺寸实拍 1080P/2K/4K的电竞/办公/设计/性价比",
-      "author": "屏心而论",
-      "play": 432459
+      "title": "“轮回百世，嘴硬百世。”",
+      "author": "Mr-Ferret",
+      "play": 922702
     },
     {
-      "title": "你 坐 不 过 我 你 信 吗 ？",
-      "author": "蓝飘飘fly",
-      "play": 321033
+      "title": "住手 你们不要再摇花手了",
+      "author": "神威-狗剩",
+      "play": 520765
     },
     {
-      "title": "“我酒桶有自己的想法！”369、Karsa重聊纳尔往事【LPL视频播客丨把TA叫过来ep2】",
-      "author": "英雄联盟赛事",
-      "play": 216954
+      "title": "超级“干净”的巴基斯坦汽水工厂，是一代人永远无法磨灭的伤痛",
+      "author": "世界美食official",
+      "play": 792884
     },
     {
-      "title": "12个脑洞大开的做饭方式！",
-      "author": "胡仔一人食",
-      "play": 2197212
+      "title": "乌铜走银",
+      "author": "归乡人山白",
+      "play": 656486
     },
     {
-      "title": "用十三年去拍一部纪录片，然后明白死亡只是一个炎热的夏天午后 【探照灯计划】",
-      "author": "柯永权",
-      "play": 337599
+      "title": "“新月飨宴”主题活动故事视频爆料：——“欢迎光临午夜的魔法厨房！今日是谁携美味闪亮登场？”",
+      "author": "网易第五人格手游",
+      "play": 233259
     }
   ],
   "zhihu_daily": [
     {
-      "title": "于敏-邓稼先构型的是怎么设计出来的，为什么别的国家死活搞不出来？"
+      "title": "有哪些像「饮鸩止渴」中的「鸩鸟」一样有毒的鸟类？"
     },
     {
-      "title": "日本饮食为什么一餐的量那么少？"
+      "title": "哪些计算机技术已经悄悄改变了生活，却很少有人意识到？"
     },
     {
-      "title": "为什么纸张沾了油会变得更透，而沾了水就没这么明显？"
+      "title": "为什么沙漠地区的人在极热的环境下，反而穿更多的衣服？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
