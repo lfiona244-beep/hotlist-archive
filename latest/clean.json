@@ -1,21 +1,29 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T16:56:25.086555+08:00",
-  "total_raw": 59,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:05:56.412609+08:00",
+  "total_raw": 60,
   "total_cleaned": 57,
   "category_stats": {
-    "其他": 39,
-    "娱乐": 5,
+    "社会": 3,
+    "其他": 43,
+    "游戏": 2,
+    "体育": 2,
     "生活": 1,
-    "游戏": 3,
-    "体育": 1,
-    "社会": 4,
-    "科技": 3,
+    "科技": 2,
+    "娱乐": 3,
     "财经": 1
   },
   "hotspot": [
     {
-      "title": "星野源新垣结衣孩子出生",
+      "title": "官方通报女子高铁开免提电话1小时",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "金晨刚交完学费美国学校就倒闭了",
       "platforms": [
         "toutiao",
         "baidu"
@@ -23,183 +31,185 @@
       "category": "其他"
     },
     {
-      "title": "男群演疑似猥亵女演员 剧组回应",
+      "title": "“殡葬第一股”300亿市值崩塌",
       "platforms": [
         "toutiao",
         "baidu"
       ],
-      "category": "娱乐"
+      "category": "其他"
     }
   ],
   "top_trending": [
     {
-      "title": "缅北魏家犯罪集团案一审宣判",
+      "title": "中朝新鸭绿江大桥明日开通",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "女子将50斤羊粪寄到女儿已毕业大学",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "世界读懂鲜活中国",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "缅北四大家族3个已被中国宣判",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "官方通报女子高铁开免提电话1小时",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "男子每天2包烟抽38年心脏血管堵90%",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "辽宁盘锦发生3.4级地震",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国台办：台当局媚日恋殖是历史罪人",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "老干妈参保人数一年减少超200人",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "乌方称遇袭前未获西方预警",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "网民编造起火消防车进不去被批评",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中朝新鸭绿江大桥将开通",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "所有人展示十月美甲",
+      "title": "金晨刚交完学费美国学校就倒闭了",
       "platforms": [
-        "douyin"
+        "toutiao",
+        "baidu"
       ],
       "category": "其他"
     },
     {
-      "title": "红星照耀中国",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "完美穿搭不浪费",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "生活"
-    },
-    {
-      "title": "A股午后强势拉升翻红",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "用1200个魔方祝贺郑钦文夺冠",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "年轻人办婚礼有自己的想法",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "娱乐"
-    },
-    {
-      "title": "杨瀚森13分4板4助攻",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "是秋天的魔法帽呀",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "大道永远的长征",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "纯过日子人的双11必买清单",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "白泽启动手游狙击赛",
+      "title": "英雄联盟S16入围赛赛程确定",
       "platforms": [
         "douyin"
       ],
       "category": "游戏"
     },
     {
-      "title": "玉簟秋我比男主先爱上女主",
+      "title": "“半条被子”的时代回响",
       "platforms": [
         "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "网剧替罪开播",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "3人死刑！缅北魏家犯罪集团案宣判",
-      "platforms": [
-        "toutiao"
       ],
       "category": "其他"
     }
   ],
   "news": [
+    "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+    "家中、这里、那里——Sonos Play 体验",
+    "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+    "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+    "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
     "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-    "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-    "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-    "派评 | 近期值得关注的 App",
-    "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-    "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
-    "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见"
+    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "我来到了世界第10小国，生活在地中海岛上的人幸福吗?",
-      "author": "世茹很如意",
-      "play": 362887
-    },
-    {
-      "title": "《异环》明音凛EP丨晨星与海",
+      "title": "《异环》明音凛角色PV丨Letters to me",
       "author": "异环",
-      "play": 426268
+      "play": 878902
     },
     {
-      "title": "苏联版“空中监狱”是什么？【神奇组织55】",
-      "author": "小约翰可汗",
-      "play": 585969
+      "title": "盾山·一塔千年皮肤CG《光阴的旅程》| 天柱地轴",
+      "author": "王者荣耀",
+      "play": 979632
     },
     {
-      "title": "“轮回百世，嘴硬百世。”",
-      "author": "Mr-Ferret",
-      "play": 922702
+      "title": "我去当司机大家觉得有搞头嘛！",
+      "author": "永琪吗",
+      "play": 1555882
     },
     {
-      "title": "住手 你们不要再摇花手了",
-      "author": "神威-狗剩",
-      "play": 520765
+      "title": "能玩这游戏十年的人做什么都会成功的",
+      "author": "特效小哥studio",
+      "play": 1140277
     },
     {
-      "title": "超级“干净”的巴基斯坦汽水工厂，是一代人永远无法磨灭的伤痛",
-      "author": "世界美食official",
-      "play": 792884
+      "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
+      "author": "-超级小能猫-",
+      "play": 736056
     },
     {
-      "title": "乌铜走银",
-      "author": "归乡人山白",
-      "play": 656486
+      "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
+      "author": "老爸评测",
+      "play": 494637
     },
     {
-      "title": "“新月飨宴”主题活动故事视频爆料：——“欢迎光临午夜的魔法厨房！今日是谁携美味闪亮登场？”",
-      "author": "网易第五人格手游",
-      "play": 233259
+      "title": "《明日方舟：终末地》干员叙事 [祀：洒扫庭除]",
+      "author": "明日方舟终末地",
+      "play": 449887
+    },
+    {
+      "title": "当你和百万人一起挤景区【AI全民制作人】",
+      "author": "阿丸焖居",
+      "play": 508709
     }
   ],
   "zhihu_daily": [
     {
-      "title": "有哪些像「饮鸩止渴」中的「鸩鸟」一样有毒的鸟类？"
+      "title": "人类为什么没有进化成猛兽？"
     },
     {
-      "title": "哪些计算机技术已经悄悄改变了生活，却很少有人意识到？"
+      "title": "帝王蟹极度泛滥，严重影响生态平衡，但是为什么还那么贵？"
     },
     {
-      "title": "为什么沙漠地区的人在极热的环境下，反而穿更多的衣服？"
+      "title": "马为什么站着睡觉？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"

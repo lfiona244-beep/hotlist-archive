@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:05:46.097494+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-14T15:00",
+    "current": {
+      "temperature": 32.9,
+      "feels_like": 35.2,
+      "humidity": 42,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 6.3,
+      "wind_direction": 83
+    },
+    "today": {
+      "temp_min": 24.8,
+      "temp_max": 33.2,
+      "precipitation_probability": 4,
+      "uv_index": 7.3,
+      "sunrise": "2026-10-14T06:23",
+      "sunset": "2026-10-14T18:02"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+    "家中、这里、那里——Sonos Play 体验",
+    "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+    "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+    "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+    "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "中朝新鸭绿江大桥将开通"
+    },
+    {
+      "platform": "抖音",
+      "title": "英雄联盟S16入围赛赛程确定"
+    },
+    {
+      "platform": "抖音",
+      "title": "“半条被子”的时代回响"
+    },
+    {
+      "platform": "抖音",
+      "title": "奥沙利文恭喜郑宇伯夺冠"
+    },
+    {
+      "platform": "抖音",
+      "title": "加拉塔萨雷1:4巴萨"
+    },
+    {
+      "platform": "头条",
+      "title": "中朝新鸭绿江大桥明日开通"
+    },
+    {
+      "platform": "头条",
+      "title": "女子将50斤羊粪寄到女儿已毕业大学"
+    },
+    {
+      "platform": "头条",
+      "title": "世界读懂鲜活中国"
+    },
+    {
+      "platform": "头条",
+      "title": "缅北四大家族3个已被中国宣判"
+    },
+    {
+      "platform": "头条",
+      "title": "官方通报女子高铁开免提电话1小时"
+    },
+    {
+      "platform": "百度",
+      "title": "铭记“来时路” 走好“康庄道”"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1633",
+      "title": "英格兰国王詹姆斯二世出生"
+    },
+    {
+      "year": "1851",
+      "title": "英国路透社正式在伦敦开业"
+    },
+    {
+      "year": "1854",
+      "title": "曾国藩率湘军击败太平天国军队，占领武昌"
+    }
+  ]
+}
