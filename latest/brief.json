@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T15:05:46.097494+08:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:57:10.424512+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-14T15:00",
+    "fetched_at": "2026-10-15T14:45",
     "current": {
-      "temperature": 32.9,
-      "feels_like": 35.2,
-      "humidity": 42,
-      "condition": "晴",
-      "weather_code": 0,
-      "wind_speed": 6.3,
-      "wind_direction": 83
+      "temperature": 31.9,
+      "feels_like": 34.0,
+      "humidity": 48,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 11.7,
+      "wind_direction": 151
     },
     "today": {
-      "temp_min": 24.8,
-      "temp_max": 33.2,
-      "precipitation_probability": 4,
-      "uv_index": 7.3,
-      "sunrise": "2026-10-14T06:23",
-      "sunset": "2026-10-14T18:02"
+      "temp_min": 24.5,
+      "temp_max": 32.1,
+      "precipitation_probability": 65,
+      "uv_index": 5.85,
+      "sunrise": "2026-10-15T06:23",
+      "sunset": "2026-10-15T18:01"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "学得会的快捷指令，零基础入门苹果效率魔法",
+    "App+1｜Mangata：把每次散步当作一次探索旅行",
+    "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+    "认知心理学背后的播客剪辑技巧",
     "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
     "家中、这里、那里——Sonos Play 体验",
     "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
-    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-    "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-    "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
-    "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
+    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "中朝新鸭绿江大桥将开通"
+      "title": "中朝新鸭绿江大桥今日开通"
     },
     {
       "platform": "抖音",
-      "title": "英雄联盟S16入围赛赛程确定"
+      "title": "抖音商城双11超级补贴来啦"
     },
     {
       "platform": "抖音",
-      "title": "“半条被子”的时代回响"
+      "title": "我国风电装机规模稳居世界第一"
     },
     {
       "platform": "抖音",
-      "title": "奥沙利文恭喜郑宇伯夺冠"
+      "title": "火遍外网的ChinaHaul是什么"
     },
     {
       "platform": "抖音",
-      "title": "加拉塔萨雷1:4巴萨"
+      "title": "考研报名今天正式开始"
     },
     {
       "platform": "头条",
-      "title": "中朝新鸭绿江大桥明日开通"
+      "title": "长实否认李嘉诚去世"
     },
     {
       "platform": "头条",
-      "title": "女子将50斤羊粪寄到女儿已毕业大学"
+      "title": "中朝新鸭绿江大桥正式开通"
     },
     {
       "platform": "头条",
-      "title": "世界读懂鲜活中国"
+      "title": "而今“长征”向苍穹"
     },
     {
       "platform": "头条",
-      "title": "缅北四大家族3个已被中国宣判"
+      "title": "千万新房当嫁妆被陌生人拆成毛坯"
     },
     {
       "platform": "头条",
-      "title": "官方通报女子高铁开免提电话1小时"
+      "title": "多地组织筛查干部档案有何深意"
     },
     {
       "platform": "百度",
-      "title": "铭记“来时路” 走好“康庄道”"
+      "title": "看邮票里的万水千山"
     }
   ],
   "today_in_history": [
     {
-      "year": "1633",
-      "title": "英格兰国王詹姆斯二世出生"
+      "year": "1844",
+      "title": "德国哲学家尼采出生"
     },
     {
-      "year": "1851",
-      "title": "英国路透社正式在伦敦开业"
+      "year": "1923",
+      "title": "意大利著名短篇小说家伊塔洛·卡尔维诺出生"
     },
     {
-      "year": "1854",
-      "title": "曾国藩率湘军击败太平天国军队，占领武昌"
+      "year": "1924",
+      "title": "美国“汽车大王”李·艾柯卡出生"
     }
   ]
 }

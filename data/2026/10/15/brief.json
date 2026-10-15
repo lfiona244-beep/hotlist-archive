@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:57:10.424512+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-15T14:45",
+    "current": {
+      "temperature": 31.9,
+      "feels_like": 34.0,
+      "humidity": 48,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 11.7,
+      "wind_direction": 151
+    },
+    "today": {
+      "temp_min": 24.5,
+      "temp_max": 32.1,
+      "precipitation_probability": 65,
+      "uv_index": 5.85,
+      "sunrise": "2026-10-15T06:23",
+      "sunset": "2026-10-15T18:01"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "学得会的快捷指令，零基础入门苹果效率魔法",
+    "App+1｜Mangata：把每次散步当作一次探索旅行",
+    "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+    "认知心理学背后的播客剪辑技巧",
+    "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+    "家中、这里、那里——Sonos Play 体验",
+    "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "中朝新鸭绿江大桥今日开通"
+    },
+    {
+      "platform": "抖音",
+      "title": "抖音商城双11超级补贴来啦"
+    },
+    {
+      "platform": "抖音",
+      "title": "我国风电装机规模稳居世界第一"
+    },
+    {
+      "platform": "抖音",
+      "title": "火遍外网的ChinaHaul是什么"
+    },
+    {
+      "platform": "抖音",
+      "title": "考研报名今天正式开始"
+    },
+    {
+      "platform": "头条",
+      "title": "长实否认李嘉诚去世"
+    },
+    {
+      "platform": "头条",
+      "title": "中朝新鸭绿江大桥正式开通"
+    },
+    {
+      "platform": "头条",
+      "title": "而今“长征”向苍穹"
+    },
+    {
+      "platform": "头条",
+      "title": "千万新房当嫁妆被陌生人拆成毛坯"
+    },
+    {
+      "platform": "头条",
+      "title": "多地组织筛查干部档案有何深意"
+    },
+    {
+      "platform": "百度",
+      "title": "看邮票里的万水千山"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1844",
+      "title": "德国哲学家尼采出生"
+    },
+    {
+      "year": "1923",
+      "title": "意大利著名短篇小说家伊塔洛·卡尔维诺出生"
+    },
+    {
+      "year": "1924",
+      "title": "美国“汽车大王”李·艾柯卡出生"
+    }
+  ]
+}

@@ -1,29 +1,19 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T15:05:56.412609+08:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:57:20.371845+08:00",
   "total_raw": 60,
-  "total_cleaned": 57,
+  "total_cleaned": 58,
   "category_stats": {
-    "社会": 3,
-    "其他": 43,
-    "游戏": 2,
-    "体育": 2,
+    "其他": 47,
+    "社会": 4,
+    "财经": 4,
     "生活": 1,
-    "科技": 2,
-    "娱乐": 3,
-    "财经": 1
+    "游戏": 1,
+    "科技": 1
   },
   "hotspot": [
     {
-      "title": "官方通报女子高铁开免提电话1小时",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "金晨刚交完学费美国学校就倒闭了",
+      "title": "长实否认李嘉诚去世",
       "platforms": [
         "toutiao",
         "baidu"
@@ -31,7 +21,7 @@
       "category": "其他"
     },
     {
-      "title": "“殡葬第一股”300亿市值崩塌",
+      "title": "天安门站岗小橘猫“入编”故宫",
       "platforms": [
         "toutiao",
         "baidu"
@@ -41,107 +31,106 @@
   ],
   "top_trending": [
     {
-      "title": "中朝新鸭绿江大桥明日开通",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "女子将50斤羊粪寄到女儿已毕业大学",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "世界读懂鲜活中国",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "缅北四大家族3个已被中国宣判",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "官方通报女子高铁开免提电话1小时",
+      "title": "长实否认李嘉诚去世",
       "platforms": [
         "toutiao",
         "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中朝新鸭绿江大桥正式开通",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "而今“长征”向苍穹",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "千万新房当嫁妆被陌生人拆成毛坯",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "多地组织筛查干部档案有何深意",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "胡塞导弹砸中沙特阿美总部有何影响",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "96岁爷爷独自坐43小时绿皮火车到西藏",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek恢复服务",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "马斯克称由美政府决定乌星盾使用",
+      "platforms": [
+        "toutiao"
       ],
       "category": "社会"
     },
     {
-      "title": "男子每天2包烟抽38年心脏血管堵90%",
+      "title": "湖南姐妹专程来汉给长江大桥庆生",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "辽宁盘锦发生3.4级地震",
+      "title": "小心“人脸授权”背后的陷阱",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "国台办：台当局媚日恋殖是历史罪人",
+      "title": "物业回应千万新房被陌生人拆成毛坯",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "深圳：APEC会议期间倡议带薪休假",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "老干妈参保人数一年减少超200人",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "乌方称遇袭前未获西方预警",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "网民编造起火消防车进不去被批评",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中朝新鸭绿江大桥将开通",
+      "title": "中朝新鸭绿江大桥今日开通",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "金晨刚交完学费美国学校就倒闭了",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "英雄联盟S16入围赛赛程确定",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "游戏"
-    },
-    {
-      "title": "“半条被子”的时代回响",
+      "title": "抖音商城双11超级补贴来啦",
       "platforms": [
         "douyin"
       ],
@@ -149,67 +138,67 @@
     }
   ],
   "news": [
+    "学得会的快捷指令，零基础入门苹果效率魔法",
+    "App+1｜Mangata：把每次散步当作一次探索旅行",
+    "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+    "认知心理学背后的播客剪辑技巧",
     "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
     "家中、这里、那里——Sonos Play 体验",
     "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
-    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-    "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-    "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
-    "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-    "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
+    "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《异环》明音凛角色PV丨Letters to me",
+      "title": "《异环》剧情过场丨「God Knows…（异环Cover ver.）」特别动画",
       "author": "异环",
-      "play": 878902
+      "play": 500782
     },
     {
-      "title": "盾山·一塔千年皮肤CG《光阴的旅程》| 天柱地轴",
-      "author": "王者荣耀",
-      "play": 979632
-    },
-    {
-      "title": "我去当司机大家觉得有搞头嘛！",
-      "author": "永琪吗",
-      "play": 1555882
-    },
-    {
-      "title": "能玩这游戏十年的人做什么都会成功的",
-      "author": "特效小哥studio",
-      "play": 1140277
-    },
-    {
-      "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
-      "author": "-超级小能猫-",
-      "play": 736056
-    },
-    {
-      "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
-      "author": "老爸评测",
-      "play": 494637
-    },
-    {
-      "title": "《明日方舟：终末地》干员叙事 [祀：洒扫庭除]",
+      "title": "《明日方舟：终末地》祀EP - 花祀时 & 何处山海万象生",
       "author": "明日方舟终末地",
-      "play": 449887
+      "play": 480732
     },
     {
-      "title": "当你和百万人一起挤景区【AI全民制作人】",
-      "author": "阿丸焖居",
-      "play": 508709
+      "title": "泽连斯基有牌打了",
+      "author": "燕三嘤嘤嘤",
+      "play": 418961
+    },
+    {
+      "title": "《啦嗒铛》1.0正式发售宣传片 | GSE",
+      "author": "香港GSE",
+      "play": 567473
+    },
+    {
+      "title": "百斤玉米 擒巨物",
+      "author": "三叶草钓鱼",
+      "play": 739967
+    },
+    {
+      "title": "也是当上外卖大法官了【第二集】",
+      "author": "阿萨Aza",
+      "play": 1290670
+    },
+    {
+      "title": "《绿梦：时空之声》公测PV | 时序的回响",
+      "author": "绿梦时空之声",
+      "play": 878586
+    },
+    {
+      "title": "热烈欢迎袁咏仪！超级爱买的靓靓姐最近又乱买了什么呢？（恭喜靓靓终于演上警察了👏",
+      "author": "papi酱",
+      "play": 190126
     }
   ],
   "zhihu_daily": [
     {
-      "title": "人类为什么没有进化成猛兽？"
+      "title": "水刚咽下去，口渴怎么就缓解了？身体从哪里知道我喝水了？"
     },
     {
-      "title": "帝王蟹极度泛滥，严重影响生态平衡，但是为什么还那么贵？"
+      "title": "50亿年后太阳熄灭变成白矮星，人类何去何从，困死地球太阳系吗?"
     },
     {
-      "title": "马为什么站着睡觉？"
+      "title": "满清时满城里的八旗主要从事什么生产活动？劳动强度大不大？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
