@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "total": 119,
   "available": 66,
   "available_rate": 55.5,
@@ -18,11 +18,11 @@
     "搜TV啦",
     "白嫖者联盟",
     "青空次元",
-    "APP影院",
     "爱电影",
     "爱壹帆",
     "Auete影视",
-    "电影人生"
+    "电影人生",
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -60,10 +64,6 @@
     {
       "name": "SubHD",
       "status": "受限 HTTP 403"
-    },
-    {
-      "name": "Kodi",
-      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
@@ -80,10 +80,6 @@
       "status": "unreachable"
     },
     {
-      "name": "小马",
-      "status": "unreachable"
-    },
-    {
       "name": "摸鱼儿",
       "status": "unreachable"
     },
@@ -92,7 +88,7 @@
       "status": "unreachable"
     },
     {
-      "name": "POMO",
+      "name": "奈飞工厂",
       "status": "unreachable"
     },
     {
