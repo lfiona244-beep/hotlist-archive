@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T14:43:46.646087+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-16T14:30",
+    "current": {
+      "temperature": 33.2,
+      "feels_like": 35.8,
+      "humidity": 42,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 6.6,
+      "wind_direction": 133
+    },
+    "today": {
+      "temp_min": 24.0,
+      "temp_max": 33.4,
+      "precipitation_probability": 0,
+      "uv_index": 7.2,
+      "sunrise": "2026-10-16T06:24",
+      "sunset": "2026-10-16T18:00"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+    "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+    "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+    "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+    "新玩意 253｜少数派的编辑们最近买了啥？",
+    "顺应变化，重申标准：《少数派创作手册》修订说明",
+    "学得会的快捷指令，零基础入门苹果效率魔法",
+    "App+1｜Mangata：把每次散步当作一次探索旅行"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "淡人早秋穿搭"
+    },
+    {
+      "platform": "抖音",
+      "title": "火箭116:89主场大胜雷霆"
+    },
+    {
+      "platform": "抖音",
+      "title": "本届广交会实现多项首次突破"
+    },
+    {
+      "platform": "抖音",
+      "title": "解放军南北六海域同时集训"
+    },
+    {
+      "platform": "抖音",
+      "title": "英雄联盟S16世界赛开赛"
+    },
+    {
+      "platform": "头条",
+      "title": "飞行汽车距离普通人生活还有多远"
+    },
+    {
+      "platform": "头条",
+      "title": "美国肯德基将改用可口可乐"
+    },
+    {
+      "platform": "头条",
+      "title": "9件文物里的长征记忆"
+    },
+    {
+      "platform": "头条",
+      "title": "怎么看特斯拉真造了一辆“飞行汽车”"
+    },
+    {
+      "platform": "头条",
+      "title": "多个手机品牌集体宣布降价"
+    },
+    {
+      "platform": "百度",
+      "title": "确保健康中国建设取得决定性进展"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1553",
+      "title": "德国画家老卢卡斯·克拉纳赫逝世"
+    },
+    {
+      "year": "1758",
+      "title": "美国辞典编纂者诺亚·韦伯斯特出生"
+    },
+    {
+      "year": "1793",
+      "title": "法国国王路易十六的王后玛丽·安托瓦内特逝世"
+    }
+  ]
+}

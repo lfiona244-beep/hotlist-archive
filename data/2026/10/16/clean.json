@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T14:43:59.229359+08:00",
+  "total_raw": 60,
+  "total_cleaned": 59,
+  "category_stats": {
+    "其他": 42,
+    "生活": 6,
+    "游戏": 2,
+    "科技": 5,
+    "娱乐": 2,
+    "社会": 2
+  },
+  "hotspot": [
+    {
+      "title": "王毅对以方说巴问题是本世纪最大不公",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "飞行汽车距离普通人生活还有多远",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "淡人早秋穿搭",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "火箭116:89主场大胜雷霆",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "美国肯德基将改用可口可乐",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "9件文物里的长征记忆",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "本届广交会实现多项首次突破",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "怎么看特斯拉真造了一辆“飞行汽车”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "解放军南北六海域同时集训",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "英雄联盟S16世界赛开赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "游戏"
+    },
+    {
+      "title": "胡塞袭击利雅得机场致17死333伤",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "多个手机品牌集体宣布降价",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "美媒：中国造出了美国人喜欢的车",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek发布补偿方案",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "这一步闪进景区宣传片了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "乌鲁木齐迎来初雪",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+    "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+    "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+    "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+    "新玩意 253｜少数派的编辑们最近买了啥？",
+    "顺应变化，重申标准：《少数派创作手册》修订说明",
+    "学得会的快捷指令，零基础入门苹果效率魔法",
+    "App+1｜Mangata：把每次散步当作一次探索旅行"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
+      "author": "绝区零",
+      "play": 406566
+    },
+    {
+      "title": "我造了一块会飞的滑板...",
+      "author": "神奇阿宇Ayu",
+      "play": 1365934
+    },
+    {
+      "title": "震惊瘫坐！特斯拉，你来真的啊？",
+      "author": "所长Wy",
+      "play": 300457
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第11集 消失的出口【8月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 660607
+    },
+    {
+      "title": "挑战拍出刃牙原作没有的剧情！！宫本武藏vs郭海皇！！",
+      "author": "大晶本人",
+      "play": 1030823
+    },
+    {
+      "title": "社会终于来毒打我父母了！！！！",
+      "author": "小小段砸",
+      "play": 890103
+    },
+    {
+      "title": "魔君临世！在绝对的力量面前，所有的制衡与套路都白给！",
+      "author": "渤海小吏",
+      "play": 207710
+    },
+    {
+      "title": "宵禁｜鼓敲满一千下，长安城会发生什么（4K成片）",
+      "author": "来龙去脉LLQM",
+      "play": 999231
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "历史上谁曾经成功潜入过皇宫？"
+    },
+    {
+      "title": "我小的时候一直在想一个问题，是不是物质体积越小，感受到的物体时间流速不一样？"
+    },
+    {
+      "title": "「国之大者，在祀与戎」，为什么祭祀能和战争并列成为国家大事？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
