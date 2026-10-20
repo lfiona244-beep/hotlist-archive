@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:10:02.671344+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-20T15:00",
+    "current": {
+      "temperature": 33.9,
+      "feels_like": 37.5,
+      "humidity": 47,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 4.7,
+      "wind_direction": 157
+    },
+    "today": {
+      "temp_min": 25.0,
+      "temp_max": 34.0,
+      "precipitation_probability": 12,
+      "uv_index": 6.5,
+      "sunrise": "2026-10-20T06:25",
+      "sunset": "2026-10-20T17:57"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+    "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+    "派早报：MiniMax 发布 M3.1 Flash 模型等",
+    "派评 | 近期值得关注的 App",
+    "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+    "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
+    "开源掌机的文化线索",
+    "派早报：三季度全球手机出货量继续两位数下降"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "美舰冲闯南沙群岛仙宾礁附近海域"
+    },
+    {
+      "platform": "抖音",
+      "title": "英雄联盟S16瑞士轮首日赛程"
+    },
+    {
+      "platform": "抖音",
+      "title": "何以中国当惊世界殊"
+    },
+    {
+      "platform": "抖音",
+      "title": "吴艳妮说只要跑得动就不会退役"
+    },
+    {
+      "platform": "抖音",
+      "title": "社保基金会原副理事长王文灵被双开"
+    },
+    {
+      "platform": "头条",
+      "title": "美国一战斗舰冲闯中国南沙海域"
+    },
+    {
+      "platform": "头条",
+      "title": "特朗普：中方在乌问题上立场很公允"
+    },
+    {
+      "platform": "头条",
+      "title": "一组数字看2026前三季度中国经济"
+    },
+    {
+      "platform": "头条",
+      "title": "日本共产党称美日军演像“战争前夜”"
+    },
+    {
+      "platform": "头条",
+      "title": "上海人又排队买黄金了"
+    },
+    {
+      "platform": "百度",
+      "title": "军民团结如一人"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1548",
+      "title": "玻利维亚首都拉巴斯建成"
+    },
+    {
+      "year": "1632",
+      "title": "英国天文学家、建筑师克里斯多佛·雷恩出生"
+    },
+    {
+      "year": "1740",
+      "title": "玛丽娅·特蕾莎成为奥地利首位女大公"
+    }
+  ]
+}

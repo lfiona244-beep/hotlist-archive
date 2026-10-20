@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T15:18:32.308527+08:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:10:02.671344+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-19T15:15",
+    "fetched_at": "2026-10-20T15:00",
     "current": {
-      "temperature": 33.5,
-      "feels_like": 36.6,
-      "humidity": 45,
+      "temperature": 33.9,
+      "feels_like": 37.5,
+      "humidity": 47,
       "condition": "晴",
       "weather_code": 0,
       "wind_speed": 4.7,
-      "wind_direction": 184
+      "wind_direction": 157
     },
     "today": {
-      "temp_min": 24.7,
-      "temp_max": 33.5,
-      "precipitation_probability": 0,
-      "uv_index": 7.1,
-      "sunrise": "2026-10-19T06:25",
-      "sunset": "2026-10-19T17:58"
+      "temp_min": 25.0,
+      "temp_max": 34.0,
+      "precipitation_probability": 12,
+      "uv_index": 6.5,
+      "sunrise": "2026-10-20T06:25",
+      "sunset": "2026-10-20T17:57"
     }
   },
   "fuel": [
@@ -48,24 +48,24 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+    "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+    "派早报：MiniMax 发布 M3.1 Flash 模型等",
+    "派评 | 近期值得关注的 App",
+    "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+    "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
     "开源掌机的文化线索",
-    "派早报：三季度全球手机出货量继续两位数下降",
-    "Quote/0 妙用 +1，把墨水屏变成点餐助手",
-    "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
-    "本周看什么 | 最近值得一看的 13 部作品",
-    "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
-    "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
-    "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具"
+    "派早报：三季度全球手机出货量继续两位数下降"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "坐红飘带游遍贵州美景"
+      "title": "美舰冲闯南沙群岛仙宾礁附近海域"
     },
     {
       "platform": "抖音",
-      "title": "前三季度我国GDP同比增长4.6% ​"
+      "title": "英雄联盟S16瑞士轮首日赛程"
     },
     {
       "platform": "抖音",
@@ -73,45 +73,49 @@
     },
     {
       "platform": "抖音",
-      "title": "这才是中国功夫的魅力"
+      "title": "吴艳妮说只要跑得动就不会退役"
     },
     {
       "platform": "抖音",
-      "title": "比冬天先来的是阿勒泰的回忆"
+      "title": "社保基金会原副理事长王文灵被双开"
     },
     {
       "platform": "头条",
-      "title": "汇源集团：不再生产“汇源”果汁"
+      "title": "美国一战斗舰冲闯中国南沙海域"
     },
     {
       "platform": "头条",
-      "title": "曝披旭日旗留学生曾表达支持“台独”"
+      "title": "特朗普：中方在乌问题上立场很公允"
     },
     {
       "platform": "头条",
-      "title": "眼镜的暴利被谁赚走了"
+      "title": "一组数字看2026前三季度中国经济"
     },
     {
       "platform": "头条",
-      "title": "钧正平就中国留学生身披旭日旗发声"
+      "title": "日本共产党称美日军演像“战争前夜”"
+    },
+    {
+      "platform": "头条",
+      "title": "上海人又排队买黄金了"
     },
     {
       "platform": "百度",
-      "title": "山河铭记"
+      "title": "军民团结如一人"
     }
   ],
   "today_in_history": [
     {
-      "year": "1745",
-      "title": "爱尔兰作家、讽刺文学大师乔纳森·斯威夫特逝世"
+      "year": "1548",
+      "title": "玻利维亚首都拉巴斯建成"
     },
     {
-      "year": "1813",
-      "title": "拿破仑在莱比锡会战中惨败"
+      "year": "1632",
+      "title": "英国天文学家、建筑师克里斯多佛·雷恩出生"
     },
     {
-      "year": "1862",
-      "title": "法国电影先驱奥奥古斯特·吕米埃出生"
+      "year": "1740",
+      "title": "玛丽娅·特蕾莎成为奥地利首位女大公"
     }
   ]
 }
