@@ -1,145 +1,69 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T15:10:13.428032+08:00",
-  "total_raw": 59,
-  "total_cleaned": 55,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:03:26.378700+08:00",
+  "total_raw": 58,
+  "total_cleaned": 58,
   "category_stats": {
-    "社会": 5,
     "其他": 41,
-    "娱乐": 1,
-    "游戏": 2,
-    "财经": 3,
-    "生活": 1,
-    "科技": 2
+    "体育": 2,
+    "财经": 5,
+    "科技": 6,
+    "社会": 3,
+    "生活": 1
   },
-  "hotspot": [
-    {
-      "title": "官方辟谣艾滋病患者到济南恶意传播",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "李小冉：一忍再忍不想占用公共资源",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "刘恺威承认新恋情",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "娱乐"
-    },
-    {
-      "title": "陈行甲任珠海市格力技工学校名誉校长",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "美国一战斗舰冲闯中国南沙海域",
+      "title": "冬天第一串车厘子糖葫芦",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "特朗普：中方在乌问题上立场很公允",
+      "title": "NBA揭幕战马刺雷霆爆发冲突",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
-      "category": "其他"
+      "category": "体育"
     },
     {
-      "title": "一组数字看2026前三季度中国经济",
+      "title": "中国经济新动能孕育新机遇",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "国际油价昨夜上演大逆转",
       "platforms": [
         "toutiao"
       ],
       "category": "财经"
     },
     {
-      "title": "日本共产党称美日军演像“战争前夜”",
+      "title": "国家数据集团成立",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
-      "category": "其他"
+      "category": "科技"
     },
     {
-      "title": "上海人又排队买黄金了",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "乌军无人机前线撤离伤员视频被质疑",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "美舰冲闯南沙群岛仙宾礁附近海域",
+      "title": "当初雪落在大同古城",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "英雄联盟S16瑞士轮首日赛程",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "游戏"
-    },
-    {
-      "title": "董明珠：格力技工学校禁止谈恋爱",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "何以中国当惊世界殊",
+      "title": "全国已开始进入赏秋模式",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "吴艳妮说只要跑得动就不会退役",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "社保基金会原副理事长王文灵被双开",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "DeepSeek学霸的降维打击",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "56岁女子8月退休9月重返大学读研",
+      "title": "国家癌症中心公布发病前五癌症",
       "platforms": [
         "toutiao"
       ],
@@ -151,70 +75,112 @@
         "douyin"
       ],
       "category": "其他"
+    },
+    {
+      "title": "姜乘澜素雅妆容教程",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "秋冬显腿细靴子测评",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "雷霆116:104马刺",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国内黄金克价跌破890元",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "台艺人唐禹哲涉兵役案宣判",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "多项惠民政策加速落地",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
     }
   ],
   "news": [
+    "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+    "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+    "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+    "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+    "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
     "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
     "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
-    "派早报：MiniMax 发布 M3.1 Flash 模型等",
-    "派评 | 近期值得关注的 App",
-    "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
-    "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
-    "开源掌机的文化线索",
-    "派早报：三季度全球手机出货量继续两位数下降"
+    "派早报：MiniMax 发布 M3.1 Flash 模型等"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
-      "author": "绝区零",
-      "play": 434123
+      "title": "《人间异想计划》22分钟实机首曝｜间章：如果之事与未践之约",
+      "author": "人间异想计划",
+      "play": 1377689
     },
     {
-      "title": "带着100万，我们见了成人网红...",
-      "author": "影视飓风",
-      "play": 2413289
+      "title": "未央何处丨燕云X张良仁教授的“考古之旅”",
+      "author": "燕云十六声官方",
+      "play": 841013
     },
     {
-      "title": "法国影响力最大的八卦是什么？【神奇组织56】",
-      "author": "小约翰可汗",
-      "play": 522446
+      "title": "【抢先看】《裁员裁到大动脉》｜我宣布这是2026最解气职场爽剧！当年全员抢我功劳压我晋升，我离职后，全公司集体翻车崩盘！",
+      "author": "云间桃桃",
+      "play": 1895157
     },
     {
-      "title": "《鸣潮》共鸣者「锁暝」PV | 契阔",
-      "author": "鸣潮",
-      "play": 334537
+      "title": "我得到了，能看到表白率的超能力……",
+      "author": "Mr-Ferret",
+      "play": 1687828
     },
     {
-      "title": "撕开神性！终末地1.6藏了多少隐喻？《明日方舟:终末地》剧情解析",
-      "author": "利维坦mY",
-      "play": 461342
+      "title": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
+      "author": "Foyege弗曳哥",
+      "play": 835981
     },
     {
-      "title": "iG出征单曲《仁川共鸣》",
-      "author": "蔚蓝边际",
-      "play": 170603
+      "title": "艺 术 求 生",
+      "author": "想想工作室",
+      "play": 325983
     },
     {
-      "title": "一辆车，为什么要给座椅装“空气悬架”？",
-      "author": "所长Wy",
-      "play": 186313
+      "title": "⚡赵本山  《绅士Gentle Man》⚡",
+      "author": "艾伦あ耶格尔",
+      "play": 635620
     },
     {
-      "title": "《现在的小孩 vs bro小时候》",
-      "author": "郑凯伦伦伦",
-      "play": 753393
+      "title": "中文已死：为什么我们越来越不敢好好说话？",
+      "author": "大圆镜科普",
+      "play": 1204892
     }
   ],
   "zhihu_daily": [
     {
-      "title": "你认同「国内访古需趁早」这句话吗？"
+      "title": "丝绸之路沿线，哪些古城遗址最能体现古代东西方文化交流的痕迹？"
     },
     {
-      "title": "为什么汉服唐制宋制能露锁骨脖子，而明制却裹得一丝不剩？"
+      "title": "如果一颗星球黄金极度廉价普通金属昂贵，黄金会成为建材吗？"
     },
     {
-      "title": "你觉得中国哪里是未来最宜居的地方？"
+      "title": "有没有让你难忘或者震撼的文物照片？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"

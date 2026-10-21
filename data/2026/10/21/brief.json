@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T15:03:14.182270+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-21T15:00",
+    "current": {
+      "temperature": 33.8,
+      "feels_like": 35.2,
+      "humidity": 43,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 15.0,
+      "wind_direction": 40
+    },
+    "today": {
+      "temp_min": 25.7,
+      "temp_max": 34.0,
+      "precipitation_probability": 2,
+      "uv_index": 7.05,
+      "sunrise": "2026-10-21T06:26",
+      "sunset": "2026-10-21T17:56"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+    "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+    "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+    "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+    "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+    "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+    "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+    "派早报：MiniMax 发布 M3.1 Flash 模型等"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "冬天第一串车厘子糖葫芦"
+    },
+    {
+      "platform": "抖音",
+      "title": "NBA揭幕战马刺雷霆爆发冲突"
+    },
+    {
+      "platform": "抖音",
+      "title": "中国经济新动能孕育新机遇"
+    },
+    {
+      "platform": "抖音",
+      "title": "国家数据集团成立"
+    },
+    {
+      "platform": "抖音",
+      "title": "当初雪落在大同古城"
+    },
+    {
+      "platform": "头条",
+      "title": "国际油价昨夜上演大逆转"
+    },
+    {
+      "platform": "头条",
+      "title": "国家癌症中心公布发病前五癌症"
+    },
+    {
+      "platform": "头条",
+      "title": "多项惠民政策加速落地"
+    },
+    {
+      "platform": "头条",
+      "title": "76人为何能掀翻尼克斯"
+    },
+    {
+      "platform": "头条",
+      "title": "宝马员工争着离职挤崩系统"
+    },
+    {
+      "platform": "百度",
+      "title": "红飘带闪耀新时代"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1328",
+      "title": "明朝开国皇帝明太祖高皇帝朱元璋出生"
+    },
+    {
+      "year": "1422",
+      "title": "法国国王查理六世逝世"
+    },
+    {
+      "year": "1520",
+      "title": "麦哲伦发现麦哲伦海峡"
+    }
+  ]
+}
