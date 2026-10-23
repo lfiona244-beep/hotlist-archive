@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "total": 124,
   "available": 70,
   "available_rate": 56.5,
@@ -18,11 +18,11 @@
     "搜TV啦",
     "白嫖者联盟",
     "青空次元",
+    "APP影院",
     "爱电影",
     "Auete影视",
     "电影人生",
-    "奈菲影视",
-    "PPnix"
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -35,10 +35,6 @@
     },
     {
       "name": "蛋蛋魔法",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -64,6 +60,10 @@
     {
       "name": "影猫仓库",
       "status": "受限 HTTP 403"
+    },
+    {
+      "name": "SubHD",
+      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
@@ -80,11 +80,11 @@
       "status": "unreachable"
     },
     {
-      "name": "奈飞工厂",
+      "name": "射手网(伪)",
       "status": "unreachable"
     },
     {
-      "name": "剧OK",
+      "name": "奈飞工厂",
       "status": "unreachable"
     },
     {
