@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T15:05:20.191427+08:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:57:16.167883+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-22T15:00",
+    "fetched_at": "2026-10-23T14:45",
     "current": {
-      "temperature": 31.3,
-      "feels_like": 32.3,
-      "humidity": 43,
+      "temperature": 31.1,
+      "feels_like": 32.0,
+      "humidity": 44,
       "condition": "晴",
       "weather_code": 0,
-      "wind_speed": 11.0,
-      "wind_direction": 355
+      "wind_speed": 13.6,
+      "wind_direction": 354
     },
     "today": {
-      "temp_min": 22.0,
-      "temp_max": 31.3,
+      "temp_min": 21.9,
+      "temp_max": 31.2,
       "precipitation_probability": 0,
       "uv_index": 7.0,
-      "sunrise": "2026-10-22T06:26",
-      "sunset": "2026-10-22T17:55"
+      "sunrise": "2026-10-23T06:27",
+      "sunset": "2026-10-23T17:55"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "破与立：设计视角下的 iPhone Duo",
+    "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+    "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
     "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
     "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
     "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
     "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-    "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
-    "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
-    "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-    "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁"
+    "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "黄海南部进行实弹射击意味着什么"
+      "title": "西藏7.0级地震已致16死65伤"
     },
     {
       "platform": "抖音",
-      "title": "AG无缘年总淘汰赛"
+      "title": "抖音博主教你vibe知识大赏"
     },
     {
       "platform": "抖音",
-      "title": "长征 永远在路上"
+      "title": "救援官兵连夜赶赴那曲地震灾区"
     },
     {
       "platform": "抖音",
-      "title": "全国已开始进入赏秋模式"
+      "title": "今日霜降"
     },
     {
       "platform": "抖音",
-      "title": "欧冠皇马4:1莱比锡"
+      "title": "如何看待高性价比人生指南火了"
     },
     {
       "platform": "头条",
-      "title": "怎么看解放军4艘大型登陆舰实弹演练"
+      "title": "西藏地震地面裂缝比手宽"
     },
     {
       "platform": "头条",
-      "title": "杭州大二学生开一人公司营收破60万"
+      "title": "普京：俄罗斯人和乌克兰人属同一民族"
     },
     {
       "platform": "头条",
-      "title": "无名忠骨 山河永记"
+      "title": "开放的中国始终与世界双向奔赴"
     },
     {
       "platform": "头条",
-      "title": "孟羽童晒与董明珠合照"
+      "title": "航拍西藏强震受灾核心区域"
     },
     {
       "platform": "头条",
-      "title": "创业板失守2600点"
+      "title": "娃哈哈集团董事长被曝辞职"
     },
     {
       "platform": "百度",
-      "title": "纪念长征胜利90周年大会隆重举行"
+      "title": "习近平对西藏7.0级地震作出重要指示"
     }
   ],
   "today_in_history": [
     {
-      "year": "1383",
-      "title": "葡萄牙爆发内战"
+      "year": "1869",
+      "title": "英国保守党领袖和英国首相爱德华·史密斯-斯坦利逝世"
     },
     {
-      "year": "1575",
-      "title": "阿瓜斯卡连特斯建城"
+      "year": "1910",
+      "title": "泰国国王拉玛五世逝世"
     },
     {
-      "year": "1811",
-      "title": "匈牙利钢琴家李斯特出生"
+      "year": "1922",
+      "title": "棒球领队曾纪恩出生"
     }
   ]
 }

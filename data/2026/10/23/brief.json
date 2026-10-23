@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:57:16.167883+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-23T14:45",
+    "current": {
+      "temperature": 31.1,
+      "feels_like": 32.0,
+      "humidity": 44,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 13.6,
+      "wind_direction": 354
+    },
+    "today": {
+      "temp_min": 21.9,
+      "temp_max": 31.2,
+      "precipitation_probability": 0,
+      "uv_index": 7.0,
+      "sunrise": "2026-10-23T06:27",
+      "sunset": "2026-10-23T17:55"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "破与立：设计视角下的 iPhone Duo",
+    "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+    "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+    "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
+    "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+    "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+    "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "西藏7.0级地震已致16死65伤"
+    },
+    {
+      "platform": "抖音",
+      "title": "抖音博主教你vibe知识大赏"
+    },
+    {
+      "platform": "抖音",
+      "title": "救援官兵连夜赶赴那曲地震灾区"
+    },
+    {
+      "platform": "抖音",
+      "title": "今日霜降"
+    },
+    {
+      "platform": "抖音",
+      "title": "如何看待高性价比人生指南火了"
+    },
+    {
+      "platform": "头条",
+      "title": "西藏地震地面裂缝比手宽"
+    },
+    {
+      "platform": "头条",
+      "title": "普京：俄罗斯人和乌克兰人属同一民族"
+    },
+    {
+      "platform": "头条",
+      "title": "开放的中国始终与世界双向奔赴"
+    },
+    {
+      "platform": "头条",
+      "title": "航拍西藏强震受灾核心区域"
+    },
+    {
+      "platform": "头条",
+      "title": "娃哈哈集团董事长被曝辞职"
+    },
+    {
+      "platform": "百度",
+      "title": "习近平对西藏7.0级地震作出重要指示"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1869",
+      "title": "英国保守党领袖和英国首相爱德华·史密斯-斯坦利逝世"
+    },
+    {
+      "year": "1910",
+      "title": "泰国国王拉玛五世逝世"
+    },
+    {
+      "year": "1922",
+      "title": "棒球领队曾纪恩出生"
+    }
+  ]
+}
