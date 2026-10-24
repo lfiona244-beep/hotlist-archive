@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T14:57:16.167883+08:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T14:52:04.236714+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-23T14:45",
+    "fetched_at": "2026-10-24T14:45",
     "current": {
-      "temperature": 31.1,
-      "feels_like": 32.0,
-      "humidity": 44,
-      "condition": "晴",
-      "weather_code": 0,
-      "wind_speed": 13.6,
-      "wind_direction": 354
+      "temperature": 31.6,
+      "feels_like": 31.7,
+      "humidity": 37,
+      "condition": "阴",
+      "weather_code": 2,
+      "wind_speed": 12.8,
+      "wind_direction": 358
     },
     "today": {
-      "temp_min": 21.9,
-      "temp_max": 31.2,
+      "temp_min": 21.8,
+      "temp_max": 31.6,
       "precipitation_probability": 0,
       "uv_index": 7.0,
-      "sunrise": "2026-10-23T06:27",
-      "sunset": "2026-10-23T17:55"
+      "sunrise": "2026-10-24T06:27",
+      "sunset": "2026-10-24T17:54"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "本周看什么 | 最近值得一看的 12 部作品",
+    "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
     "破与立：设计视角下的 iPhone Duo",
     "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
     "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
     "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
     "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-    "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-    "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-    "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用"
+    "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "西藏7.0级地震已致16死65伤"
+      "title": "骑行四千五百公里赴赛里木湖"
     },
     {
       "platform": "抖音",
-      "title": "抖音博主教你vibe知识大赏"
+      "title": "西藏克服难点开展地震救援"
     },
     {
       "platform": "抖音",
-      "title": "救援官兵连夜赶赴那曲地震灾区"
+      "title": "KC战胜AL"
     },
     {
       "platform": "抖音",
-      "title": "今日霜降"
+      "title": "蔷琵已减弱为台风级"
     },
     {
       "platform": "抖音",
-      "title": "如何看待高性价比人生指南火了"
+      "title": "湖人6人上双胜快船"
     },
     {
       "platform": "头条",
-      "title": "西藏地震地面裂缝比手宽"
+      "title": "老人去世后再婚配偶与儿子抢夺骨灰"
     },
     {
       "platform": "头条",
-      "title": "普京：俄罗斯人和乌克兰人属同一民族"
+      "title": "直击台风“蔷琵”实时路径"
     },
     {
       "platform": "头条",
-      "title": "开放的中国始终与世界双向奔赴"
+      "title": "藏北高原上的生命驰援"
     },
     {
       "platform": "头条",
-      "title": "航拍西藏强震受灾核心区域"
+      "title": "情侣办完婚礼闹崩 男方起诉返还彩礼"
     },
     {
       "platform": "头条",
-      "title": "娃哈哈集团董事长被曝辞职"
+      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐"
     },
     {
       "platform": "百度",
-      "title": "习近平对西藏7.0级地震作出重要指示"
+      "title": "读懂长征胜利蕴含的制胜之道"
     }
   ],
   "today_in_history": [
     {
-      "year": "1869",
-      "title": "英国保守党领袖和英国首相爱德华·史密斯-斯坦利逝世"
+      "year": "51",
+      "title": "罗马帝国皇帝图密善出生"
     },
     {
-      "year": "1910",
-      "title": "泰国国王拉玛五世逝世"
+      "year": "996",
+      "title": "法国国王雨果·卡佩逝世"
     },
     {
-      "year": "1922",
-      "title": "棒球领队曾纪恩出生"
+      "year": "1601",
+      "title": "丹麦天文学家和占星学家第谷·布拉赫逝世"
     }
   ]
 }
