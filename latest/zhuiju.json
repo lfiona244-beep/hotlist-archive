@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-23",
-  "total": 124,
-  "available": 70,
-  "available_rate": 56.5,
+  "date": "2026-10-24",
+  "total": 126,
+  "available": 72,
+  "available_rate": 57.1,
   "categories": {
-    "online_video": 53,
+    "online_video": 54,
     "video_app": 4,
     "subtitles": 3,
     "player": 7,
@@ -12,17 +12,17 @@
     "tvbox_config": 17,
     "magnet_search": 16,
     "cloud_search": 4,
-    "open_source": 15
+    "open_source": 16
   },
   "available_samples": [
+    "看看鸭",
     "搜TV啦",
     "白嫖者联盟",
     "青空次元",
     "APP影院",
     "爱电影",
     "Auete影视",
-    "电影人生",
-    "奈菲影视"
+    "电影人生"
   ],
   "restricted": [
     {
