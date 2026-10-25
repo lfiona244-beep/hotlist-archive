@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "total": 126,
-  "available": 72,
-  "available_rate": 57.1,
+  "available": 70,
+  "available_rate": 55.6,
   "categories": {
     "online_video": 54,
     "video_app": 4,
@@ -81,6 +81,10 @@
     },
     {
       "name": "射手网(伪)",
+      "status": "unreachable"
+    },
+    {
+      "name": "小马",
       "status": "unreachable"
     },
     {
