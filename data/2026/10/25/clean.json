@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T15:16:24.287810+08:00",
+  "total_raw": 60,
+  "total_cleaned": 60,
+  "category_stats": {
+    "其他": 53,
+    "体育": 3,
+    "社会": 1,
+    "科技": 2,
+    "游戏": 1
+  },
+  "hotspot": [],
+  "top_trending": [
+    {
+      "title": "张雪机车刷新水上漂吉尼斯世界纪录",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "稻城亚丁一游客疑高反失控冲下山坡",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "超6万件套救援物资运往灾区",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "张雪：打99分留1分不要太骄傲",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "泽连斯基：绝不接受放弃25%领土提议",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台湾光复81周年",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "马刺122:106独行侠",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "致敬最可爱的人",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲两架军机空中相撞画面曝光",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股指数调整10月26日落地",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "纪念抗美援朝出国作战76周年",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "亚锦赛半决赛蒯曼vs张本美和",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "姑娘花3.8万在鹤岗买房入住后傻眼",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "苏超半决赛落幕",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "台风蔷琵正在我国近海活跃",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+    "在硅谷，遇见个人计算机历史",
+    "本周看什么 | 最近值得一看的 12 部作品",
+    "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+    "破与立：设计视角下的 iPhone Duo",
+    "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+    "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "写了全国所有省份的love me！",
+      "author": "西柚甜瓜",
+      "play": 3225156
+    },
+    {
+      "title": "薄肌级【不要笑挑战】只有10.24%的人能忍得住不笑看到最后！",
+      "author": "比比老师",
+      "play": 772035
+    },
+    {
+      "title": "《话术博弈》如何优雅的套出对方的真心话？",
+      "author": "站在外面的Q",
+      "play": 940526
+    },
+    {
+      "title": "【独家】牧神记 第106集 道剑十四篇",
+      "author": "哔哩哔哩国创",
+      "play": 1118240
+    },
+    {
+      "title": "【头文字F4】德彪~德彪~得意的彪",
+      "author": "树深时见鹿dear",
+      "play": 1182893
+    },
+    {
+      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
+      "author": "Foyege弗曳哥",
+      "play": 886585
+    },
+    {
+      "title": "名片交换",
+      "author": "俊俊和朗朗",
+      "play": 603454
+    },
+    {
+      "title": "抽象新闻：10月人类迷惑行为大赏（上）",
+      "author": "我是M菌",
+      "play": 3332913
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "网友称可用「蟑螂粉」作为蛋白粉平替，商家还强调「野生蟑螂」，先抛开味道，这「蟑螂粉」有可能安全有效吗？"
+    },
+    {
+      "title": "中国有哪些考古上的巨大遗憾？"
+    },
+    {
+      "title": "人类可以破译蝾螈的再生基因，让人类在灾难或者意外情况下损坏或者毁掉的肢体，器官重新生长出来吗？"
+    },
+    {
+      "title": "有哪些城市自古以来市中心几乎没变过位置的？"
+    }
+  ]
+}

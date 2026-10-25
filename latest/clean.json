@@ -1,142 +1,117 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T14:52:20.298981+08:00",
-  "total_raw": 59,
-  "total_cleaned": 56,
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T15:16:24.287810+08:00",
+  "total_raw": 60,
+  "total_cleaned": 60,
   "category_stats": {
-    "娱乐": 3,
-    "其他": 48,
-    "社会": 4,
+    "其他": 53,
+    "体育": 3,
+    "社会": 1,
+    "科技": 2,
     "游戏": 1
   },
-  "hotspot": [
-    {
-      "title": "老人去世后再婚配偶与儿子抢夺骨灰",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "娱乐"
-    },
-    {
-      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "四价流感疫苗消失了？真相来了",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "骑行四千五百公里赴赛里木湖",
+      "title": "张雪机车刷新水上漂吉尼斯世界纪录",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "老人去世后再婚配偶与儿子抢夺骨灰",
+      "title": "稻城亚丁一游客疑高反失控冲下山坡",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "toutiao"
       ],
-      "category": "娱乐"
+      "category": "其他"
     },
     {
-      "title": "西藏克服难点开展地震救援",
+      "title": "超6万件套救援物资运往灾区",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "社会"
     },
     {
-      "title": "KC战胜AL",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "蔷琵已减弱为台风级",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "湖人6人上双胜快船",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "直击台风“蔷琵”实时路径",
+      "title": "张雪：打99分留1分不要太骄傲",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "藏北高原上的生命驰援",
+      "title": "泽连斯基：绝不接受放弃25%领土提议",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "秋日收藏小赛",
+      "title": "台湾光复81周年",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "火箭114:110力克马刺",
+      "title": "马刺122:106独行侠",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "毛茸茸治愈一切",
+      "title": "致敬最可爱的人",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "LPL瑞士轮首轮全败",
+      "title": "菲两架军机空中相撞画面曝光",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股指数调整10月26日落地",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "懒人版番茄炖牛肉承包秋冬晚餐",
+      "title": "纪念抗美援朝出国作战76周年",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "Kimi K3.1 Pro来了",
+      "title": "亚锦赛半决赛蒯曼vs张本美和",
       "platforms": [
         "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "姑娘花3.8万在鹤岗买房入住后傻眼",
+      "platforms": [
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "MKOI战胜BLG",
+      "title": "苏超半决赛落幕",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "台风蔷琵正在我国近海活跃",
       "platforms": [
         "douyin"
       ],
@@ -144,70 +119,70 @@
     }
   ],
   "news": [
+    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+    "在硅谷，遇见个人计算机历史",
     "本周看什么 | 最近值得一看的 12 部作品",
     "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
     "破与立：设计视角下的 iPhone Duo",
     "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
     "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-    "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-    "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等"
+    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《绝区零》先导演示丨挽昼",
-      "author": "绝区零",
-      "play": 1591452
+      "title": "写了全国所有省份的love me！",
+      "author": "西柚甜瓜",
+      "play": 3225156
     },
     {
-      "title": "我的天呐！这S赛太让人痛苦了，突破历史的首日全败！观众做了什么坏事要熬夜看这种比赛？【1酱赛评S赛瑞士轮Day1】",
-      "author": "你是想气死1酱么",
-      "play": 658352
+      "title": "薄肌级【不要笑挑战】只有10.24%的人能忍得住不笑看到最后！",
+      "author": "比比老师",
+      "play": 772035
     },
     {
-      "title": "半夜偷吃的生死体验 3.0",
-      "author": "蚊小九er",
-      "play": 575104
+      "title": "《话术博弈》如何优雅的套出对方的真心话？",
+      "author": "站在外面的Q",
+      "play": 940526
     },
     {
-      "title": " 【独家】《凡人修仙传之慕兰之战》第21集【总第197集】",
+      "title": "【独家】牧神记 第106集 道剑十四篇",
       "author": "哔哩哔哩国创",
-      "play": 2433808
+      "play": 1118240
     },
     {
-      "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
-      "author": "超Carry的柴西",
-      "play": 816812
+      "title": "【头文字F4】德彪~德彪~得意的彪",
+      "author": "树深时见鹿dear",
+      "play": 1182893
     },
     {
-      "title": "人工耳蜗里的声音，到底是什么样的？",
-      "author": "亿点点不一样",
-      "play": 2097697
+      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
+      "author": "Foyege弗曳哥",
+      "play": 886585
     },
     {
-      "title": "11天，我们干掉祸害20多年的传销头目！",
-      "author": "温柔JUNZ",
-      "play": 752638
+      "title": "名片交换",
+      "author": "俊俊和朗朗",
+      "play": 603454
     },
     {
-      "title": "派大星跳伞是什么梗【梗指南】",
-      "author": "梗指南",
-      "play": 625099
+      "title": "抽象新闻：10月人类迷惑行为大赏（上）",
+      "author": "我是M菌",
+      "play": 3332913
     }
   ],
   "zhihu_daily": [
     {
-      "title": "应县木塔作为「千年病人」，其修缮面临哪些核心技术难题？"
+      "title": "网友称可用「蟑螂粉」作为蛋白粉平替，商家还强调「野生蟑螂」，先抛开味道，这「蟑螂粉」有可能安全有效吗？"
     },
     {
-      "title": "有什么很有意思的考古事件？"
+      "title": "中国有哪些考古上的巨大遗憾？"
     },
     {
-      "title": "地面倾角很小时人体感觉不到，那么是否可以建造一个一楼和二楼之间没有楼梯和明显斜坡的建筑？"
+      "title": "人类可以破译蝾螈的再生基因，让人类在灾难或者意外情况下损坏或者毁掉的肢体，器官重新生长出来吗？"
     },
     {
-      "title": "古代那些考不上的读书人最终都去哪了？哪些落榜生对历史进程产生了巨大影响?"
+      "title": "有哪些城市自古以来市中心几乎没变过位置的？"
     }
   ]
 }

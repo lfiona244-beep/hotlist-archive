@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T14:52:04.236714+08:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T15:16:13.141120+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-24T14:45",
+    "fetched_at": "2026-10-25T15:15",
     "current": {
-      "temperature": 31.6,
-      "feels_like": 31.7,
-      "humidity": 37,
+      "temperature": 31.0,
+      "feels_like": 32.3,
+      "humidity": 43,
       "condition": "阴",
-      "weather_code": 2,
-      "wind_speed": 12.8,
-      "wind_direction": 358
+      "weather_code": 3,
+      "wind_speed": 8.4,
+      "wind_direction": 67
     },
     "today": {
       "temp_min": 21.8,
-      "temp_max": 31.6,
+      "temp_max": 31.2,
       "precipitation_probability": 0,
-      "uv_index": 7.0,
-      "sunrise": "2026-10-24T06:27",
-      "sunset": "2026-10-24T17:54"
+      "uv_index": 6.9,
+      "sunrise": "2026-10-25T06:28",
+      "sunset": "2026-10-25T17:53"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+    "在硅谷，遇见个人计算机历史",
     "本周看什么 | 最近值得一看的 12 部作品",
     "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
     "破与立：设计视角下的 iPhone Duo",
     "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
     "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-    "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-    "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等"
+    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "骑行四千五百公里赴赛里木湖"
+      "title": "台湾光复81周年"
     },
     {
       "platform": "抖音",
-      "title": "西藏克服难点开展地震救援"
+      "title": "马刺122:106独行侠"
     },
     {
       "platform": "抖音",
-      "title": "KC战胜AL"
+      "title": "致敬最可爱的人"
     },
     {
       "platform": "抖音",
-      "title": "蔷琵已减弱为台风级"
+      "title": "A股指数调整10月26日落地"
     },
     {
       "platform": "抖音",
-      "title": "湖人6人上双胜快船"
+      "title": "纪念抗美援朝出国作战76周年"
     },
     {
       "platform": "头条",
-      "title": "老人去世后再婚配偶与儿子抢夺骨灰"
+      "title": "张雪机车刷新水上漂吉尼斯世界纪录"
     },
     {
       "platform": "头条",
-      "title": "直击台风“蔷琵”实时路径"
+      "title": "稻城亚丁一游客疑高反失控冲下山坡"
     },
     {
       "platform": "头条",
-      "title": "藏北高原上的生命驰援"
+      "title": "超6万件套救援物资运往灾区"
     },
     {
       "platform": "头条",
-      "title": "情侣办完婚礼闹崩 男方起诉返还彩礼"
+      "title": "张雪：打99分留1分不要太骄傲"
     },
     {
       "platform": "头条",
-      "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐"
+      "title": "泽连斯基：绝不接受放弃25%领土提议"
     },
     {
       "platform": "百度",
-      "title": "读懂长征胜利蕴含的制胜之道"
+      "title": "三个维度读懂全面从严治党"
     }
   ],
   "today_in_history": [
     {
-      "year": "51",
-      "title": "罗马帝国皇帝图密善出生"
+      "year": "1400",
+      "title": "英国著名作家杰弗雷·乔叟逝世"
     },
     {
-      "year": "996",
-      "title": "法国国王雨果·卡佩逝世"
+      "year": "1811",
+      "title": "法国数学家、学科群论的创立者伽罗瓦出生"
     },
     {
-      "year": "1601",
-      "title": "丹麦天文学家和占星学家第谷·布拉赫逝世"
+      "year": "1825",
+      "title": "奥地利音乐家小约翰·施特劳斯诞辰"
     }
   ]
 }
