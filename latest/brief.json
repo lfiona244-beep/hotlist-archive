@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T15:16:13.141120+08:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:24:28.727592+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-25T15:15",
+    "fetched_at": "2026-10-26T15:15",
     "current": {
-      "temperature": 31.0,
-      "feels_like": 32.3,
-      "humidity": 43,
-      "condition": "阴",
-      "weather_code": 3,
-      "wind_speed": 8.4,
-      "wind_direction": 67
+      "temperature": 31.7,
+      "feels_like": 32.4,
+      "humidity": 39,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 8.7,
+      "wind_direction": 47
     },
     "today": {
-      "temp_min": 21.8,
-      "temp_max": 31.2,
+      "temp_min": 22.0,
+      "temp_max": 31.8,
       "precipitation_probability": 0,
       "uv_index": 6.9,
-      "sunrise": "2026-10-25T06:28",
-      "sunset": "2026-10-25T17:53"
+      "sunrise": "2026-10-26T06:28",
+      "sunset": "2026-10-26T17:52"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "秋冬换季护肤买什么，双 11 选购推荐",
+    "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+    "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+    "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
     "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
     "在硅谷，遇见个人计算机历史",
     "本周看什么 | 最近值得一看的 12 部作品",
-    "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
-    "破与立：设计视角下的 iPhone Duo",
-    "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-    "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-    "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本"
+    "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "台湾光复81周年"
+      "title": "二十届五中全会今起在京召开"
     },
     {
       "platform": "抖音",
-      "title": "马刺122:106独行侠"
+      "title": "想和你去看赛里木湖的冬日浪漫"
     },
     {
       "platform": "抖音",
-      "title": "致敬最可爱的人"
+      "title": "看祖国各地丰收景象"
     },
     {
       "platform": "抖音",
-      "title": "A股指数调整10月26日落地"
+      "title": "跟着现在就出发玩转九寨沟"
     },
     {
       "platform": "抖音",
-      "title": "纪念抗美援朝出国作战76周年"
+      "title": "U17女足世界杯中国3:2美国"
     },
     {
       "platform": "头条",
-      "title": "张雪机车刷新水上漂吉尼斯世界纪录"
+      "title": "专家：中俄侦察机把日本空自累够呛"
     },
     {
       "platform": "头条",
-      "title": "稻城亚丁一游客疑高反失控冲下山坡"
+      "title": "台湾艺人阿雅公开表态“一个中国”"
     },
     {
       "platform": "头条",
-      "title": "超6万件套救援物资运往灾区"
+      "title": "在新征程上持之以恒推进全面从严治党"
     },
     {
       "platform": "头条",
-      "title": "张雪：打99分留1分不要太骄傲"
+      "title": "武契奇承认败选"
     },
     {
       "platform": "头条",
-      "title": "泽连斯基：绝不接受放弃25%领土提议"
+      "title": "日本前首相福田康夫去世"
     },
     {
       "platform": "百度",
-      "title": "三个维度读懂全面从严治党"
+      "title": "二十届五中全会在北京开始举行"
     }
   ],
   "today_in_history": [
     {
-      "year": "1400",
-      "title": "英国著名作家杰弗雷·乔叟逝世"
+      "year": "899",
+      "title": "英格兰国王阿尔弗雷德大帝逝世"
     },
     {
-      "year": "1811",
-      "title": "法国数学家、学科群论的创立者伽罗瓦出生"
+      "year": "1795",
+      "title": "法国大革命中，五人督政府成立"
     },
     {
-      "year": "1825",
-      "title": "奥地利音乐家小约翰·施特劳斯诞辰"
+      "year": "1889",
+      "title": "中国地质学家李四光出生"
     }
   ]
 }
