@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "total": 126,
-  "available": 72,
-  "available_rate": 57.1,
+  "available": 71,
+  "available_rate": 56.3,
   "categories": {
     "online_video": 54,
     "video_app": 4,
@@ -81,6 +81,10 @@
     },
     {
       "name": "奈飞工厂",
+      "status": "unreachable"
+    },
+    {
+      "name": "简云影视",
       "status": "unreachable"
     },
     {
