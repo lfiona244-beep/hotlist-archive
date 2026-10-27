@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T15:24:28.727592+08:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:17:46.655755+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-26T15:15",
+    "fetched_at": "2026-10-27T15:15",
     "current": {
-      "temperature": 31.7,
-      "feels_like": 32.4,
-      "humidity": 39,
-      "condition": "多云",
-      "weather_code": 1,
-      "wind_speed": 8.7,
+      "temperature": 31.2,
+      "feels_like": 32.0,
+      "humidity": 40,
+      "condition": "阴",
+      "weather_code": 3,
+      "wind_speed": 8.9,
       "wind_direction": 47
     },
     "today": {
-      "temp_min": 22.0,
-      "temp_max": 31.8,
+      "temp_min": 23.1,
+      "temp_max": 31.3,
       "precipitation_probability": 0,
-      "uv_index": 6.9,
-      "sunrise": "2026-10-26T06:28",
-      "sunset": "2026-10-26T17:52"
+      "uv_index": 6.85,
+      "sunrise": "2026-10-27T06:29",
+      "sunset": "2026-10-27T17:52"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+    "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+    "派评 | 近期值得关注的 App",
     "秋冬换季护肤买什么，双 11 选购推荐",
     "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
     "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
     "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-    "在硅谷，遇见个人计算机历史",
-    "本周看什么 | 最近值得一看的 12 部作品",
-    "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验"
+    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "二十届五中全会今起在京召开"
+      "title": "这样的景区逛着不烧心"
     },
     {
       "platform": "抖音",
-      "title": "想和你去看赛里木湖的冬日浪漫"
+      "title": "全网最励志的三角梅出圈了"
     },
     {
       "platform": "抖音",
-      "title": "看祖国各地丰收景象"
+      "title": "这张跨山越海的电网越织越密"
     },
     {
       "platform": "抖音",
-      "title": "跟着现在就出发玩转九寨沟"
+      "title": "东鹏饮料：终止与姆巴佩全部合作"
     },
     {
       "platform": "抖音",
-      "title": "U17女足世界杯中国3:2美国"
+      "title": "树枝版齐天大圣太震撼了"
     },
     {
       "platform": "头条",
-      "title": "专家：中俄侦察机把日本空自累够呛"
+      "title": "小米首个住宅小区开售"
     },
     {
       "platform": "头条",
-      "title": "台湾艺人阿雅公开表态“一个中国”"
+      "title": "广电新规：IPTV开机直播且不得播广告"
     },
     {
       "platform": "头条",
-      "title": "在新征程上持之以恒推进全面从严治党"
+      "title": "持之以恒推进全面从严治党"
     },
     {
       "platform": "头条",
-      "title": "武契奇承认败选"
+      "title": "央视全面叫停涉姆巴佩赛事和广告播出"
     },
     {
       "platform": "头条",
-      "title": "日本前首相福田康夫去世"
+      "title": "谁在菲律宾“围猎”中国人"
     },
     {
       "platform": "百度",
-      "title": "二十届五中全会在北京开始举行"
+      "title": "读懂“恒”字里的深意"
     }
   ],
   "today_in_history": [
     {
-      "year": "899",
-      "title": "英格兰国王阿尔弗雷德大帝逝世"
+      "year": "1275",
+      "title": "阿姆斯特丹建城"
     },
     {
-      "year": "1795",
-      "title": "法国大革命中，五人督政府成立"
+      "year": "1505",
+      "title": "俄国大公伊凡三世逝世"
     },
     {
-      "year": "1889",
-      "title": "中国地质学家李四光出生"
+      "year": "1782",
+      "title": "意大利音乐家尼科罗·帕格尼尼出生"
     }
   ]
 }

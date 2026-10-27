@@ -1,22 +1,19 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T15:24:43.364598+08:00",
-  "total_raw": 60,
-  "total_cleaned": 58,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:17:56.299343+08:00",
+  "total_raw": 55,
+  "total_cleaned": 54,
   "category_stats": {
-    "其他": 48,
-    "体育": 1,
-    "财经": 2,
-    "娱乐": 2,
-    "科技": 2,
-    "社会": 2,
-    "生活": 1
+    "其他": 43,
+    "科技": 5,
+    "生活": 1,
+    "娱乐": 4,
+    "财经": 1
   },
   "hotspot": [
     {
-      "title": "日本前首相福田康夫去世",
+      "title": "谁在菲律宾“围猎”中国人",
       "platforms": [
-        "douyin",
         "toutiao",
         "baidu"
       ],
@@ -25,175 +22,174 @@
   ],
   "top_trending": [
     {
-      "title": "专家：中俄侦察机把日本空自累够呛",
+      "title": "小米首个住宅小区开售",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "持之以恒推进全面从严治党",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "台湾艺人阿雅公开表态“一个中国”",
+      "title": "谁在菲律宾“围猎”中国人",
       "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "在新征程上持之以恒推进全面从严治党",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "武契奇承认败选",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "曝美看好欧尔班任联合国秘书长",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "二十届五中全会今起在京召开",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "想和你去看赛里木湖的冬日浪漫",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "武契奇将以反对党身份开展政治活动",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "看祖国各地丰收景象",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "跟着现在就出发玩转九寨沟",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "U17女足世界杯中国3:2美国",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "连环风暴致英法德数万家庭断电",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "新一股冷空气将影响长江以北大部",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "多个“首部”“首次”布局发展新方向",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "日本前首相福田康夫去世",
-      "platforms": [
-        "douyin",
         "toutiao",
         "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "奥迪中国迎来新设计负责人",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中国麻将在美爆火卖400美元还得抢",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股反弹或已开启 谁最具进攻相",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "感受智能制造的澎湃动能",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "女子节食减肥7天瘦9斤查出胆囊炎",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "巴西大选卢拉因何实现逆风翻盘",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "这样的景区逛着不烧心",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "寒武纪辟谣明年出货100万颗芯片",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "全网最励志的三角梅出圈了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "这张跨山越海的电网越织越密",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "东鹏饮料：终止与姆巴佩全部合作",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "评论员：警惕美日军演三大动向",
+      "platforms": [
+        "toutiao"
       ],
       "category": "其他"
     }
   ],
   "news": [
+    "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+    "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+    "派评 | 近期值得关注的 App",
     "秋冬换季护肤买什么，双 11 选购推荐",
     "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
     "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
     "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-    "在硅谷，遇见个人计算机历史",
-    "本周看什么 | 最近值得一看的 12 部作品",
-    "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验"
+    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【2026全球总决赛】10月26日 IG vs HLE",
-      "author": "哔哩哔哩英雄联盟赛事",
-      "play": 3327253
+      "title": "【真实锐评】AL一号种子16强：开除必须开除！这简直就是奇耻大辱 ！",
+      "author": "真实电竞",
+      "play": 739072
     },
     {
-      "title": "【IGN】10分，《影之刃零》评测： 武侠朋克传奇",
-      "author": "IGN中国",
-      "play": 879803
+      "title": "锐评S16瑞士轮TLAW战胜AL：一场不胜止步16强！惊天0-4！史无前例！",
+      "author": "喵仙人ovo",
+      "play": 615497
     },
     {
-      "title": "双人抬棺",
-      "author": "Z贤者",
-      "play": 3102558
+      "title": "生命起源：四十亿年前，地球如何诞生第一个生命？",
+      "author": "大圆镜科普",
+      "play": 1381763
     },
     {
-      "title": "日本人吃自助不好意思多要跟我外国人有什么关系？读鸡毛空气啊，我踏麻吃吃吃！",
-      "author": "大阪流浪社长",
-      "play": 1305655
+      "title": "第9期（上）：收官高能局！阿瓦隆烧脑智斗对决【时差五小时3】",
+      "author": "综艺哔哔机",
+      "play": 599329
     },
     {
-      "title": "花4毛钱让1000个蓝色大肥鱼建造故宫",
-      "author": "点燃篝火的Anrry",
-      "play": 997605
+      "title": "陕视评：判决未至，定论先入教材 武大图书馆事件反思：公共出版物不能越司法“断案” （策划：李彤 任超 评论员：刁坤 摄像：姬佩瑶）",
+      "author": "陕视新闻",
+      "play": 334653
     },
     {
-      "title": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
-      "author": "黑八即幽默",
-      "play": 711045
+      "title": "在毛毯上玩一会4399吧（纯手搓版） 超大工程！",
+      "author": "爱画画的小糖XT",
+      "play": 828368
     },
     {
-      "title": "张麻子《鹅城FUNK》",
-      "author": "HH糯米团",
-      "play": 896069
-    },
-    {
-      "title": "遇到射手牢玩家，我李信只能急的原地转圈圈",
+      "title": "终于遇到真正实力相当的对手，变成回合制了",
       "author": "磊哥游戏",
-      "play": 518364
+      "play": 471662
+    },
+    {
+      "title": "把帝国大厦翻译成国风音乐",
+      "author": "杜昆工作室",
+      "play": 330679
     }
   ],
   "zhihu_daily": [
     {
-      "title": "古代穷人为什么不搬到海边去？海边鱼多不是饿不死吗？"
+      "title": "世界各国的文字几乎都变成了字母文字，为何唯独中国文字两千年来都保持汉字不变？"
     },
     {
-      "title": "如果一个动物能一直在窝附近得到充足的食物和水，他的活动范围会有多大？"
+      "title": "历史上，有哪些难题被古人用简单到不可思议的方式解决了？"
     },
     {
-      "title": "汉语中有哪些看上去是本土词，实际上却是音译词的词?"
+      "title": "玉米不能当饭吃，怎么成为了世界三大粮食作物之一？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
