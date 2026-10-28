@@ -1,0 +1,26 @@
+{
+  "source": "open-meteo",
+  "location": {
+    "name": "广州",
+    "lat": 23.13,
+    "lon": 113.26
+  },
+  "fetched_at": "2026-10-28T15:45",
+  "current": {
+    "temperature": 29.6,
+    "feels_like": 30.4,
+    "humidity": 44,
+    "condition": "多云",
+    "weather_code": 1,
+    "wind_speed": 8.3,
+    "wind_direction": 88
+  },
+  "today": {
+    "temp_min": 23.0,
+    "temp_max": 29.9,
+    "precipitation_probability": 0,
+    "uv_index": 6.55,
+    "sunrise": "2026-10-28T06:29",
+    "sunset": "2026-10-28T17:51"
+  }
+}

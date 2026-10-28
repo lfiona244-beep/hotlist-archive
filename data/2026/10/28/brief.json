@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:54:43.664703+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-28T15:45",
+    "current": {
+      "temperature": 29.6,
+      "feels_like": 30.4,
+      "humidity": 44,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 8.3,
+      "wind_direction": 88
+    },
+    "today": {
+      "temp_min": 23.0,
+      "temp_max": 29.9,
+      "precipitation_probability": 0,
+      "uv_index": 6.55,
+      "sunrise": "2026-10-28T06:29",
+      "sunset": "2026-10-28T17:51"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "断舍离只是起点：打造能长期经营的实用主义衣柜",
+    "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+    "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+    "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+    "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+    "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+    "派评 | 近期值得关注的 App"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "中使馆紧急提醒勿前往乌干达"
+    },
+    {
+      "platform": "抖音",
+      "title": "在稻城亚丁看一场秋日童话"
+    },
+    {
+      "platform": "抖音",
+      "title": "各地科技赋能助力金秋丰收"
+    },
+    {
+      "platform": "抖音",
+      "title": "中方敦促美方停止对古巴封锁施压"
+    },
+    {
+      "platform": "抖音",
+      "title": "普京会晤伊朗总统讨论中东局势"
+    },
+    {
+      "platform": "头条",
+      "title": "外交部：我们重视姆巴佩作出的道歉"
+    },
+    {
+      "platform": "头条",
+      "title": "国台办回应特朗普涉台言论"
+    },
+    {
+      "platform": "头条",
+      "title": "因地制宜推进乡村全面振兴"
+    },
+    {
+      "platform": "头条",
+      "title": "中方强烈要求美国立即停止封锁古巴"
+    },
+    {
+      "platform": "头条",
+      "title": "人民日报评姆巴佩翻车"
+    },
+    {
+      "platform": "百度",
+      "title": "永远在路上"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1704",
+      "title": "英国哲学家约翰·洛克逝世"
+    },
+    {
+      "year": "1886",
+      "title": "自由女神像揭幕仪式"
+    },
+    {
+      "year": "1894",
+      "title": "中国现代作家叶圣陶出生"
+    }
+  ]
+}

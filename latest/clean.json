@@ -1,18 +1,19 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:17:56.299343+08:00",
-  "total_raw": 55,
-  "total_cleaned": 54,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:54:56.102809+08:00",
+  "total_raw": 60,
+  "total_cleaned": 59,
   "category_stats": {
-    "其他": 43,
-    "科技": 5,
-    "生活": 1,
-    "娱乐": 4,
+    "其他": 49,
+    "体育": 3,
+    "社会": 3,
+    "科技": 2,
+    "娱乐": 1,
     "财经": 1
   },
   "hotspot": [
     {
-      "title": "谁在菲律宾“围猎”中国人",
+      "title": "中方强烈要求美国立即停止封锁古巴",
       "platforms": [
         "toutiao",
         "baidu"
@@ -22,21 +23,28 @@
   ],
   "top_trending": [
     {
-      "title": "小米首个住宅小区开售",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "持之以恒推进全面从严治党",
+      "title": "外交部：我们重视姆巴佩作出的道歉",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "谁在菲律宾“围猎”中国人",
+      "title": "国台办回应特朗普涉台言论",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "因地制宜推进乡村全面振兴",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方强烈要求美国立即停止封锁古巴",
       "platforms": [
         "toutiao",
         "baidu"
@@ -44,152 +52,142 @@
       "category": "其他"
     },
     {
-      "title": "奥迪中国迎来新设计负责人",
+      "title": "人民日报评姆巴佩翻车",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "娱乐"
+    },
+    {
+      "title": "民调：内塔尼亚胡阵营未获过半议席",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "中国麻将在美爆火卖400美元还得抢",
+      "title": "马斯克言论引爆存储板块",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "A股反弹或已开启 谁最具进攻相",
+      "title": "研究发现吃肉可能与长寿有关",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "感受智能制造的澎湃动能",
+      "title": "新服务激活田野里的新质生产力",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "女子节食减肥7天瘦9斤查出胆囊炎",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "生活"
-    },
-    {
-      "title": "巴西大选卢拉因何实现逆风翻盘",
+      "title": "蒙古边境大火差点烧进中国谁该负责",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "这样的景区逛着不烧心",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "寒武纪辟谣明年出货100万颗芯片",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "全网最励志的三角梅出圈了",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "这张跨山越海的电网越织越密",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "东鹏饮料：终止与姆巴佩全部合作",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "评论员：警惕美日军演三大动向",
+      "title": "长期吃素能“排毒”？假的",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
+    },
+    {
+      "title": "男子多次触摸女同事隐私部位被拘捕",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "海信称与姆巴佩无商业合作",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小博索纳罗败选后赴美有何影响",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "问界新M8定档11月13日上市",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
     }
   ],
   "news": [
+    "断舍离只是起点：打造能长期经营的实用主义衣柜",
+    "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+    "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+    "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
     "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
     "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-    "派评 | 近期值得关注的 App",
-    "秋冬换季护肤买什么，双 11 选购推荐",
-    "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-    "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-    "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro"
+    "派评 | 近期值得关注的 App"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【真实锐评】AL一号种子16强：开除必须开除！这简直就是奇耻大辱 ！",
-      "author": "真实电竞",
-      "play": 739072
+      "title": "爸爸去哪儿 x Counting Stars",
+      "author": "神秘天洛元",
+      "play": 380874
     },
     {
-      "title": "锐评S16瑞士轮TLAW战胜AL：一场不胜止步16强！惊天0-4！史无前例！",
-      "author": "喵仙人ovo",
-      "play": 615497
+      "title": "仿生人会梦见什么羊？",
+      "author": "是花子呀_",
+      "play": 305287
     },
     {
-      "title": "生命起源：四十亿年前，地球如何诞生第一个生命？",
-      "author": "大圆镜科普",
-      "play": 1381763
+      "title": "特朗普为了中期大选真拼了",
+      "author": "燕三嘤嘤嘤",
+      "play": 484994
     },
     {
-      "title": "第9期（上）：收官高能局！阿瓦隆烧脑智斗对决【时差五小时3】",
-      "author": "综艺哔哔机",
-      "play": 599329
+      "title": "疯狂十六强，启动！",
+      "author": "墨宸w",
+      "play": 1061946
     },
     {
-      "title": "陕视评：判决未至，定论先入教材 武大图书馆事件反思：公共出版物不能越司法“断案” （策划：李彤 任超 评论员：刁坤 摄像：姬佩瑶）",
-      "author": "陕视新闻",
-      "play": 334653
+      "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
+      "author": "Dennis飞昊",
+      "play": 106711
     },
     {
-      "title": "在毛毯上玩一会4399吧（纯手搓版） 超大工程！",
-      "author": "爱画画的小糖XT",
-      "play": 828368
+      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
+      "author": "温柔JUNZ",
+      "play": 1669539
     },
     {
-      "title": "终于遇到真正实力相当的对手，变成回合制了",
-      "author": "磊哥游戏",
-      "play": 471662
+      "title": "姆巴佩发表涉华不当言论！全网封杀！没有中国市场，姆巴佩会失去什么？",
+      "author": "达芬奇矩阵",
+      "play": 2419574
     },
     {
-      "title": "把帝国大厦翻译成国风音乐",
-      "author": "杜昆工作室",
-      "play": 330679
+      "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+      "author": "极客湾Geekerwan",
+      "play": 1812284
     }
   ],
   "zhihu_daily": [
     {
-      "title": "世界各国的文字几乎都变成了字母文字，为何唯独中国文字两千年来都保持汉字不变？"
+      "title": "人民大会堂的设计规划是不是很超前，为什么已建成70年了一点没觉得落后？"
     },
     {
-      "title": "历史上，有哪些难题被古人用简单到不可思议的方式解决了？"
-    },
-    {
-      "title": "玉米不能当饭吃，怎么成为了世界三大粮食作物之一？"
+      "title": "为什么密码明明看起来很复杂，还是可能被破解？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"

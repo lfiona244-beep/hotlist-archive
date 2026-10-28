@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:17:46.655755+08:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:54:43.664703+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-27T15:15",
+    "fetched_at": "2026-10-28T15:45",
     "current": {
-      "temperature": 31.2,
-      "feels_like": 32.0,
-      "humidity": 40,
-      "condition": "阴",
-      "weather_code": 3,
-      "wind_speed": 8.9,
-      "wind_direction": 47
+      "temperature": 29.6,
+      "feels_like": 30.4,
+      "humidity": 44,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 8.3,
+      "wind_direction": 88
     },
     "today": {
-      "temp_min": 23.1,
-      "temp_max": 31.3,
+      "temp_min": 23.0,
+      "temp_max": 29.9,
       "precipitation_probability": 0,
-      "uv_index": 6.85,
-      "sunrise": "2026-10-27T06:29",
-      "sunset": "2026-10-27T17:52"
+      "uv_index": 6.55,
+      "sunrise": "2026-10-28T06:29",
+      "sunset": "2026-10-28T17:51"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "断舍离只是起点：打造能长期经营的实用主义衣柜",
+    "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+    "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+    "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
     "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
     "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-    "派评 | 近期值得关注的 App",
-    "秋冬换季护肤买什么，双 11 选购推荐",
-    "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-    "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-    "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-    "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro"
+    "派评 | 近期值得关注的 App"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "这样的景区逛着不烧心"
+      "title": "中使馆紧急提醒勿前往乌干达"
     },
     {
       "platform": "抖音",
-      "title": "全网最励志的三角梅出圈了"
+      "title": "在稻城亚丁看一场秋日童话"
     },
     {
       "platform": "抖音",
-      "title": "这张跨山越海的电网越织越密"
+      "title": "各地科技赋能助力金秋丰收"
     },
     {
       "platform": "抖音",
-      "title": "东鹏饮料：终止与姆巴佩全部合作"
+      "title": "中方敦促美方停止对古巴封锁施压"
     },
     {
       "platform": "抖音",
-      "title": "树枝版齐天大圣太震撼了"
+      "title": "普京会晤伊朗总统讨论中东局势"
     },
     {
       "platform": "头条",
-      "title": "小米首个住宅小区开售"
+      "title": "外交部：我们重视姆巴佩作出的道歉"
     },
     {
       "platform": "头条",
-      "title": "广电新规：IPTV开机直播且不得播广告"
+      "title": "国台办回应特朗普涉台言论"
     },
     {
       "platform": "头条",
-      "title": "持之以恒推进全面从严治党"
+      "title": "因地制宜推进乡村全面振兴"
     },
     {
       "platform": "头条",
-      "title": "央视全面叫停涉姆巴佩赛事和广告播出"
+      "title": "中方强烈要求美国立即停止封锁古巴"
     },
     {
       "platform": "头条",
-      "title": "谁在菲律宾“围猎”中国人"
+      "title": "人民日报评姆巴佩翻车"
     },
     {
       "platform": "百度",
-      "title": "读懂“恒”字里的深意"
+      "title": "永远在路上"
     }
   ],
   "today_in_history": [
     {
-      "year": "1275",
-      "title": "阿姆斯特丹建城"
+      "year": "1704",
+      "title": "英国哲学家约翰·洛克逝世"
     },
     {
-      "year": "1505",
-      "title": "俄国大公伊凡三世逝世"
+      "year": "1886",
+      "title": "自由女神像揭幕仪式"
     },
     {
-      "year": "1782",
-      "title": "意大利音乐家尼科罗·帕格尼尼出生"
+      "year": "1894",
+      "title": "中国现代作家叶圣陶出生"
     }
   ]
 }
