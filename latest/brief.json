@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T15:54:43.664703+08:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:01:02.629003+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-28T15:45",
+    "fetched_at": "2026-10-29T16:00",
     "current": {
-      "temperature": 29.6,
-      "feels_like": 30.4,
-      "humidity": 44,
+      "temperature": 30.0,
+      "feels_like": 32.8,
+      "humidity": 51,
       "condition": "多云",
       "weather_code": 1,
-      "wind_speed": 8.3,
-      "wind_direction": 88
+      "wind_speed": 2.4,
+      "wind_direction": 42
     },
     "today": {
-      "temp_min": 23.0,
-      "temp_max": 29.9,
-      "precipitation_probability": 0,
-      "uv_index": 6.55,
-      "sunrise": "2026-10-28T06:29",
-      "sunset": "2026-10-28T17:51"
+      "temp_min": 25.0,
+      "temp_max": 30.2,
+      "precipitation_probability": 20,
+      "uv_index": 6.7,
+      "sunrise": "2026-10-29T06:30",
+      "sunset": "2026-10-29T17:50"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "让 Agent 读懂你的身体：数据处理篇",
+    "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+    "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+    "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
     "断舍离只是起点：打造能长期经营的实用主义衣柜",
     "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
     "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
-    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
-    "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
-    "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
-    "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-    "派评 | 近期值得关注的 App"
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "中使馆紧急提醒勿前往乌干达"
+      "title": "秋日山野漫游"
     },
     {
       "platform": "抖音",
-      "title": "在稻城亚丁看一场秋日童话"
+      "title": "独家揭秘白鹤滩水电站"
     },
     {
       "platform": "抖音",
-      "title": "各地科技赋能助力金秋丰收"
+      "title": "农产品全面提质路线图确定"
     },
     {
       "platform": "抖音",
-      "title": "中方敦促美方停止对古巴封锁施压"
+      "title": "三丽鸥声明与VIVANT终止合作"
     },
     {
       "platform": "抖音",
-      "title": "普京会晤伊朗总统讨论中东局势"
+      "title": "深圳发放APEC纪念车贴"
     },
     {
       "platform": "头条",
-      "title": "外交部：我们重视姆巴佩作出的道歉"
+      "title": "特斯拉人形机器人第一份工作是插枪"
     },
     {
       "platform": "头条",
-      "title": "国台办回应特朗普涉台言论"
+      "title": "尹锡悦涉“内乱案”二审被求死刑"
     },
     {
       "platform": "头条",
-      "title": "因地制宜推进乡村全面振兴"
+      "title": "向“新”而行 以“质”争先"
     },
     {
       "platform": "头条",
-      "title": "中方强烈要求美国立即停止封锁古巴"
+      "title": "Hello Kitty母公司再致歉"
     },
     {
       "platform": "头条",
-      "title": "人民日报评姆巴佩翻车"
+      "title": "德国总统抵京 国宾摩托车护送"
     },
     {
       "platform": "百度",
-      "title": "永远在路上"
+      "title": "持之以恒推进全面从严治党"
     }
   ],
   "today_in_history": [
     {
-      "year": "1704",
-      "title": "英国哲学家约翰·洛克逝世"
+      "year": "1863",
+      "title": "红十字国际委员会成立"
     },
     {
-      "year": "1886",
-      "title": "自由女神像揭幕仪式"
+      "year": "1879",
+      "title": "德国总理弗朗茨·冯·帕彭出生"
     },
     {
-      "year": "1894",
-      "title": "中国现代作家叶圣陶出生"
+      "year": "1888",
+      "title": "关于苏伊士运河的《君士坦丁堡公约》签订"
     }
   ]
 }

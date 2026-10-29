@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:01:02.629003+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-10-29T16:00",
+    "current": {
+      "temperature": 30.0,
+      "feels_like": 32.8,
+      "humidity": 51,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 2.4,
+      "wind_direction": 42
+    },
+    "today": {
+      "temp_min": 25.0,
+      "temp_max": 30.2,
+      "precipitation_probability": 20,
+      "uv_index": 6.7,
+      "sunrise": "2026-10-29T06:30",
+      "sunset": "2026-10-29T17:50"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.63"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.35"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.35"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.31"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "让 Agent 读懂你的身体：数据处理篇",
+    "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+    "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+    "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+    "断舍离只是起点：打造能长期经营的实用主义衣柜",
+    "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+    "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "秋日山野漫游"
+    },
+    {
+      "platform": "抖音",
+      "title": "独家揭秘白鹤滩水电站"
+    },
+    {
+      "platform": "抖音",
+      "title": "农产品全面提质路线图确定"
+    },
+    {
+      "platform": "抖音",
+      "title": "三丽鸥声明与VIVANT终止合作"
+    },
+    {
+      "platform": "抖音",
+      "title": "深圳发放APEC纪念车贴"
+    },
+    {
+      "platform": "头条",
+      "title": "特斯拉人形机器人第一份工作是插枪"
+    },
+    {
+      "platform": "头条",
+      "title": "尹锡悦涉“内乱案”二审被求死刑"
+    },
+    {
+      "platform": "头条",
+      "title": "向“新”而行 以“质”争先"
+    },
+    {
+      "platform": "头条",
+      "title": "Hello Kitty母公司再致歉"
+    },
+    {
+      "platform": "头条",
+      "title": "德国总统抵京 国宾摩托车护送"
+    },
+    {
+      "platform": "百度",
+      "title": "持之以恒推进全面从严治党"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1863",
+      "title": "红十字国际委员会成立"
+    },
+    {
+      "year": "1879",
+      "title": "德国总理弗朗茨·冯·帕彭出生"
+    },
+    {
+      "year": "1888",
+      "title": "关于苏伊士运河的《君士坦丁堡公约》签订"
+    }
+  ]
+}

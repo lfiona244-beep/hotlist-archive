@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:01:16.179749+08:00",
+  "total_raw": 60,
+  "total_cleaned": 60,
+  "category_stats": {
+    "其他": 47,
+    "生活": 1,
+    "社会": 3,
+    "娱乐": 5,
+    "游戏": 1,
+    "科技": 3
+  },
+  "hotspot": [],
+  "top_trending": [
+    {
+      "title": "特斯拉人形机器人第一份工作是插枪",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "尹锡悦涉“内乱案”二审被求死刑",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "向“新”而行 以“质”争先",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "Hello Kitty母公司再致歉",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "德国总统抵京 国宾摩托车护送",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "27岁抗癌博主悦悦去世",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "专家：A股将迎来修复",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "官方再度调控 成品油价格适当调整",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "前三季度我国海洋生产总值增长4.9%",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "秋日山野漫游",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "独家揭秘白鹤滩水电站",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "农产品全面提质路线图确定",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "三丽鸥声明与VIVANT终止合作",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国内最长地铁环线全线开通",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "深圳发放APEC纪念车贴",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "让 Agent 读懂你的身体：数据处理篇",
+    "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+    "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+    "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+    "断舍离只是起点：打造能长期经营的实用主义衣柜",
+    "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+    "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "【2026全球总决赛】10月29日 LYON vs IG",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 4154653
+    },
+    {
+      "title": "贴脸特写，是每个野生动物摄影师的必备技能！",
+      "author": "即刻自然说",
+      "play": 1497557
+    },
+    {
+      "title": "对视野理解的最好诠释！！！",
+      "author": "青莲又失利了",
+      "play": 251019
+    },
+    {
+      "title": "【小黄人与大怪兽】小黄人逐梦演艺圈！",
+      "author": "哔哩哔哩电影",
+      "play": 1010916
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第15集】",
+      "author": "九夜听风",
+      "play": 454464
+    },
+    {
+      "title": "⚡《新 三 国 FUNK》⚡",
+      "author": "纽毕斯",
+      "play": 907023
+    },
+    {
+      "title": "鲸鲸，跑起来吧",
+      "author": "吖密",
+      "play": 1010666
+    },
+    {
+      "title": "喝可乐不打嗝小游戏~",
+      "author": "瓜哥超爱玩QAQ",
+      "play": 968914
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "「左手 Labubu，右手拼好饭」为什么很多人一边精打细算，一边「一掷千金」，中间有怎样的心理差异？"
+    },
+    {
+      "title": "核辐射危害巨大，为何切尔诺贝利禁区内的动物仍能生存繁衍？"
+    },
+    {
+      "title": "网友说「桂花香是一种非牛顿流体」，越用力闻气味越淡，越不用力闻气味越浓，这种说法有道理吗？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}

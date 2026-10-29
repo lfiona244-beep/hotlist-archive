@@ -1,193 +1,186 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T15:54:56.102809+08:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T16:01:16.179749+08:00",
   "total_raw": 60,
-  "total_cleaned": 59,
+  "total_cleaned": 60,
   "category_stats": {
-    "其他": 49,
-    "体育": 3,
+    "其他": 47,
+    "生活": 1,
     "社会": 3,
-    "科技": 2,
-    "娱乐": 1,
-    "财经": 1
+    "娱乐": 5,
+    "游戏": 1,
+    "科技": 3
   },
-  "hotspot": [
-    {
-      "title": "中方强烈要求美国立即停止封锁古巴",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "外交部：我们重视姆巴佩作出的道歉",
+      "title": "特斯拉人形机器人第一份工作是插枪",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "尹锡悦涉“内乱案”二审被求死刑",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "国台办回应特朗普涉台言论",
+      "title": "向“新”而行 以“质”争先",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "Hello Kitty母公司再致歉",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "德国总统抵京 国宾摩托车护送",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "27岁抗癌博主悦悦去世",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "专家：A股将迎来修复",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "官方再度调控 成品油价格适当调整",
       "platforms": [
         "toutiao"
       ],
       "category": "社会"
     },
     {
-      "title": "因地制宜推进乡村全面振兴",
+      "title": "前三季度我国海洋生产总值增长4.9%",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "中方强烈要求美国立即停止封锁古巴",
+      "title": "秋日山野漫游",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "人民日报评姆巴佩翻车",
+      "title": "独家揭秘白鹤滩水电站",
       "platforms": [
-        "toutiao"
-      ],
-      "category": "娱乐"
-    },
-    {
-      "title": "民调：内塔尼亚胡阵营未获过半议席",
-      "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "马斯克言论引爆存储板块",
+      "title": "农产品全面提质路线图确定",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "研究发现吃肉可能与长寿有关",
+      "title": "三丽鸥声明与VIVANT终止合作",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "新服务激活田野里的新质生产力",
+      "title": "国内最长地铁环线全线开通",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "蒙古边境大火差点烧进中国谁该负责",
+      "title": "深圳发放APEC纪念车贴",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
       "category": "其他"
-    },
-    {
-      "title": "长期吃素能“排毒”？假的",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "男子多次触摸女同事隐私部位被拘捕",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "海信称与姆巴佩无商业合作",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "小博索纳罗败选后赴美有何影响",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "问界新M8定档11月13日上市",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
     }
   ],
   "news": [
+    "让 Agent 读懂你的身体：数据处理篇",
+    "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+    "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+    "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
     "断舍离只是起点：打造能长期经营的实用主义衣柜",
     "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
     "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
-    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
-    "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
-    "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
-    "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-    "派评 | 近期值得关注的 App"
+    "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "爸爸去哪儿 x Counting Stars",
-      "author": "神秘天洛元",
-      "play": 380874
+      "title": "【2026全球总决赛】10月29日 LYON vs IG",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 4154653
     },
     {
-      "title": "仿生人会梦见什么羊？",
-      "author": "是花子呀_",
-      "play": 305287
+      "title": "贴脸特写，是每个野生动物摄影师的必备技能！",
+      "author": "即刻自然说",
+      "play": 1497557
     },
     {
-      "title": "特朗普为了中期大选真拼了",
-      "author": "燕三嘤嘤嘤",
-      "play": 484994
+      "title": "对视野理解的最好诠释！！！",
+      "author": "青莲又失利了",
+      "play": 251019
     },
     {
-      "title": "疯狂十六强，启动！",
-      "author": "墨宸w",
-      "play": 1061946
+      "title": "【小黄人与大怪兽】小黄人逐梦演艺圈！",
+      "author": "哔哩哔哩电影",
+      "play": 1010916
     },
     {
-      "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
-      "author": "Dennis飞昊",
-      "play": 106711
+      "title": "三年之期已到，恭迎世一上归位！【第15集】",
+      "author": "九夜听风",
+      "play": 454464
     },
     {
-      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
-      "author": "温柔JUNZ",
-      "play": 1669539
+      "title": "⚡《新 三 国 FUNK》⚡",
+      "author": "纽毕斯",
+      "play": 907023
     },
     {
-      "title": "姆巴佩发表涉华不当言论！全网封杀！没有中国市场，姆巴佩会失去什么？",
-      "author": "达芬奇矩阵",
-      "play": 2419574
+      "title": "鲸鲸，跑起来吧",
+      "author": "吖密",
+      "play": 1010666
     },
     {
-      "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
-      "author": "极客湾Geekerwan",
-      "play": 1812284
+      "title": "喝可乐不打嗝小游戏~",
+      "author": "瓜哥超爱玩QAQ",
+      "play": 968914
     }
   ],
   "zhihu_daily": [
     {
-      "title": "人民大会堂的设计规划是不是很超前，为什么已建成70年了一点没觉得落后？"
+      "title": "「左手 Labubu，右手拼好饭」为什么很多人一边精打细算，一边「一掷千金」，中间有怎样的心理差异？"
     },
     {
-      "title": "为什么密码明明看起来很复杂，还是可能被破解？"
+      "title": "核辐射危害巨大，为何切尔诺贝利禁区内的动物仍能生存繁衍？"
+    },
+    {
+      "title": "网友说「桂花香是一种非牛顿流体」，越用力闻气味越淡，越不用力闻气味越浓，这种说法有道理吗？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
