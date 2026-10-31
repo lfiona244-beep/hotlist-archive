@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-31",
+  "fetched_at": "2026-10-31T15:59:05.521112+08:00",
+  "has_hotlist": true,
+  "has_news": true,
+  "has_weather": true,
+  "has_fuel": true,
+  "fuel_changed": true,
+  "fuel_change_detail": "{'广东92#汽油': '8.63', '广东95#汽油': '9.35', '广东98#汽油': '11.35', '广东0#柴油': '8.31'} → {'广东92#汽油': '8.91', '广东95#汽油': '9.65', '广东98#汽油': '11.65', '广东0#柴油': '8.60'}",
+  "has_zhihu_daily": true,
+  "has_bilibili": true
+}

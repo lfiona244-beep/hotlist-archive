@@ -1,129 +1,126 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T16:03:14.888258+08:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:59:18.195324+08:00",
   "total_raw": 60,
   "total_cleaned": 59,
   "category_stats": {
-    "其他": 37,
-    "科技": 5,
     "社会": 4,
+    "其他": 52,
     "体育": 1,
-    "游戏": 1,
-    "财经": 2,
-    "娱乐": 9
+    "娱乐": 2
   },
   "hotspot": [
     {
-      "title": "油车一月油费3000元车主想换电车",
+      "title": "官方披露：将有两名中国人登陆月球",
       "platforms": [
         "toutiao",
         "baidu"
       ],
-      "category": "其他"
+      "category": "社会"
     }
   ],
   "top_trending": [
     {
-      "title": "第一个15万亿经济大省要来了吗",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "官方介绍五中全会最重要成果",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "构筑产业发展新优势",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "油车一月油费3000元车主想换电车",
+      "title": "官方披露：将有两名中国人登陆月球",
       "platforms": [
         "toutiao",
         "baidu"
       ],
-      "category": "其他"
+      "category": "社会"
     },
     {
-      "title": "中共中央举行新闻发布会",
+      "title": "日本访华代表团鞠躬谢罪",
       "platforms": [
-        "douyin"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "比冬天先来的是一顿热火锅",
-      "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "6G技术加速走向应用",
+      "title": "保持定力持之以恒推进全面从严治党",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "钓鱼男子被钱塘江涌潮吞没后游上岸",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "一套房650万要缴450万的税",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小沈阳披荆斩棘冠军",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "中国找矿获重大突破",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "退休外交官历经520天重走长征路",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "以色列选举最终结果公布",
       "platforms": [
         "douyin"
       ],
-      "category": "科技"
+      "category": "其他"
     },
     {
-      "title": "国防部回应美日近期军演",
+      "title": "勒布伦2比1孙颖莎",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中国稀土筹划重大资产重组",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "全国社保卡持卡人数已达13.9亿",
       "platforms": [
         "douyin"
       ],
       "category": "社会"
     },
     {
-      "title": "中方驳斥派女情报人员接触黄仁勋报道",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中国U17女足首进世界杯8强",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "国防部称遵义舰从容应对侵权挑衅",
+      "title": "我国公布首次载人登月乘组计划",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "张雪90后专科生员工年薪五六十万",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "国防部称“以台制华”必付沉重代价",
+      "title": "桃田贤斗击败周泽奇晋级16强",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "369说打瓦真的有用",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "工资改发数字人民币了有啥变化",
+      "title": "“假笑男孩”16岁了",
       "platforms": [
         "toutiao"
       ],
@@ -131,70 +128,70 @@
     }
   ],
   "news": [
+    "本月玩什么｜影之刃零、战争机器：事变日等",
+    "一图流 | 一张图看懂中国版 Apple 智能",
+    "本周看什么 | 最近值得一看的 9 部作品",
     "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
     "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
     "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
     "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-    "新玩意 254｜少数派的编辑们最近买了啥？",
-    "如何成为不吃压力的「大心脏」？",
-    "让 Agent 读懂你的身体：数据处理篇",
-    "一日一技｜iPhone 恶意被锁，线上移除流程拆招"
+    "新玩意 254｜少数派的编辑们最近买了啥？"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【2026全球总决赛】10月30日 BLG vs TES",
-      "author": "哔哩哔哩英雄联盟赛事",
-      "play": 3140159
-    },
-    {
-      "title": "白蚁豪宅被大象拿来擦屁股，没想到擦出了一个微观水世界！",
-      "author": "为一放映室",
-      "play": 791112
-    },
-    {
-      "title": "第三人称游玩自己",
-      "author": "总被东西砸的河神",
-      "play": 809156
-    },
-    {
-      "title": "【独家】《罗小黑战记》第41话 开始学习吧小黑同学【10月国创】",
+      "title": " 【独家】《凡人修仙传之慕兰之战》第22集【总第198集】",
       "author": "哔哩哔哩国创",
-      "play": 1552501
+      "play": 2651131
     },
     {
-      "title": "哪些歌手离开了唱片公司，审美就像一坨答辩？#1",
-      "author": "阿张RayZhang",
-      "play": 304005
+      "title": "灭建国的超能力",
+      "author": "抽象生活先生",
+      "play": 2830749
     },
     {
-      "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
-      "author": "AAA宇宙边角料",
-      "play": 845129
+      "title": "小时候直肠子就这样讲话",
+      "author": "破米库",
+      "play": 1627507
     },
     {
-      "title": "CPOPwave出海长红IP——《原神》让世界认识中国游戏",
-      "author": "央视频",
-      "play": 142918
+      "title": "假如主角身边全是奸臣(大合集)一次性看完!",
+      "author": "meme震惊猫",
+      "play": 2588230
     },
     {
-      "title": "【極言極语 vol.54】“开吧”“我随时准备跟”",
-      "author": "iG电子竞技俱乐部",
-      "play": 124722
+      "title": "烽火地带巴克什全新阵营对抗玩法，11月5日，即刻抉择！",
+      "author": "三角洲行动",
+      "play": 664823
+    },
+    {
+      "title": "原歌词越正，改成小调就越阴？你熟悉的童真歌曲变成小调后谁反差最大？",
+      "author": "吹拉弹唱慕星银",
+      "play": 860280
+    },
+    {
+      "title": "透明的镜片居然有影子？观众的问题让我脑洞大开！",
+      "author": "毕的二阶导",
+      "play": 3603245
+    },
+    {
+      "title": "我用Ai让AUDI和键盘侠打了一架",
+      "author": "狗哥FastDog",
+      "play": 1031846
     }
   ],
   "zhihu_daily": [
     {
-      "title": "欠了一周的觉，周末补一天和连续几天早睡，恢复效果一样吗？"
+      "title": "海洋生物真的拿藤壶一点办法都没有吗？"
     },
     {
-      "title": "协和号客机在工程设计上有哪些让外行看起来觉得匪夷所思的，但在工程上却是精密计算结果的极端设计？"
+      "title": "你知道历史上有哪些转折点？"
     },
     {
-      "title": "大脑为什么要删除三岁前的记忆？"
+      "title": "为什么有些人喝牛奶不舒服，却能接受酸奶？"
     },
     {
-      "title": "瞎扯 · 如何正确地吐槽"
+      "title": "为什么现在的公交车乘坐时非常非常颠簸，八九十年代的公交车好像平稳很多很多？"
     }
   ]
 }
