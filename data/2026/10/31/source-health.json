@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-31",
+  "checked_at": "2026-10-31T15:11:07.089550+08:00",
+  "total": 18,
+  "ok": 17,
+  "fail": 1,
+  "sources": [
+    {
+      "name": "抖音热搜API",
+      "url": "https://aweme-lq.snssdk.com/aweme/v1/hot/search/list/?aid=1128&version_code=880",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 1200,
+      "expect": 200,
+      "note": "抖音热榜（hotlist 数据源）"
+    },
+    {
+      "name": "头条热榜",
+      "url": "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 688,
+      "expect": 200,
+      "note": "头条热榜（brief 数据源）"
+    },
+    {
+      "name": "百度热榜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 3897,
+      "expect": 200,
+      "note": "百度实时榜"
+    },
+    {
+      "name": "知乎日报API",
+      "url": "https://news-at.zhihu.com/api/4/news/latest",
+      "status": "❌ 异常",
+      "code": null,
+      "latency_ms": 157,
+      "expect": 200,
+      "note": "每日资讯（news 数据源）"
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com/api/v1/article/index/page/get?limit=10&offset=0",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 1379,
+      "expect": 200,
+      "note": "少数派文章 API（brief 新闻源）"
+    },
+    {
+      "name": "百度百科历史",
+      "url": "https://baike.baidu.com/cms/home/eventsOnHistory/10.json",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 1258,
+      "expect": 200,
+      "note": "历史上的今天"
+    },
+    {
+      "name": "油价网",
+      "url": "http://www.qiyoujiage.com/guangdong.shtml",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 2145,
+      "expect": 200,
+      "note": "广东油价"
+    },
+    {
+      "name": "Open-Meteo天气",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=23.13&longitude=113.26&current=temperature_2m",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 265,
+      "expect": 200,
+      "note": "广州天气（weather.py 源）"
+    },
+    {
+      "name": "默沙东手册",
+      "url": "https://www.msdmanuals.cn/home",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 471,
+      "expect": 200,
+      "note": "健康权威源"
+    },
+    {
+      "name": "GitHub API",
+      "url": "https://api.github.com",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 96,
+      "expect": 200,
+      "note": "GitHub 官方 API"
+    },
+    {
+      "name": "博查搜索API",
+      "url": "https://api.bochaai.com/v1/web-search",
+      "status": "✅ 正常",
+      "code": 405,
+      "latency_ms": 964,
+      "expect": 405,
+      "note": "博查 AI 搜索（POST接口，405=存活）"
+    },
+    {
+      "name": "ModelScope",
+      "url": "https://www.modelscope.cn",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 2297,
+      "expect": 200,
+      "note": "中文模型/数据集（HuggingFace 不通时的镜像）"
+    },
+    {
+      "name": "美股日报",
+      "url": "https://finews.elsetech.app/",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 877,
+      "expect": 200,
+      "note": "美股盘后日报"
+    },
+    {
+      "name": "Bing搜索",
+      "url": "https://www.bing.com",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 133,
+      "expect": 200,
+      "note": "中文搜索兜底"
+    },
+    {
+      "name": "StackExchange",
+      "url": "https://api.stackexchange.com/2.3/sites",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 106,
+      "expect": 200,
+      "note": "技术问答（sites 公开接口）"
+    },
+    {
+      "name": "EcoHub追剧",
+      "url": "https://eco.fe-spark.cn/",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 904,
+      "expect": 200,
+      "note": "主追剧源（Next.js 聚合站）"
+    },
+    {
+      "name": "追剧导航站",
+      "url": "https://zhuiju.me",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 746,
+      "expect": 200,
+      "note": "awesome-zhuiju-free 官网"
+    },
+    {
+      "name": "追剧资源JSON",
+      "url": "https://raw.githubusercontent.com/laoma2053/awesome-zhuiju-free/main/resources/resources.json",
+      "status": "✅ 正常",
+      "code": 200,
+      "latency_ms": 30,
+      "expect": 200,
+      "note": "94个追剧资源清单"
+    }
+  ]
+}

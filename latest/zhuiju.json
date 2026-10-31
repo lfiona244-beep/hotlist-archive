@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-30",
-  "total": 126,
+  "date": "2026-10-31",
+  "total": 127,
   "available": 72,
-  "available_rate": 57.1,
+  "available_rate": 56.7,
   "categories": {
     "online_video": 54,
     "video_app": 4,
@@ -12,17 +12,17 @@
     "tvbox_config": 17,
     "magnet_search": 16,
     "cloud_search": 4,
-    "open_source": 16
+    "open_source": 17
   },
   "available_samples": [
     "看看鸭",
     "搜TV啦",
     "白嫖者联盟",
     "青空次元",
+    "APP影院",
     "爱电影",
     "Auete影视",
-    "电影人生",
-    "奈菲影视"
+    "电影人生"
   ],
   "restricted": [
     {
@@ -35,10 +35,6 @@
     },
     {
       "name": "蛋蛋魔法",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -63,6 +59,10 @@
     },
     {
       "name": "影猫仓库",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "SubHD",
       "status": "受限 HTTP 403"
     }
   ],
