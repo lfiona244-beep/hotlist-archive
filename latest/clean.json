@@ -1,51 +1,100 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:59:18.195324+08:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T16:41:54.562702+08:00",
   "total_raw": 60,
-  "total_cleaned": 59,
+  "total_cleaned": 60,
   "category_stats": {
-    "社会": 4,
-    "其他": 52,
+    "科技": 4,
     "体育": 1,
-    "娱乐": 2
+    "其他": 44,
+    "游戏": 1,
+    "生活": 2,
+    "社会": 4,
+    "娱乐": 4
   },
-  "hotspot": [
-    {
-      "title": "官方披露：将有两名中国人登陆月球",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "社会"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "官方披露：将有两名中国人登陆月球",
+      "title": "五中全会决定全文发布",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "toutiao"
       ],
-      "category": "社会"
+      "category": "科技"
     },
     {
-      "title": "日本访华代表团鞠躬谢罪",
+      "title": "央行证监会将于明天召开座谈会",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "保持定力持之以恒推进全面从严治党",
+      "title": "坚持服务党的使命任务",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "钓鱼男子被钱塘江涌潮吞没后游上岸",
+      "title": "央视曝光2388元蜜丸成本仅40元",
       "platforms": [
         "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "二十届五中全会决定全文发布",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "2027年春节有望连休9天",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "武汉林丹杯决赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "黄河流域外贸规模持续扩容",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "BLG零封HLE晋级八强",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "网红九哥余杰肝癌离世",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "十月再见十一月你好",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "S16八强抽签结果出炉",
+      "platforms": [
+        "douyin"
       ],
       "category": "其他"
     },
@@ -57,141 +106,85 @@
       "category": "其他"
     },
     {
-      "title": "小沈阳披荆斩棘冠军",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "中国找矿获重大突破",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "退休外交官历经520天重走长征路",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "以色列选举最终结果公布",
+      "title": "即梦首个剧本模型上线",
       "platforms": [
         "douyin"
       ],
-      "category": "其他"
+      "category": "游戏"
     },
     {
-      "title": "勒布伦2比1孙颖莎",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中国稀土筹划重大资产重组",
+      "title": "阳朔的山压迫感太强了",
       "platforms": [
         "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "全国社保卡持卡人数已达13.9亿",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "我国公布首次载人登月乘组计划",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "桃田贤斗击败周泽奇晋级16强",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "“假笑男孩”16岁了",
-      "platforms": [
-        "toutiao"
       ],
       "category": "其他"
     }
   ],
   "news": [
+    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
     "本月玩什么｜影之刃零、战争机器：事变日等",
     "一图流 | 一张图看懂中国版 Apple 智能",
     "本周看什么 | 最近值得一看的 9 部作品",
     "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
     "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
     "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-    "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-    "新玩意 254｜少数派的编辑们最近买了啥？"
+    "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": " 【独家】《凡人修仙传之慕兰之战》第22集【总第198集】",
+      "title": "【2026全球总决赛】11月1日 HLE vs BLG",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 5662357
+    },
+    {
+      "title": "【时间啊，向前！】TL-1至TL-10 摆完挂机 简单好抄",
+      "author": "萧然Q",
+      "play": 748510
+    },
+    {
+      "title": "选一条路，决定你接下来的旅途",
+      "author": "麒麟光谱",
+      "play": 1192825
+    },
+    {
+      "title": "【独家】牧神记 第107集 上苍",
       "author": "哔哩哔哩国创",
-      "play": 2651131
+      "play": 1225899
     },
     {
-      "title": "灭建国的超能力",
-      "author": "抽象生活先生",
-      "play": 2830749
+      "title": "这样建？几棵树苗能做什么？【Minecraft】",
+      "author": "一抹深冷蓝",
+      "play": 453558
     },
     {
-      "title": "小时候直肠子就这样讲话",
-      "author": "破米库",
-      "play": 1627507
+      "title": "筋角弓制作",
+      "author": "归乡人山白",
+      "play": 944536
     },
     {
-      "title": "假如主角身边全是奸臣(大合集)一次性看完!",
-      "author": "meme震惊猫",
-      "play": 2588230
+      "title": "世界最最最烂活",
+      "author": "小潮院长",
+      "play": 520757
     },
     {
-      "title": "烽火地带巴克什全新阵营对抗玩法，11月5日，即刻抉择！",
-      "author": "三角洲行动",
-      "play": 664823
-    },
-    {
-      "title": "原歌词越正，改成小调就越阴？你熟悉的童真歌曲变成小调后谁反差最大？",
-      "author": "吹拉弹唱慕星银",
-      "play": 860280
-    },
-    {
-      "title": "透明的镜片居然有影子？观众的问题让我脑洞大开！",
-      "author": "毕的二阶导",
-      "play": 3603245
-    },
-    {
-      "title": "我用Ai让AUDI和键盘侠打了一架",
-      "author": "狗哥FastDog",
-      "play": 1031846
+      "title": "全球笑点下降2000倍而我不变【第二集】",
+      "author": "逗比的雀巢",
+      "play": 3827424
     }
   ],
   "zhihu_daily": [
     {
-      "title": "海洋生物真的拿藤壶一点办法都没有吗？"
+      "title": "Anthropic 宣布「编程面试已死」，程序员靠什么证明自己？"
     },
     {
-      "title": "你知道历史上有哪些转折点？"
+      "title": "为什么西湖醋鱼从一道名菜变成了难吃的代名词？"
     },
     {
-      "title": "为什么有些人喝牛奶不舒服，却能接受酸奶？"
+      "title": "自媒体称澳大利亚每年花费巨额从中国进口屎壳郎，这是真吗？中国的屎壳郎真的如此兢兢业业、不挑食吗？"
     },
     {
-      "title": "为什么现在的公交车乘坐时非常非常颠簸，八九十年代的公交车好像平稳很多很多？"
+      "title": "明朝的「君王死社稷」是不是一个笑话？"
     }
   ]
 }

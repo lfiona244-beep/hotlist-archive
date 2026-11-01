@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:59:05.521112+08:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T16:41:44.919917+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-10-31T15:45",
+    "fetched_at": "2026-11-01T16:30",
     "current": {
-      "temperature": 31.8,
-      "feels_like": 33.3,
-      "humidity": 45,
-      "condition": "阴",
-      "weather_code": 2,
-      "wind_speed": 10.9,
-      "wind_direction": 142
+      "temperature": 32.4,
+      "feels_like": 33.7,
+      "humidity": 43,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 11.2,
+      "wind_direction": 165
     },
     "today": {
       "temp_min": 24.0,
-      "temp_max": 32.0,
-      "precipitation_probability": 20,
-      "uv_index": 6.15,
-      "sunrise": "2026-10-31T06:31",
-      "sunset": "2026-10-31T17:49"
+      "temp_max": 33.1,
+      "precipitation_probability": 27,
+      "uv_index": 6.6,
+      "sunrise": "2026-11-01T06:31",
+      "sunset": "2026-11-01T17:49"
     }
   },
   "fuel": [
@@ -45,77 +45,77 @@
       "price": "8.60"
     }
   ],
-  "fuel_changed": true,
-  "fuel_change_detail": "{'广东92#汽油': '8.63', '广东95#汽油': '9.35', '广东98#汽油': '11.35', '广东0#柴油': '8.31'} → {'广东92#汽油': '8.91', '广东95#汽油': '9.65', '广东98#汽油': '11.65', '广东0#柴油': '8.60'}",
+  "fuel_changed": false,
+  "fuel_change_detail": "",
   "news": [
+    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
     "本月玩什么｜影之刃零、战争机器：事变日等",
     "一图流 | 一张图看懂中国版 Apple 智能",
     "本周看什么 | 最近值得一看的 9 部作品",
     "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
     "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
     "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-    "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-    "新玩意 254｜少数派的编辑们最近买了啥？"
+    "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "以色列选举最终结果公布"
+      "title": "二十届五中全会决定全文发布"
     },
     {
       "platform": "抖音",
-      "title": "中国稀土筹划重大资产重组"
+      "title": "武汉林丹杯决赛"
     },
     {
       "platform": "抖音",
-      "title": "全国社保卡持卡人数已达13.9亿"
+      "title": "黄河流域外贸规模持续扩容"
     },
     {
       "platform": "抖音",
-      "title": "我国公布首次载人登月乘组计划"
+      "title": "BLG零封HLE晋级八强"
     },
     {
       "platform": "抖音",
-      "title": "桃田贤斗击败周泽奇晋级16强"
+      "title": "十月再见十一月你好"
     },
     {
       "platform": "头条",
-      "title": "官方披露：将有两名中国人登陆月球"
+      "title": "五中全会《决定》全文发布"
     },
     {
       "platform": "头条",
-      "title": "日本访华代表团鞠躬谢罪"
+      "title": "央行证监会将于明天召开座谈会"
     },
     {
       "platform": "头条",
-      "title": "保持定力持之以恒推进全面从严治党"
+      "title": "坚持服务党的使命任务"
     },
     {
       "platform": "头条",
-      "title": "钓鱼男子被钱塘江涌潮吞没后游上岸"
+      "title": "央视曝光2388元蜜丸成本仅40元"
     },
     {
       "platform": "头条",
-      "title": "一套房650万要缴450万的税"
+      "title": "2027年春节有望连休9天"
     },
     {
       "platform": "百度",
-      "title": "习近平同德国总统施泰因迈尔会谈"
+      "title": "以恒心守初心 从胜利走向新的胜利"
     }
   ],
   "today_in_history": [
     {
-      "year": "1472",
-      "title": "我国明代著名的哲学家、心学创始人王守仁出生"
+      "year": "1778",
+      "title": "最后一个统治芬兰的瑞典君主古斯塔夫四世出生"
     },
     {
-      "year": "1795",
-      "title": "英国诗人约翰·济慈出生"
+      "year": "1860",
+      "title": "沙皇尼古拉一世之妻亚历山德拉·费奥多罗芙娜逝世"
     },
     {
-      "year": "1813",
-      "title": "莱茵联邦正式解体"
+      "year": "1880",
+      "title": "魏格纳出生"
     }
   ]
 }
