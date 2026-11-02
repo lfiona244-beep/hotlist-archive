@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T16:41:44.919917+08:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T16:52:45.665571+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-01T16:30",
+    "fetched_at": "2026-11-02T16:45",
     "current": {
-      "temperature": 32.4,
-      "feels_like": 33.7,
-      "humidity": 43,
-      "condition": "多云",
-      "weather_code": 1,
-      "wind_speed": 11.2,
-      "wind_direction": 165
+      "temperature": 30.3,
+      "feels_like": 32.0,
+      "humidity": 53,
+      "condition": "阴",
+      "weather_code": 2,
+      "wind_speed": 13.8,
+      "wind_direction": 40
     },
     "today": {
-      "temp_min": 24.0,
-      "temp_max": 33.1,
-      "precipitation_probability": 27,
-      "uv_index": 6.6,
-      "sunrise": "2026-11-01T06:31",
-      "sunset": "2026-11-01T17:49"
+      "temp_min": 24.6,
+      "temp_max": 31.6,
+      "precipitation_probability": 57,
+      "uv_index": 6.55,
+      "sunrise": "2026-11-02T06:32",
+      "sunset": "2026-11-02T17:48"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+    "Xnip 十周年：长截图的新生，也是新的起点",
+    "派早报：Apple 智能将随 iOS 27.3 登陆中国",
     "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
     "本月玩什么｜影之刃零、战争机器：事变日等",
     "一图流 | 一张图看懂中国版 Apple 智能",
     "本周看什么 | 最近值得一看的 9 部作品",
-    "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
-    "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
-    "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-    "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等"
+    "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "二十届五中全会决定全文发布"
+      "title": "首届CMG世界机器人登泰山大赛"
     },
     {
       "platform": "抖音",
-      "title": "武汉林丹杯决赛"
+      "title": "杨瀚森工作室回应执行合同"
     },
     {
       "platform": "抖音",
-      "title": "黄河流域外贸规模持续扩容"
+      "title": "第九届进博会开幕在即"
     },
     {
       "platform": "抖音",
-      "title": "BLG零封HLE晋级八强"
+      "title": "我国拟修改刑事诉讼法"
     },
     {
       "platform": "抖音",
-      "title": "十月再见十一月你好"
+      "title": "勇士124:112力克快船"
     },
     {
       "platform": "头条",
-      "title": "五中全会《决定》全文发布"
+      "title": "男子彩票中1113万过期2天兑奖被拒"
     },
     {
       "platform": "头条",
-      "title": "央行证监会将于明天召开座谈会"
+      "title": "巴菲特48年没喝过白开水"
     },
     {
       "platform": "头条",
-      "title": "坚持服务党的使命任务"
+      "title": "中部战区空军发布网宣片《何以神威》"
     },
     {
       "platform": "头条",
-      "title": "央视曝光2388元蜜丸成本仅40元"
+      "title": "广州原书记郭永航被双开"
     },
     {
       "platform": "头条",
-      "title": "2027年春节有望连休9天"
+      "title": "海事局连发航行警告 最长封航30天"
     },
     {
       "platform": "百度",
-      "title": "以恒心守初心 从胜利走向新的胜利"
+      "title": "习近平同阿曼苏丹海赛姆会谈"
     }
   ],
   "today_in_history": [
     {
-      "year": "1778",
-      "title": "最后一个统治芬兰的瑞典君主古斯塔夫四世出生"
+      "year": "1082",
+      "title": "北宋皇帝、书画家宋徽宗赵佶出生"
     },
     {
-      "year": "1860",
-      "title": "沙皇尼古拉一世之妻亚历山德拉·费奥多罗芙娜逝世"
+      "year": "1585",
+      "title": "日本战国武将立花道雪逝世"
     },
     {
-      "year": "1880",
-      "title": "魏格纳出生"
+      "year": "1755",
+      "title": "法国和那瓦尔皇后玛丽·安托瓦内特出生"
     }
   ]
 }

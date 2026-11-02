@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T16:52:58.739147+08:00",
+  "total_raw": 60,
+  "total_cleaned": 60,
+  "category_stats": {
+    "科技": 3,
+    "社会": 2,
+    "其他": 52,
+    "体育": 2,
+    "娱乐": 1
+  },
+  "hotspot": [],
+  "top_trending": [
+    {
+      "title": "男子彩票中1113万过期2天兑奖被拒",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "巴菲特48年没喝过白开水",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "首届CMG世界机器人登泰山大赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "杨瀚森工作室回应执行合同",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "第九届进博会开幕在即",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "我国拟修改刑事诉讼法",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中部战区空军发布网宣片何以神威",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "勇士124:112力克快船",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "机器人爬泰山参赛选手大赏",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "广州原书记郭永航被双开",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "阿森纳1:0利物浦",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "真实长征的难远超我们想象",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "冬天一秒出门的百搭外套",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "海事局连发航行警告 最长封航30天",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "多海域连发航行警告",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+    "Xnip 十周年：长截图的新生，也是新的起点",
+    "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+    "本月玩什么｜影之刃零、战争机器：事变日等",
+    "一图流 | 一张图看懂中国版 Apple 智能",
+    "本周看什么 | 最近值得一看的 9 部作品",
+    "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "你爸回你消息了",
+      "author": "冬冰",
+      "play": 412468
+    },
+    {
+      "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
+      "author": "分析师蓝宝石",
+      "play": 454211
+    },
+    {
+      "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
+      "author": "九夜听风",
+      "play": 892113
+    },
+    {
+      "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
+      "author": "Git源宝",
+      "play": 348771
+    },
+    {
+      "title": "大肥鱼适合做女朋友吗？（2）",
+      "author": "学姐圆",
+      "play": 1060671
+    },
+    {
+      "title": "致敬传奇抗压王——塔露拉",
+      "author": "努力睡觉的斌子",
+      "play": 990825
+    },
+    {
+      "title": "老法师把自己当馒头蒸，结果蒸成了中微子",
+      "author": "糟糕的历史-听文知",
+      "play": 2180321
+    },
+    {
+      "title": "韩网炸了！BLG淘汰HLE送全队十六强，韩国人怎么评价韩华突然回家？Viper Gumayusi Bin 左手",
+      "author": "辉锅_",
+      "play": 526235
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "仓鼠为什么喜欢跑滚轮？"
+    },
+    {
+      "title": "历史教授为什么不愿碰元史？"
+    },
+    {
+      "title": "Windows的伟大之处在哪里？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
