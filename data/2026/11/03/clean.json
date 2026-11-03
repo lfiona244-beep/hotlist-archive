@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T17:00:00.216410+08:00",
+  "total_raw": 60,
+  "total_cleaned": 57,
+  "category_stats": {
+    "其他": 46,
+    "科技": 2,
+    "娱乐": 2,
+    "财经": 1,
+    "社会": 4,
+    "体育": 1,
+    "生活": 1
+  },
+  "hotspot": [
+    {
+      "title": "刘延东同志遗体在京火化",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "“举报共治 护企远航”倡议将发布",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "沈阳保洁大叔称每天上百号人来合影",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "刘延东同志遗体在京火化",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "2026世界互联网大会乌镇峰会开幕",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "今年的进博会有哪些看点",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "真正好吃的美味在民间",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "来一场热血弹珠PK大赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "勇士逆转太阳",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "刘延东同志生平",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "天禄击败9z取iem北京开门红",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "一句你好胜过千言万语",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "亚历山大爆砍43分带队胜骑士",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "冬天一秒出门的百搭外套",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "赣州通报看演唱会女生低保已取消",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "娱乐"
+    },
+    {
+      "title": "小蓝叔对口型演绎大赏",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "“举报共治 护企远航”倡议将发布",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "76人战胜公牛获四连胜",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+    "Disc Image Studio：你想不想在光盘上「画」点什么？",
+    "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+    "派评 | 近期值得关注的 App",
+    "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+    "Xnip 十周年：长截图的新生，也是新的起点",
+    "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《原神》角色预告-「米提亚：井井有条」",
+      "author": "原神",
+      "play": 762392
+    },
+    {
+      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+      "author": "弧光猎人_ARCRaiders",
+      "play": 994207
+    },
+    {
+      "title": "一条没下巴的鱼杀穿奥陶纪？",
+      "author": "我们都是社畜",
+      "play": 1236810
+    },
+    {
+      "title": "【纪录片】蓝色星球 第三季 01 热带海域",
+      "author": "哔哩哔哩纪录片",
+      "play": 868512
+    },
+    {
+      "title": "《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」",
+      "author": "崩坏星穹铁道",
+      "play": 701012
+    },
+    {
+      "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
+      "author": "DeepSeekHarness",
+      "play": 1776826
+    },
+    {
+      "title": "哟西！故乡的樱花开了！",
+      "author": "大漠叔叔",
+      "play": 1974579
+    },
+    {
+      "title": "入职鹰角成为卫戍协议策划的一天",
+      "author": "摸鱼事务所",
+      "play": 422218
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "你给哪些牛人发过邮件？有哪些结果？"
+    },
+    {
+      "title": "中国有哪些不为人知的濒危物种？"
+    },
+    {
+      "title": "如果鸡能长到100千克重，那人是不是就有巨大的鸡翅可以吃了？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}

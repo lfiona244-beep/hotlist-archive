@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T16:52:45.665571+08:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T16:59:47.208263+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-02T16:45",
+    "fetched_at": "2026-11-03T16:45",
     "current": {
-      "temperature": 30.3,
-      "feels_like": 32.0,
-      "humidity": 53,
-      "condition": "阴",
-      "weather_code": 2,
-      "wind_speed": 13.8,
-      "wind_direction": 40
+      "temperature": 29.2,
+      "feels_like": 31.6,
+      "humidity": 60,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 12.0,
+      "wind_direction": 144
     },
     "today": {
-      "temp_min": 24.6,
-      "temp_max": 31.6,
-      "precipitation_probability": 57,
-      "uv_index": 6.55,
-      "sunrise": "2026-11-02T06:32",
-      "sunset": "2026-11-02T17:48"
+      "temp_min": 22.5,
+      "temp_max": 30.0,
+      "precipitation_probability": 78,
+      "uv_index": 5.25,
+      "sunrise": "2026-11-03T06:33",
+      "sunset": "2026-11-03T17:47"
     }
   },
   "fuel": [
@@ -48,74 +48,70 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+    "Disc Image Studio：你想不想在光盘上「画」点什么？",
+    "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+    "派评 | 近期值得关注的 App",
     "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
     "Xnip 十周年：长截图的新生，也是新的起点",
     "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-    "本月玩什么｜影之刃零、战争机器：事变日等",
-    "一图流 | 一张图看懂中国版 Apple 智能",
-    "本周看什么 | 最近值得一看的 9 部作品",
-    "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣"
+    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "首届CMG世界机器人登泰山大赛"
+      "title": "刘延东同志遗体在京火化"
     },
     {
       "platform": "抖音",
-      "title": "杨瀚森工作室回应执行合同"
+      "title": "2026世界互联网大会乌镇峰会开幕"
     },
     {
       "platform": "抖音",
-      "title": "第九届进博会开幕在即"
+      "title": "今年的进博会有哪些看点"
     },
     {
       "platform": "抖音",
-      "title": "我国拟修改刑事诉讼法"
+      "title": "真正好吃的美味在民间"
     },
     {
       "platform": "抖音",
-      "title": "勇士124:112力克快船"
+      "title": "来一场热血弹珠PK大赛"
     },
     {
       "platform": "头条",
-      "title": "男子彩票中1113万过期2天兑奖被拒"
+      "title": "刘延东同志生平"
     },
     {
       "platform": "头条",
-      "title": "巴菲特48年没喝过白开水"
+      "title": "世界互联网大会乌镇峰会今天开幕"
     },
     {
       "platform": "头条",
-      "title": "中部战区空军发布网宣片《何以神威》"
+      "title": "证监会：全力维护资本市场平稳运行"
     },
     {
       "platform": "头条",
-      "title": "广州原书记郭永航被双开"
-    },
-    {
-      "platform": "头条",
-      "title": "海事局连发航行警告 最长封航30天"
+      "title": "高颜值保洁大叔：年轻时相亲被嫌丑"
     },
     {
       "platform": "百度",
-      "title": "习近平同阿曼苏丹海赛姆会谈"
+      "title": "党的二十届五中全会《决定》诞生记"
     }
   ],
   "today_in_history": [
     {
-      "year": "1082",
-      "title": "北宋皇帝、书画家宋徽宗赵佶出生"
+      "year": "1839",
+      "title": "英军挑衅，中英展开“穿鼻之战”"
     },
     {
-      "year": "1585",
-      "title": "日本战国武将立花道雪逝世"
+      "year": "1901",
+      "title": "1933年获龚古尔文学奖的安德烈·马尔罗出生"
     },
     {
-      "year": "1755",
-      "title": "法国和那瓦尔皇后玛丽·安托瓦内特出生"
+      "year": "1918",
+      "title": "德国基尔水兵起义"
     }
   ]
 }
