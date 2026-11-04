@@ -1,214 +1,195 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T17:00:00.216410+08:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T16:36:38.450255+08:00",
   "total_raw": 60,
-  "total_cleaned": 57,
+  "total_cleaned": 59,
   "category_stats": {
-    "其他": 46,
     "科技": 2,
-    "娱乐": 2,
-    "财经": 1,
-    "社会": 4,
-    "体育": 1,
-    "生活": 1
+    "其他": 43,
+    "生活": 1,
+    "社会": 7,
+    "娱乐": 3,
+    "财经": 3
   },
   "hotspot": [
     {
-      "title": "刘延东同志遗体在京火化",
-      "platforms": [
-        "douyin",
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "“举报共治 护企远航”倡议将发布",
-      "platforms": [
-        "douyin",
-        "toutiao"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "沈阳保洁大叔称每天上百号人来合影",
+      "title": "新华社评苹果天气bug：离大谱",
       "platforms": [
         "toutiao",
         "baidu"
       ],
-      "category": "其他"
+      "category": "科技"
     }
   ],
   "top_trending": [
     {
-      "title": "刘延东同志遗体在京火化",
-      "platforms": [
-        "douyin",
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "2026世界互联网大会乌镇峰会开幕",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "今年的进博会有哪些看点",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "真正好吃的美味在民间",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "来一场热血弹珠PK大赛",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "勇士逆转太阳",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "刘延东同志生平",
+      "title": "A股大反攻原因找到了",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "天禄击败9z取iem北京开门红",
+      "title": "中方回应美国中期选举",
       "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "一句你好胜过千言万语",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "亚历山大爆砍43分带队胜骑士",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "冬天一秒出门的百搭外套",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "赣州通报看演唱会女生低保已取消",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "娱乐"
-    },
-    {
-      "title": "小蓝叔对口型演绎大赏",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "“举报共治 护企远航”倡议将发布",
-      "platforms": [
-        "douyin",
         "toutiao"
       ],
-      "category": "科技"
+      "category": "社会"
     },
     {
-      "title": "76人战胜公牛获四连胜",
+      "title": "9图看中国互联网发展最新成就",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "伊朗议长：美选举结果表明对战争说不",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "民主党大胜 全球股市“先崩后拉”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "这泰山是非爬不可吗",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
+    },
+    {
+      "title": "男生秋冬简约穿搭攻略",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "我国核电技术双龙出海电力拉满",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "科创50大涨近10%",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股收盘：科创50大涨近10%",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "IG战胜TES晋级四强",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "外交部：就中俄美元首会晤保持沟通",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "王毅把话说到不可容忍 菲方听懂了吗",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "闯入毛茸茸的奇妙世界",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方回应“美国中期选举”",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
     }
   ],
   "news": [
+    "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "国行 Apple 智能上手：这些功能已经准备好",
+    "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+    "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
     "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
     "Disc Image Studio：你想不想在光盘上「画」点什么？",
     "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-    "派评 | 近期值得关注的 App",
-    "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-    "Xnip 十周年：长截图的新生，也是新的起点",
-    "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-    "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」"
+    "派评 | 近期值得关注的 App"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《原神》角色预告-「米提亚：井井有条」",
-      "author": "原神",
-      "play": 762392
-    },
-    {
-      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
-      "author": "弧光猎人_ARCRaiders",
-      "play": 994207
-    },
-    {
-      "title": "一条没下巴的鱼杀穿奥陶纪？",
-      "author": "我们都是社畜",
-      "play": 1236810
-    },
-    {
-      "title": "【纪录片】蓝色星球 第三季 01 热带海域",
-      "author": "哔哩哔哩纪录片",
-      "play": 868512
-    },
-    {
-      "title": "《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」",
+      "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
       "author": "崩坏星穹铁道",
-      "play": 701012
+      "play": 1680361
     },
     {
-      "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
-      "author": "DeepSeekHarness",
-      "play": 1776826
+      "title": "《明日方舟：终末地》干员叙事 [明河：归客]",
+      "author": "明日方舟终末地",
+      "play": 831782
     },
     {
-      "title": "哟西！故乡的樱花开了！",
-      "author": "大漠叔叔",
-      "play": 1974579
+      "title": "《这是我儿子？》",
+      "author": "张小伙玩配音",
+      "play": 626922
     },
     {
-      "title": "入职鹰角成为卫戍协议策划的一天",
-      "author": "摸鱼事务所",
-      "play": 422218
+      "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
+      "author": "谢谢侬老徐",
+      "play": 691375
+    },
+    {
+      "title": "LPL赛区内战 IG战胜TES晋级四强【2026英雄联盟全球总决赛】",
+      "author": "新华社",
+      "play": 313448
+    },
+    {
+      "title": "无人生还！影之刃零的世界有多绝望？《影之刃零》细节解析",
+      "author": "利维坦mY",
+      "play": 178871
+    },
+    {
+      "title": "受网友诱骗跨省流浪一年，名下多了6家公司，欠了一屁股债，银行卡被封，全家低保也差点注销【出发去创作】",
+      "author": "摩的司机徐师傅",
+      "play": 1030223
+    },
+    {
+      "title": "【只对你有感觉】|“【恋爱の小曲】”",
+      "author": "蛋某人音乐",
+      "play": 939709
     }
   ],
   "zhihu_daily": [
     {
-      "title": "你给哪些牛人发过邮件？有哪些结果？"
+      "title": "在自然科学的历史上，最荒诞的事件是什么？"
     },
     {
-      "title": "中国有哪些不为人知的濒危物种？"
+      "title": "为什么狗的嗅觉这么灵敏却不怕臭？"
     },
     {
-      "title": "如果鸡能长到100千克重，那人是不是就有巨大的鸡翅可以吃了？"
+      "title": "我们永远无法知道死后是怎样的世界吗？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"

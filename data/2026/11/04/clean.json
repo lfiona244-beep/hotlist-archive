@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T16:36:38.450255+08:00",
+  "total_raw": 60,
+  "total_cleaned": 59,
+  "category_stats": {
+    "科技": 2,
+    "其他": 43,
+    "生活": 1,
+    "社会": 7,
+    "娱乐": 3,
+    "财经": 3
+  },
+  "hotspot": [
+    {
+      "title": "新华社评苹果天气bug：离大谱",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "科技"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "A股大反攻原因找到了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方回应美国中期选举",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "9图看中国互联网发展最新成就",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "伊朗议长：美选举结果表明对战争说不",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "民主党大胜 全球股市“先崩后拉”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "这泰山是非爬不可吗",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "男生秋冬简约穿搭攻略",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "我国核电技术双龙出海电力拉满",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "科创50大涨近10%",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股收盘：科创50大涨近10%",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "IG战胜TES晋级四强",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "外交部：就中俄美元首会晤保持沟通",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "王毅把话说到不可容忍 菲方听懂了吗",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "闯入毛茸茸的奇妙世界",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方回应“美国中期选举”",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    }
+  ],
+  "news": [
+    "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "国行 Apple 智能上手：这些功能已经准备好",
+    "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+    "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+    "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+    "Disc Image Studio：你想不想在光盘上「画」点什么？",
+    "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+    "派评 | 近期值得关注的 App"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
+      "author": "崩坏星穹铁道",
+      "play": 1680361
+    },
+    {
+      "title": "《明日方舟：终末地》干员叙事 [明河：归客]",
+      "author": "明日方舟终末地",
+      "play": 831782
+    },
+    {
+      "title": "《这是我儿子？》",
+      "author": "张小伙玩配音",
+      "play": 626922
+    },
+    {
+      "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
+      "author": "谢谢侬老徐",
+      "play": 691375
+    },
+    {
+      "title": "LPL赛区内战 IG战胜TES晋级四强【2026英雄联盟全球总决赛】",
+      "author": "新华社",
+      "play": 313448
+    },
+    {
+      "title": "无人生还！影之刃零的世界有多绝望？《影之刃零》细节解析",
+      "author": "利维坦mY",
+      "play": 178871
+    },
+    {
+      "title": "受网友诱骗跨省流浪一年，名下多了6家公司，欠了一屁股债，银行卡被封，全家低保也差点注销【出发去创作】",
+      "author": "摩的司机徐师傅",
+      "play": 1030223
+    },
+    {
+      "title": "【只对你有感觉】|“【恋爱の小曲】”",
+      "author": "蛋某人音乐",
+      "play": 939709
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "在自然科学的历史上，最荒诞的事件是什么？"
+    },
+    {
+      "title": "为什么狗的嗅觉这么灵敏却不怕臭？"
+    },
+    {
+      "title": "我们永远无法知道死后是怎样的世界吗？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
