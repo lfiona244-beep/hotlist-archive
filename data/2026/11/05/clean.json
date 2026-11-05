@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:57:13.204023+08:00",
+  "total_raw": 60,
+  "total_cleaned": 56,
+  "category_stats": {
+    "其他": 43,
+    "生活": 1,
+    "体育": 1,
+    "财经": 2,
+    "科技": 6,
+    "社会": 2,
+    "娱乐": 1
+  },
+  "hotspot": [
+    {
+      "title": "马兴瑞被提起公诉",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "黄之锋再获刑10年",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "厕所偷拍者不乏高知人群、公司高管",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "胡塞“狮子大开口”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "黄之锋再获刑10年",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "以开源开放之姿 奔赴美好数智未来",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "芒果TV崩了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "一道热乎菜开启各地冬天",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股收盘三大指数均上涨",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "漠河已经泼水成冰",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "同赴进博之约共享东方机遇",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "你怎么舍得让有趣的知识流走",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "更适合年轻人的文玩配饰",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "当秋冬穿搭不再all black",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "文班亚马52分24板8帽",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "高市祝贺日本书法申遗新进展引争议",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "马刺险胜独行侠",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+    "Apple 官网排版细节鉴赏",
+    "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+    "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+    "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "国行 Apple 智能上手：这些功能已经准备好",
+    "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+    "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《崩坏：因缘精灵》幸福PV：缘汽一下",
+      "author": "崩坏因缘精灵",
+      "play": 1478118
+    },
+    {
+      "title": "特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他？",
+      "author": "小王Albert",
+      "play": 2367650
+    },
+    {
+      "title": "《今日得吃朱古力》",
+      "author": "伤心欲茄222",
+      "play": 1939626
+    },
+    {
+      "title": "【纪录片】人生一串 第四季 01 同道中人",
+      "author": "哔哩哔哩纪录片",
+      "play": 975368
+    },
+    {
+      "title": "《三角洲行动》全新【微光】赛季故事短片",
+      "author": "三角洲行动",
+      "play": 700682
+    },
+    {
+      "title": "【原神一条龙全收集】至冬7.2(更新中)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
+      "author": "你的影月月",
+      "play": 916913
+    },
+    {
+      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+      "author": "弧光猎人_ARCRaiders",
+      "play": 5234791
+    },
+    {
+      "title": "在日本体验24小时穷富生活，预算相差100倍！差距究竟有多离谱？",
+      "author": "平平出击",
+      "play": 737495
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "小时候流行的「屁股针」消失了吗？为何现在不流行了？"
+    },
+    {
+      "title": "为什么玻利维亚有两个首都？"
+    },
+    {
+      "title": "美洲原住民（印第安人）也是黄皮肤、黑头发、黑眼睛，其祖先是不是来自中国？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}

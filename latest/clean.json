@@ -1,195 +1,222 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T16:36:38.450255+08:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:57:13.204023+08:00",
   "total_raw": 60,
-  "total_cleaned": 59,
+  "total_cleaned": 56,
   "category_stats": {
-    "科技": 2,
     "其他": 43,
     "生活": 1,
-    "社会": 7,
-    "娱乐": 3,
-    "财经": 3
+    "体育": 1,
+    "财经": 2,
+    "科技": 6,
+    "社会": 2,
+    "娱乐": 1
   },
   "hotspot": [
     {
-      "title": "新华社评苹果天气bug：离大谱",
+      "title": "马兴瑞被提起公诉",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "黄之锋再获刑10年",
       "platforms": [
         "toutiao",
         "baidu"
       ],
-      "category": "科技"
+      "category": "其他"
+    },
+    {
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "厕所偷拍者不乏高知人群、公司高管",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
     }
   ],
   "top_trending": [
     {
-      "title": "A股大反攻原因找到了",
+      "title": "胡塞“狮子大开口”",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "中方回应美国中期选举",
+      "title": "黄之锋再获刑10年",
       "platforms": [
-        "toutiao"
+        "toutiao",
+        "baidu"
       ],
-      "category": "社会"
+      "category": "其他"
     },
     {
-      "title": "9图看中国互联网发展最新成就",
+      "title": "以开源开放之姿 奔赴美好数智未来",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "伊朗议长：美选举结果表明对战争说不",
+      "title": "芒果TV崩了",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "民主党大胜 全球股市“先崩后拉”",
+      "title": "38岁男子被骗到缅甸因太老卖不掉",
       "platforms": [
-        "toutiao"
+        "toutiao",
+        "baidu"
       ],
-      "category": "财经"
+      "category": "其他"
     },
     {
-      "title": "这泰山是非爬不可吗",
+      "title": "一道热乎菜开启各地冬天",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "男生秋冬简约穿搭攻略",
+      "title": "A股收盘三大指数均上涨",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "漠河已经泼水成冰",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "同赴进博之约共享东方机遇",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "你怎么舍得让有趣的知识流走",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "更适合年轻人的文玩配饰",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "当秋冬穿搭不再all black",
       "platforms": [
         "douyin"
       ],
       "category": "生活"
     },
     {
-      "title": "我国核电技术双龙出海电力拉满",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "科创50大涨近10%",
+      "title": "文班亚马52分24板8帽",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "A股收盘：科创50大涨近10%",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "IG战胜TES晋级四强",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "外交部：就中俄美元首会晤保持沟通",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "王毅把话说到不可容忍 菲方听懂了吗",
+      "title": "高市祝贺日本书法申遗新进展引争议",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "闯入毛茸茸的奇妙世界",
+      "title": "马刺险胜独行侠",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
-    },
-    {
-      "title": "中方回应“美国中期选举”",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "社会"
     }
   ],
   "news": [
+    "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+    "Apple 官网排版细节鉴赏",
+    "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+    "你不知道的客户端开发：AI 时代下的选型、原生与借力",
     "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
     "国行 Apple 智能上手：这些功能已经准备好",
     "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
-    "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-    "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-    "Disc Image Studio：你想不想在光盘上「画」点什么？",
-    "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-    "派评 | 近期值得关注的 App"
+    "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
-      "author": "崩坏星穹铁道",
-      "play": 1680361
+      "title": "《崩坏：因缘精灵》幸福PV：缘汽一下",
+      "author": "崩坏因缘精灵",
+      "play": 1478118
     },
     {
-      "title": "《明日方舟：终末地》干员叙事 [明河：归客]",
-      "author": "明日方舟终末地",
-      "play": 831782
+      "title": "特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他？",
+      "author": "小王Albert",
+      "play": 2367650
     },
     {
-      "title": "《这是我儿子？》",
-      "author": "张小伙玩配音",
-      "play": 626922
+      "title": "《今日得吃朱古力》",
+      "author": "伤心欲茄222",
+      "play": 1939626
     },
     {
-      "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
-      "author": "谢谢侬老徐",
-      "play": 691375
+      "title": "【纪录片】人生一串 第四季 01 同道中人",
+      "author": "哔哩哔哩纪录片",
+      "play": 975368
     },
     {
-      "title": "LPL赛区内战 IG战胜TES晋级四强【2026英雄联盟全球总决赛】",
-      "author": "新华社",
-      "play": 313448
+      "title": "《三角洲行动》全新【微光】赛季故事短片",
+      "author": "三角洲行动",
+      "play": 700682
     },
     {
-      "title": "无人生还！影之刃零的世界有多绝望？《影之刃零》细节解析",
-      "author": "利维坦mY",
-      "play": 178871
+      "title": "【原神一条龙全收集】至冬7.2(更新中)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
+      "author": "你的影月月",
+      "play": 916913
     },
     {
-      "title": "受网友诱骗跨省流浪一年，名下多了6家公司，欠了一屁股债，银行卡被封，全家低保也差点注销【出发去创作】",
-      "author": "摩的司机徐师傅",
-      "play": 1030223
+      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+      "author": "弧光猎人_ARCRaiders",
+      "play": 5234791
     },
     {
-      "title": "【只对你有感觉】|“【恋爱の小曲】”",
-      "author": "蛋某人音乐",
-      "play": 939709
+      "title": "在日本体验24小时穷富生活，预算相差100倍！差距究竟有多离谱？",
+      "author": "平平出击",
+      "play": 737495
     }
   ],
   "zhihu_daily": [
     {
-      "title": "在自然科学的历史上，最荒诞的事件是什么？"
+      "title": "小时候流行的「屁股针」消失了吗？为何现在不流行了？"
     },
     {
-      "title": "为什么狗的嗅觉这么灵敏却不怕臭？"
+      "title": "为什么玻利维亚有两个首都？"
     },
     {
-      "title": "我们永远无法知道死后是怎样的世界吗？"
+      "title": "美洲原住民（印第安人）也是黄皮肤、黑头发、黑眼睛，其祖先是不是来自中国？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"

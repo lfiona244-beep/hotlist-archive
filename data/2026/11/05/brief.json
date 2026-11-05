@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:57:01.677343+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-05T16:45",
+    "current": {
+      "temperature": 27.5,
+      "feels_like": 31.9,
+      "humidity": 76,
+      "condition": "毛毛雨",
+      "weather_code": 51,
+      "wind_speed": 6.4,
+      "wind_direction": 8
+    },
+    "today": {
+      "temp_min": 23.9,
+      "temp_max": 29.2,
+      "precipitation_probability": 88,
+      "uv_index": 5.95,
+      "sunrise": "2026-11-05T06:34",
+      "sunset": "2026-11-05T17:46"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+    "Apple 官网排版细节鉴赏",
+    "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+    "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+    "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "国行 Apple 智能上手：这些功能已经准备好",
+    "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+    "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "一道热乎菜开启各地冬天"
+    },
+    {
+      "platform": "抖音",
+      "title": "A股收盘三大指数均上涨"
+    },
+    {
+      "platform": "抖音",
+      "title": "同赴进博之约共享东方机遇"
+    },
+    {
+      "platform": "抖音",
+      "title": "你怎么舍得让有趣的知识流走"
+    },
+    {
+      "platform": "抖音",
+      "title": "更适合年轻人的文玩配饰"
+    },
+    {
+      "platform": "头条",
+      "title": "胡塞“狮子大开口”"
+    },
+    {
+      "platform": "头条",
+      "title": "黄之锋再获刑10年"
+    },
+    {
+      "platform": "头条",
+      "title": "以开源开放之姿 奔赴美好数智未来"
+    },
+    {
+      "platform": "头条",
+      "title": "芒果TV崩了"
+    },
+    {
+      "platform": "头条",
+      "title": "38岁男子被骗到缅甸因太老卖不掉"
+    },
+    {
+      "platform": "百度",
+      "title": "中国开放的大门只会越开越大"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1688",
+      "title": "光荣革命爆发"
+    },
+    {
+      "year": "1895",
+      "title": "中国记者、政治家邹韬奋出生"
+    },
+    {
+      "year": "1924",
+      "title": "冯玉祥将清朝末代皇帝爱新觉罗·溥仪驱逐出紫禁城"
+    }
+  ]
+}
