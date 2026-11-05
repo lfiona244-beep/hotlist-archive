@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "total": 128,
   "available": 71,
   "available_rate": 55.5,
@@ -42,10 +42,6 @@
       "status": "受限 HTTP 403"
     },
     {
-      "name": "937影视",
-      "status": "受限 HTTP 403"
-    },
-    {
       "name": "爱壹帆",
       "status": "受限 HTTP 403"
     },
@@ -64,9 +60,17 @@
     {
       "name": "影猫仓库",
       "status": "受限 HTTP 403"
+    },
+    {
+      "name": "SubHD",
+      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
+    {
+      "name": "937影视",
+      "status": "unreachable"
+    },
     {
       "name": "91毒舌",
       "status": "unreachable"
