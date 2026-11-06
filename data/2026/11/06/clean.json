@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T16:55:38.687116+08:00",
+  "total_raw": 60,
+  "total_cleaned": 60,
+  "category_stats": {
+    "其他": 45,
+    "体育": 3,
+    "财经": 6,
+    "生活": 1,
+    "科技": 2,
+    "社会": 2,
+    "娱乐": 1
+  },
+  "hotspot": [],
+  "top_trending": [
+    {
+      "title": "存款利率拐点来了？有储户存500万",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "外交部：中日关系严重困难日方全责",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "降温了羽绒服先穿为敬",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "立冬和饺子最配了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "我国秋粮丰收成定局",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "你怎么舍得让有趣的知识流走",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "服务业新动能加快成长",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "又到穿费尔岛的季节了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "BLG战胜DK晋级半决赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "货车司机送货被要求自购工具擦轮胎印",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "路漫漫终有归处",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "从烽火岁月到盛世中华信仰从未改变",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "陕西商南命案嫌犯已死亡",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "库里升至历史得分榜第17位",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "黄金后市怎么走",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    }
+  ],
+  "news": [
+    "iPhone 变强了，但我没有",
+    "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+    "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+    "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+    "新玩意 255｜少数派的编辑们最近买了啥？",
+    "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+    "Apple 官网排版细节鉴赏",
+    "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "【2026全球总决赛】11月6日 DK vs BLG",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 4672161
+    },
+    {
+      "title": "楚钧：都不许软脚！",
+      "author": "楚钧艾克",
+      "play": 154671
+    },
+    {
+      "title": "当你在过山车上紧急视频会议",
+      "author": "碧天蓝钻",
+      "play": 1103699
+    },
+    {
+      "title": "【独家】《罗小黑战记》第42话 龙游的风在轻轻地吹【10月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 823931
+    },
+    {
+      "title": "【英雄联盟】我就说追K/DA准没错—“最强同担”希林娜依高 来了！",
+      "author": "英雄联盟",
+      "play": 497962
+    },
+    {
+      "title": "《异环》特别剧情短片丨X+Y=10KB世界",
+      "author": "异环",
+      "play": 631245
+    },
+    {
+      "title": "大肥鱼：自 由 美 利 鲸",
+      "author": "真誠最高",
+      "play": 583249
+    },
+    {
+      "title": "俺不中嘞 雕翻车嘞",
+      "author": "小梨家的和田玉",
+      "play": 490208
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "古时候老虎多到什么程度？"
+    },
+    {
+      "title": "很多鸟能吃鱼，什么鱼能吃鸟吗？"
+    },
+    {
+      "title": "有哪些近代解开了的历史谜团或疑案?"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
