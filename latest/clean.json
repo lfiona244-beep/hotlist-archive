@@ -1,190 +1,206 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T16:55:38.687116+08:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T16:18:51.683591+08:00",
   "total_raw": 60,
-  "total_cleaned": 60,
+  "total_cleaned": 58,
   "category_stats": {
-    "其他": 45,
-    "体育": 3,
-    "财经": 6,
-    "生活": 1,
-    "科技": 2,
-    "社会": 2,
-    "娱乐": 1
+    "其他": 47,
+    "体育": 2,
+    "生活": 4,
+    "社会": 1,
+    "娱乐": 3,
+    "财经": 1
   },
-  "hotspot": [],
+  "hotspot": [
+    {
+      "title": "马斯克再次表白中国",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "马天宇直播被工作人员叫停",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
   "top_trending": [
     {
-      "title": "存款利率拐点来了？有储户存500万",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "外交部：中日关系严重困难日方全责",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "降温了羽绒服先穿为敬",
+      "title": "立冬吃什么",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "立冬和饺子最配了",
+      "title": "抖音缝纫天裁交流大会",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "我国秋粮丰收成定局",
+      "title": "进博会助力全球创新落地",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "你怎么舍得让有趣的知识流走",
+      "title": "希望这个冬天淡淡的顺顺的",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "服务业新动能加快成长",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "又到穿费尔岛的季节了",
+      "title": "两枚导弹击中伊朗格什姆岛",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "BLG战胜DK晋级半决赛",
+      "title": "JDG晋级王者荣耀年总决赛",
       "platforms": [
         "douyin"
       ],
       "category": "体育"
     },
     {
-      "title": "货车司机送货被要求自购工具擦轮胎印",
+      "title": "波尔津吉斯因健康原因暂别篮坛",
       "platforms": [
-        "toutiao"
+        "douyin"
       ],
-      "category": "其他"
+      "category": "生活"
     },
     {
-      "title": "路漫漫终有归处",
+      "title": "湖人124:118开拓者",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "从烽火岁月到盛世中华信仰从未改变",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "陕西商南命案嫌犯已死亡",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "库里升至历史得分榜第17位",
+      "title": "辽超决赛朝阳对阵本溪",
       "platforms": [
         "douyin"
       ],
       "category": "体育"
     },
     {
-      "title": "黄金后市怎么走",
+      "title": "神24任务将有首位外籍航天员",
       "platforms": [
         "douyin"
       ],
-      "category": "财经"
+      "category": "其他"
+    },
+    {
+      "title": "东风61列装火箭军传递出什么信号",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "美丽不冻人的冬季穿搭",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "骑士大胜76人",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "墨尔本中国公民遇害案嫌犯已归案",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "北京下雪",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
     }
   ],
   "news": [
+    "本周看什么 | 最近值得一看的 9 部作品",
     "iPhone 变强了，但我没有",
     "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
     "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
     "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
     "新玩意 255｜少数派的编辑们最近买了啥？",
     "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-    "Apple 官网排版细节鉴赏",
-    "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等"
+    "Apple 官网排版细节鉴赏"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【2026全球总决赛】11月6日 DK vs BLG",
+      "title": "【2026全球总决赛】11月7日 T1 vs KC",
       "author": "哔哩哔哩英雄联盟赛事",
-      "play": 4672161
+      "play": 1973897
     },
     {
-      "title": "楚钧：都不许软脚！",
-      "author": "楚钧艾克",
-      "play": 154671
+      "title": "最强的战绩，铭刻于决斗场！",
+      "author": "无我漂佩MY",
+      "play": 403545
     },
     {
-      "title": "当你在过山车上紧急视频会议",
-      "author": "碧天蓝钻",
-      "play": 1103699
+      "title": "近十几年的梗都在这里了",
+      "author": "怠惰的一休",
+      "play": 1735039
     },
     {
-      "title": "【独家】《罗小黑战记》第42话 龙游的风在轻轻地吹【10月国创】",
+      "title": " 【独家】《凡人修仙传之慕兰之战》第23集【总第199集】",
       "author": "哔哩哔哩国创",
-      "play": 823931
+      "play": 2707779
     },
     {
-      "title": "【英雄联盟】我就说追K/DA准没错—“最强同担”希林娜依高 来了！",
-      "author": "英雄联盟",
-      "play": 497962
+      "title": "《绝区零》未明通讯丨知更鸟&卡芙卡",
+      "author": "绝区零",
+      "play": 829512
     },
     {
-      "title": "《异环》特别剧情短片丨X+Y=10KB世界",
-      "author": "异环",
-      "play": 631245
+      "title": "【小白必看】DeepSeek Harness零基础教程！附大肥鱼全套案例！",
+      "author": "GenJi是真想教会你",
+      "play": 289842
     },
     {
-      "title": "大肥鱼：自 由 美 利 鲸",
-      "author": "真誠最高",
-      "play": 583249
+      "title": "我是奸商",
+      "author": "老番茄",
+      "play": 1059132
     },
     {
-      "title": "俺不中嘞 雕翻车嘞",
-      "author": "小梨家的和田玉",
-      "play": 490208
+      "title": "灭霸在学校住宿两个星期后终于放假了",
+      "author": "只因寄太美哦",
+      "play": 1506082
     }
   ],
   "zhihu_daily": [
     {
-      "title": "古时候老虎多到什么程度？"
+      "title": "考拉的大脑为什么这么光滑？"
     },
     {
-      "title": "很多鸟能吃鱼，什么鱼能吃鸟吗？"
+      "title": "什么东西被发明出来后，莫名其妙地违背了它的用途？"
     },
     {
-      "title": "有哪些近代解开了的历史谜团或疑案?"
+      "title": "在古代，盐为什么特别适合征税？"
     },
     {
-      "title": "瞎扯 · 如何正确地吐槽"
+      "title": "地球上曾经和现在出现过哪些你觉得奇异的动物？"
     }
   ]
 }

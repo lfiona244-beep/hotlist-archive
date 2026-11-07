@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T16:18:42.012837+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-07T16:15",
+    "current": {
+      "temperature": 29.4,
+      "feels_like": 32.2,
+      "humidity": 59,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 8.1,
+      "wind_direction": 125
+    },
+    "today": {
+      "temp_min": 22.9,
+      "temp_max": 30.0,
+      "precipitation_probability": 96,
+      "uv_index": 6.05,
+      "sunrise": "2026-11-07T06:35",
+      "sunset": "2026-11-07T17:45"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "本周看什么 | 最近值得一看的 9 部作品",
+    "iPhone 变强了，但我没有",
+    "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+    "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+    "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+    "新玩意 255｜少数派的编辑们最近买了啥？",
+    "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+    "Apple 官网排版细节鉴赏"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "立冬吃什么"
+    },
+    {
+      "platform": "抖音",
+      "title": "抖音缝纫天裁交流大会"
+    },
+    {
+      "platform": "抖音",
+      "title": "进博会助力全球创新落地"
+    },
+    {
+      "platform": "抖音",
+      "title": "希望这个冬天淡淡的顺顺的"
+    },
+    {
+      "platform": "抖音",
+      "title": "两枚导弹击中伊朗格什姆岛"
+    },
+    {
+      "platform": "头条",
+      "title": "河北保定一在建桥梁垮塌"
+    },
+    {
+      "platform": "头条",
+      "title": "马斯克再次表白中国"
+    },
+    {
+      "platform": "头条",
+      "title": "26年世界互联网大会乌镇峰会综述"
+    },
+    {
+      "platform": "头条",
+      "title": "美军全球调兵就意味着要开战吗"
+    },
+    {
+      "platform": "头条",
+      "title": "下半年最强冷空气来袭多地迎强降雪"
+    },
+    {
+      "platform": "百度",
+      "title": "从两场展会看开放的中国"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1867",
+      "title": "被称为居里夫人的玛丽亚·斯克沃多夫斯卡·居里出生"
+    },
+    {
+      "year": "1879",
+      "title": "苏联第四国际领袖列夫·达维多维奇·托洛茨基出生"
+    },
+    {
+      "year": "1895",
+      "title": "中国革命家陆皓东逝世"
+    }
+  ]
+}
