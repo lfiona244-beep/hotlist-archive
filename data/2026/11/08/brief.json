@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T16:35:53.553628+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-08T16:30",
+    "current": {
+      "temperature": 29.9,
+      "feels_like": 34.0,
+      "humidity": 58,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 1.3,
+      "wind_direction": 135
+    },
+    "today": {
+      "temp_min": 21.9,
+      "temp_max": 30.1,
+      "precipitation_probability": 61,
+      "uv_index": 6.3,
+      "sunrise": "2026-11-08T06:35",
+      "sunset": "2026-11-08T17:45"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "苹果产品那些不够颠覆，却值得被学习的细节",
+    "一个 05 后的个人数码编年史",
+    "本周看什么 | 最近值得一看的 9 部作品",
+    "iPhone 变强了，但我没有",
+    "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+    "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+    "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+    "新玩意 255｜少数派的编辑们最近买了啥？"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "开拓者惨败马刺 杨瀚森首次两双"
+    },
+    {
+      "platform": "抖音",
+      "title": "泰山主场迎战成都蓉城"
+    },
+    {
+      "platform": "抖音",
+      "title": "我国加快推进核能综合利用"
+    },
+    {
+      "platform": "抖音",
+      "title": "中超大连英博vs天津津门虎"
+    },
+    {
+      "platform": "抖音",
+      "title": "伊朗解除导弹射程限制"
+    },
+    {
+      "platform": "头条",
+      "title": "沙特首都遇袭石油公司大楼受损"
+    },
+    {
+      "platform": "头条",
+      "title": "秦皇岛居民称20年没见过这么大雪"
+    },
+    {
+      "platform": "头条",
+      "title": "驰而不息正风肃纪"
+    },
+    {
+      "platform": "头条",
+      "title": "中超争冠生变：英博领先蓉城落后"
+    },
+    {
+      "platform": "头条",
+      "title": "大三男生做AI漫剧营收超300万"
+    },
+    {
+      "platform": "百度",
+      "title": "“信赖” 二字 重千钧"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1226",
+      "title": "法国卡佩王朝国王路易八世逝世"
+    },
+    {
+      "year": "1793",
+      "title": "法国大革命时期政治家罗兰夫人逝世"
+    },
+    {
+      "year": "1875",
+      "title": "中国女革命军、女权思想的倡导者秋瑾出生"
+    }
+  ]
+}

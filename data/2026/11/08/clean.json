@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T16:36:14.986635+08:00",
+  "total_raw": 60,
+  "total_cleaned": 58,
+  "category_stats": {
+    "其他": 43,
+    "体育": 7,
+    "社会": 3,
+    "财经": 1,
+    "科技": 3,
+    "娱乐": 1
+  },
+  "hotspot": [
+    {
+      "title": "最后一位开国将军王扶之逝世",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "大连球迷风雪中为大连队加油",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "开拓者惨败马刺 杨瀚森首次两双",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "泰山主场迎战成都蓉城",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "我国加快推进核能综合利用",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中超大连英博vs天津津门虎",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "伊朗解除导弹射程限制",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "以总统授权埃森科特组建新政府",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "两部门部署暴雪暴雨防范应对",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "最后一位开国将军王扶之逝世",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "布伦特油价一周暴跌超16%",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "各级国足集训大名单公布",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "警惕网络畸形审美",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "楚超决赛在宜昌打响",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "深度复盘IG不敌GenG",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "郑雨的人生从未放晴",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "网友镜头下的北京雪景",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "苹果产品那些不够颠覆，却值得被学习的细节",
+    "一个 05 后的个人数码编年史",
+    "本周看什么 | 最近值得一看的 9 部作品",
+    "iPhone 变强了，但我没有",
+    "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+    "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+    "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+    "新玩意 255｜少数派的编辑们最近买了啥？"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」",
+      "author": "崩坏星穹铁道",
+      "play": 2259197
+    },
+    {
+      "title": "“这是给孩子的，不是给你的”",
+      "author": "上邪aa",
+      "play": 3009111
+    },
+    {
+      "title": "人类饲养指南",
+      "author": "抽象生活先生",
+      "play": 1322380
+    },
+    {
+      "title": "【独家】牧神记 第108集 相逢何必曾相识",
+      "author": "哔哩哔哩国创",
+      "play": 1261237
+    },
+    {
+      "title": "S赛怀旧金曲《BLG带带我》",
+      "author": "九夜听风",
+      "play": 961038
+    },
+    {
+      "title": "《鸣潮》共鸣者战斗演示 | 莉莉",
+      "author": "鸣潮",
+      "play": 523086
+    },
+    {
+      "title": "【2026全球总决赛】11月8日 IG vs GEN",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 2844998
+    },
+    {
+      "title": "农村大片! 大战外星人! 好莱坞都不敢这么拍",
+      "author": "神奇的老皮",
+      "play": 1447490
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "彩虹为什么是弧形，而不是完整的圆形，阳光经过水滴折射反射，为什么会形成固定的七彩色彩顺序？"
+    },
+    {
+      "title": "可不可以莫名其妙地教我一个知识?"
+    },
+    {
+      "title": "《离骚》的作者明明名正则字灵均，为何会被安在屈原名下认为是他的作品？ 司马迁是不是搞错了？"
+    },
+    {
+      "title": "古代的苦水水质口感相当于现在的自来水吗？"
+    }
+  ]
+}
