@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:05:58.107737+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-09T17:00",
+    "current": {
+      "temperature": 21.3,
+      "feels_like": 19.5,
+      "humidity": 54,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 15.4,
+      "wind_direction": 17
+    },
+    "today": {
+      "temp_min": 15.6,
+      "temp_max": 22.9,
+      "precipitation_probability": 17,
+      "uv_index": 6.3,
+      "sunrise": "2026-11-09T06:36",
+      "sunset": "2026-11-09T17:44"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+    "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+    "天花板上的白色盒子，是怎样保护我们的安全的？",
+    "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+    "派早报：特斯拉将停产 Cybertruck",
+    "苹果产品那些不够颠覆，却值得被学习的细节",
+    "一个 05 后的个人数码编年史",
+    "本周看什么 | 最近值得一看的 9 部作品"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "BLG战胜T1挺进决赛"
+    },
+    {
+      "platform": "抖音",
+      "title": "后知后觉又过了一个秋"
+    },
+    {
+      "platform": "抖音",
+      "title": "中国新发展为世界提供新机遇"
+    },
+    {
+      "platform": "抖音",
+      "title": "T1发文告别S16"
+    },
+    {
+      "platform": "抖音",
+      "title": "攻击11全方位展示"
+    },
+    {
+      "platform": "头条",
+      "title": "油价预计将大幅下调"
+    },
+    {
+      "platform": "头条",
+      "title": "张雪机车米兰展车零件被偷光"
+    },
+    {
+      "platform": "头条",
+      "title": "进博会的三种时间刻度"
+    },
+    {
+      "platform": "头条",
+      "title": "郭一鸣：A股缩量轮动"
+    },
+    {
+      "platform": "头条",
+      "title": "王楚钦发文反思：重新审视自己"
+    },
+    {
+      "platform": "百度",
+      "title": "永远做党和人民的忠诚卫士"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1187",
+      "title": "南宋开国皇帝、宋徽宗第九子赵构逝世"
+    },
+    {
+      "year": "1799",
+      "title": "拿破仑发动雾月政变"
+    },
+    {
+      "year": "1876",
+      "title": "日本医学家野口英世出生"
+    }
+  ]
+}

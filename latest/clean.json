@@ -1,207 +1,189 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T16:36:14.986635+08:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:06:12.208225+08:00",
   "total_raw": 60,
-  "total_cleaned": 58,
+  "total_cleaned": 60,
   "category_stats": {
-    "其他": 43,
-    "体育": 7,
-    "社会": 3,
-    "财经": 1,
-    "科技": 3,
-    "娱乐": 1
+    "体育": 3,
+    "其他": 50,
+    "生活": 1,
+    "财经": 2,
+    "科技": 2,
+    "社会": 2
   },
-  "hotspot": [
-    {
-      "title": "最后一位开国将军王扶之逝世",
-      "platforms": [
-        "douyin",
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "大连球迷风雪中为大连队加油",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "开拓者惨败马刺 杨瀚森首次两双",
+      "title": "油价预计将大幅下调",
       "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "泰山主场迎战成都蓉城",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "我国加快推进核能综合利用",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中超大连英博vs天津津门虎",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "伊朗解除导弹射程限制",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "以总统授权埃森科特组建新政府",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "两部门部署暴雪暴雨防范应对",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "最后一位开国将军王扶之逝世",
-      "platforms": [
-        "douyin",
         "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "布伦特油价一周暴跌超16%",
-      "platforms": [
-        "douyin"
       ],
       "category": "财经"
     },
     {
-      "title": "各级国足集训大名单公布",
+      "title": "张雪机车米兰展车零件被偷光",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "警惕网络畸形审美",
+      "title": "进博会的三种时间刻度",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "楚超决赛在宜昌打响",
+      "title": "郭一鸣：A股缩量轮动",
       "platforms": [
-        "douyin"
-      ],
-      "category": "体育"
-    },
-    {
-      "title": "深度复盘IG不敌GenG",
-      "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "郑雨的人生从未放晴",
+      "title": "王楚钦发文反思：重新审视自己",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "网友镜头下的北京雪景",
+      "title": "无锡出现“女用站立式小便厕位”",
       "platforms": [
-        "douyin"
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "来哈尔滨吃烤地瓜中的“爱马仕”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台退将称解放军加强对台军事布局",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "攻击-11实弹发射首发命中",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "前白宫顾问爆料幕僚把特朗普当婴儿",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "练普拉提就能掰正骨盆？医生辟谣",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "梁家辉独乘高铁奔赴金鸡奖颁奖典礼",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲外交部就涉华言论敲打防长",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "内塔尼亚胡会三度回归总理之位吗",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "许飞：我作茧自缚",
+      "platforms": [
+        "toutiao"
       ],
       "category": "其他"
     }
   ],
   "news": [
+    "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+    "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+    "天花板上的白色盒子，是怎样保护我们的安全的？",
+    "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+    "派早报：特斯拉将停产 Cybertruck",
     "苹果产品那些不够颠覆，却值得被学习的细节",
     "一个 05 后的个人数码编年史",
-    "本周看什么 | 最近值得一看的 9 部作品",
-    "iPhone 变强了，但我没有",
-    "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-    "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-    "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-    "新玩意 255｜少数派的编辑们最近买了啥？"
+    "本周看什么 | 最近值得一看的 9 部作品"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」",
-      "author": "崩坏星穹铁道",
-      "play": 2259197
-    },
-    {
-      "title": "“这是给孩子的，不是给你的”",
-      "author": "上邪aa",
-      "play": 3009111
-    },
-    {
-      "title": "人类饲养指南",
-      "author": "抽象生活先生",
-      "play": 1322380
-    },
-    {
-      "title": "【独家】牧神记 第108集 相逢何必曾相识",
-      "author": "哔哩哔哩国创",
-      "play": 1261237
-    },
-    {
-      "title": "S赛怀旧金曲《BLG带带我》",
-      "author": "九夜听风",
-      "play": 961038
-    },
-    {
-      "title": "《鸣潮》共鸣者战斗演示 | 莉莉",
-      "author": "鸣潮",
-      "play": 523086
-    },
-    {
-      "title": "【2026全球总决赛】11月8日 IG vs GEN",
+      "title": "【2026全球总决赛】11月9日 BLG vs T1",
       "author": "哔哩哔哩英雄联盟赛事",
-      "play": 2844998
+      "play": 7551065
     },
     {
-      "title": "农村大片! 大战外星人! 好莱坞都不敢这么拍",
-      "author": "神奇的老皮",
-      "play": 1447490
+      "title": "锐评BLG战胜T1晋级决赛：创造历史！BLG做到了淘汰T1！",
+      "author": "喵仙人ovo",
+      "play": 348414
+    },
+    {
+      "title": "【真实锐评】BLG战胜T1晋级决赛 BLG就是LPL外战天花板战队！bin虐爆多兰 交出你的偷来的皮肤！",
+      "author": "真实电竞",
+      "play": 258724
+    },
+    {
+      "title": "楚钧：Nice！这样我才能看到左右手大战！",
+      "author": "楚钧艾克",
+      "play": 225100
+    },
+    {
+      "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
+      "author": "暴龙电竞",
+      "play": 374079
+    },
+    {
+      "title": "《虚环》PV03｜致过去与未来的歌",
+      "author": "虚环",
+      "play": 1162514
+    },
+    {
+      "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
+      "author": "新华社",
+      "play": 690324
+    },
+    {
+      "title": "【神人短剧】🔥最新力作🔥农村大席之抽象盛宴，联动mj宇宙【AI全民制作人】",
+      "author": "闲夜空茫",
+      "play": 1788927
     }
   ],
   "zhihu_daily": [
     {
-      "title": "彩虹为什么是弧形，而不是完整的圆形，阳光经过水滴折射反射，为什么会形成固定的七彩色彩顺序？"
+      "title": "一家三口食用炒鸡蛋后中毒，原因是水洗后储藏导致变质了，为什么这样保存有风险？放冰箱门格子影响有多大？"
     },
     {
-      "title": "可不可以莫名其妙地教我一个知识?"
+      "title": "为什么做豆腐用黄豆，不用其他豆类？"
     },
     {
-      "title": "《离骚》的作者明明名正则字灵均，为何会被安在屈原名下认为是他的作品？ 司马迁是不是搞错了？"
+      "title": "你什么时候对学术圈祛魅的？"
     },
     {
-      "title": "古代的苦水水质口感相当于现在的自来水吗？"
+      "title": "瞎扯 · 如何正确地吐槽"
     }
   ]
 }

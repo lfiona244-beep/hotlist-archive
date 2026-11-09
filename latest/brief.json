@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T16:35:53.553628+08:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:05:58.107737+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-08T16:30",
+    "fetched_at": "2026-11-09T17:00",
     "current": {
-      "temperature": 29.9,
-      "feels_like": 34.0,
-      "humidity": 58,
+      "temperature": 21.3,
+      "feels_like": 19.5,
+      "humidity": 54,
       "condition": "晴",
       "weather_code": 0,
-      "wind_speed": 1.3,
-      "wind_direction": 135
+      "wind_speed": 15.4,
+      "wind_direction": 17
     },
     "today": {
-      "temp_min": 21.9,
-      "temp_max": 30.1,
-      "precipitation_probability": 61,
+      "temp_min": 15.6,
+      "temp_max": 22.9,
+      "precipitation_probability": 17,
       "uv_index": 6.3,
-      "sunrise": "2026-11-08T06:35",
-      "sunset": "2026-11-08T17:45"
+      "sunrise": "2026-11-09T06:36",
+      "sunset": "2026-11-09T17:44"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+    "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+    "天花板上的白色盒子，是怎样保护我们的安全的？",
+    "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+    "派早报：特斯拉将停产 Cybertruck",
     "苹果产品那些不够颠覆，却值得被学习的细节",
     "一个 05 后的个人数码编年史",
-    "本周看什么 | 最近值得一看的 9 部作品",
-    "iPhone 变强了，但我没有",
-    "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-    "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-    "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-    "新玩意 255｜少数派的编辑们最近买了啥？"
+    "本周看什么 | 最近值得一看的 9 部作品"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "开拓者惨败马刺 杨瀚森首次两双"
+      "title": "BLG战胜T1挺进决赛"
     },
     {
       "platform": "抖音",
-      "title": "泰山主场迎战成都蓉城"
+      "title": "后知后觉又过了一个秋"
     },
     {
       "platform": "抖音",
-      "title": "我国加快推进核能综合利用"
+      "title": "中国新发展为世界提供新机遇"
     },
     {
       "platform": "抖音",
-      "title": "中超大连英博vs天津津门虎"
+      "title": "T1发文告别S16"
     },
     {
       "platform": "抖音",
-      "title": "伊朗解除导弹射程限制"
+      "title": "攻击11全方位展示"
     },
     {
       "platform": "头条",
-      "title": "沙特首都遇袭石油公司大楼受损"
+      "title": "油价预计将大幅下调"
     },
     {
       "platform": "头条",
-      "title": "秦皇岛居民称20年没见过这么大雪"
+      "title": "张雪机车米兰展车零件被偷光"
     },
     {
       "platform": "头条",
-      "title": "驰而不息正风肃纪"
+      "title": "进博会的三种时间刻度"
     },
     {
       "platform": "头条",
-      "title": "中超争冠生变：英博领先蓉城落后"
+      "title": "郭一鸣：A股缩量轮动"
     },
     {
       "platform": "头条",
-      "title": "大三男生做AI漫剧营收超300万"
+      "title": "王楚钦发文反思：重新审视自己"
     },
     {
       "platform": "百度",
-      "title": "“信赖” 二字 重千钧"
+      "title": "永远做党和人民的忠诚卫士"
     }
   ],
   "today_in_history": [
     {
-      "year": "1226",
-      "title": "法国卡佩王朝国王路易八世逝世"
+      "year": "1187",
+      "title": "南宋开国皇帝、宋徽宗第九子赵构逝世"
     },
     {
-      "year": "1793",
-      "title": "法国大革命时期政治家罗兰夫人逝世"
+      "year": "1799",
+      "title": "拿破仑发动雾月政变"
     },
     {
-      "year": "1875",
-      "title": "中国女革命军、女权思想的倡导者秋瑾出生"
+      "year": "1876",
+      "title": "日本医学家野口英世出生"
     }
   ]
 }

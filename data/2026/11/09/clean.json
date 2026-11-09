@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:06:12.208225+08:00",
+  "total_raw": 60,
+  "total_cleaned": 60,
+  "category_stats": {
+    "体育": 3,
+    "其他": 50,
+    "生活": 1,
+    "财经": 2,
+    "科技": 2,
+    "社会": 2
+  },
+  "hotspot": [],
+  "top_trending": [
+    {
+      "title": "油价预计将大幅下调",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "张雪机车米兰展车零件被偷光",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "进博会的三种时间刻度",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "郭一鸣：A股缩量轮动",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "王楚钦发文反思：重新审视自己",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "无锡出现“女用站立式小便厕位”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "来哈尔滨吃烤地瓜中的“爱马仕”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台退将称解放军加强对台军事布局",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "攻击-11实弹发射首发命中",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "前白宫顾问爆料幕僚把特朗普当婴儿",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "练普拉提就能掰正骨盆？医生辟谣",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "梁家辉独乘高铁奔赴金鸡奖颁奖典礼",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲外交部就涉华言论敲打防长",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "内塔尼亚胡会三度回归总理之位吗",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "许飞：我作茧自缚",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+    "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+    "天花板上的白色盒子，是怎样保护我们的安全的？",
+    "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+    "派早报：特斯拉将停产 Cybertruck",
+    "苹果产品那些不够颠覆，却值得被学习的细节",
+    "一个 05 后的个人数码编年史",
+    "本周看什么 | 最近值得一看的 9 部作品"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "【2026全球总决赛】11月9日 BLG vs T1",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 7551065
+    },
+    {
+      "title": "锐评BLG战胜T1晋级决赛：创造历史！BLG做到了淘汰T1！",
+      "author": "喵仙人ovo",
+      "play": 348414
+    },
+    {
+      "title": "【真实锐评】BLG战胜T1晋级决赛 BLG就是LPL外战天花板战队！bin虐爆多兰 交出你的偷来的皮肤！",
+      "author": "真实电竞",
+      "play": 258724
+    },
+    {
+      "title": "楚钧：Nice！这样我才能看到左右手大战！",
+      "author": "楚钧艾克",
+      "play": 225100
+    },
+    {
+      "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
+      "author": "暴龙电竞",
+      "play": 374079
+    },
+    {
+      "title": "《虚环》PV03｜致过去与未来的歌",
+      "author": "虚环",
+      "play": 1162514
+    },
+    {
+      "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
+      "author": "新华社",
+      "play": 690324
+    },
+    {
+      "title": "【神人短剧】🔥最新力作🔥农村大席之抽象盛宴，联动mj宇宙【AI全民制作人】",
+      "author": "闲夜空茫",
+      "play": 1788927
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "一家三口食用炒鸡蛋后中毒，原因是水洗后储藏导致变质了，为什么这样保存有风险？放冰箱门格子影响有多大？"
+    },
+    {
+      "title": "为什么做豆腐用黄豆，不用其他豆类？"
+    },
+    {
+      "title": "你什么时候对学术圈祛魅的？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
