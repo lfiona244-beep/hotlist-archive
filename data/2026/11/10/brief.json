@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T17:15:54.775188+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-10T17:15",
+    "current": {
+      "temperature": 19.2,
+      "feels_like": 16.6,
+      "humidity": 42,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 11.0,
+      "wind_direction": 21
+    },
+    "today": {
+      "temp_min": 12.7,
+      "temp_max": 20.4,
+      "precipitation_probability": 0,
+      "uv_index": 6.25,
+      "sunrise": "2026-11-10T06:37",
+      "sunset": "2026-11-10T17:44"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "社区速递 165 | 透明工牌与派友十月购物清单",
+    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "今年双十一，这些鼠标值得一看",
+    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "派评 | 近期值得关注的 App",
+    "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+    "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+    "天花板上的白色盒子，是怎样保护我们的安全的？"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "勇士51分大胜鹈鹕豪取8连胜"
+    },
+    {
+      "platform": "抖音",
+      "title": "中美两军移交驼峰航线飞行员遗骸"
+    },
+    {
+      "platform": "抖音",
+      "title": "前10个月我国外贸保持强劲增长态势"
+    },
+    {
+      "platform": "抖音",
+      "title": "马刺122:96太阳"
+    },
+    {
+      "platform": "抖音",
+      "title": "中国乒协公布混团世界杯名单"
+    },
+    {
+      "platform": "头条",
+      "title": "立陶宛要求所谓“台湾代表处”改名"
+    },
+    {
+      "platform": "头条",
+      "title": "花坛藏尸案庭审画面公开"
+    },
+    {
+      "platform": "头条",
+      "title": "消费新场景活力迸发"
+    },
+    {
+      "platform": "头条",
+      "title": "A股又被谁拖累了"
+    },
+    {
+      "platform": "头条",
+      "title": "我国幼小初学龄人口已达峰"
+    },
+    {
+      "platform": "百度",
+      "title": "中国将始终是世界发展的重要机遇"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1444",
+      "title": "瓦尔纳战役，瓦迪斯瓦夫阵亡"
+    },
+    {
+      "year": "1483",
+      "title": "宗教改革运动的倡导者马丁·路德出生"
+    },
+    {
+      "year": "1520",
+      "title": "斯德哥尔摩惨案"
+    }
+  ]
+}

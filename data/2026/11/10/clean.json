@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T17:16:05.311725+08:00",
+  "total_raw": 59,
+  "total_cleaned": 58,
+  "category_stats": {
+    "其他": 52,
+    "体育": 2,
+    "娱乐": 1,
+    "科技": 1,
+    "财经": 1,
+    "社会": 1
+  },
+  "hotspot": [
+    {
+      "title": "发改委：照顾老人孩子压力实实在在",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "立陶宛要求所谓“台湾代表处”改名",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "花坛藏尸案庭审画面公开",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "消费新场景活力迸发",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股又被谁拖累了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "我国幼小初学龄人口已达峰",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "寒潮过后大回暖",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "连续冲高回落A股在等什么",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国家发改委：鼓励用人单位办托儿所",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "胖东来“日本产洗发水”疑云",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "女子买7元早餐发现卡里近26万没了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "重庆江北机场辟谣男孩裤脚卷入扶梯",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "花坛藏尸案凶手下跪画面曝光",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "发改委：照顾老人孩子压力实实在在",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "郑丽文：2028一定要下架民进党",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "花坛藏尸案死者儿子与父亲相拥而泣",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "社区速递 165 | 透明工牌与派友十月购物清单",
+    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "今年双十一，这些鼠标值得一看",
+    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "派评 | 近期值得关注的 App",
+    "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+    "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+    "天花板上的白色盒子，是怎样保护我们的安全的？"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "（内含新忍设定）末日规则怪谈？误入诡异校园的烧脑推理！",
+      "author": "火影忍者手游情报君",
+      "play": 318150
+    },
+    {
+      "title": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】",
+      "author": "SillyZ_Official",
+      "play": 3552339
+    },
+    {
+      "title": "Faker了一辈子的蹲方魂 终于…",
+      "author": "是大洋芋",
+      "play": 553959
+    },
+    {
+      "title": "【纪录片】蓝色星球 第三季 02 辽阔远洋",
+      "author": "哔哩哔哩纪录片",
+      "play": 403033
+    },
+    {
+      "title": "《阴阳师》笼梦祸津神CG丨祸至无日（CV：中野彩麻）",
+      "author": "网易阴阳师手游",
+      "play": 2013937
+    },
+    {
+      "title": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
+      "author": "小约翰可汗",
+      "play": 592184
+    },
+    {
+      "title": "《虚环》PV03｜致过去与未来的歌",
+      "author": "虚环",
+      "play": 4183649
+    },
+    {
+      "title": "给孩子做了一个半飞行的玩具车",
+      "author": "手工耿",
+      "play": 1072290
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "不锈钢明明叫「不锈」，为什么保温杯内壁用久了还是会长锈斑？"
+    },
+    {
+      "title": "AB型爸和A型妈生出O型娃，因爸爸是罕见CisAB血型，如何通俗解释？CisAB血型有哪些特殊之处？"
+    },
+    {
+      "title": "古人常把酒加热再喝，为什么现代人很少这么做了？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}

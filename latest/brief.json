@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T17:05:58.107737+08:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T17:15:54.775188+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-09T17:00",
+    "fetched_at": "2026-11-10T17:15",
     "current": {
-      "temperature": 21.3,
-      "feels_like": 19.5,
-      "humidity": 54,
+      "temperature": 19.2,
+      "feels_like": 16.6,
+      "humidity": 42,
       "condition": "晴",
       "weather_code": 0,
-      "wind_speed": 15.4,
-      "wind_direction": 17
+      "wind_speed": 11.0,
+      "wind_direction": 21
     },
     "today": {
-      "temp_min": 15.6,
-      "temp_max": 22.9,
-      "precipitation_probability": 17,
-      "uv_index": 6.3,
-      "sunrise": "2026-11-09T06:36",
-      "sunset": "2026-11-09T17:44"
+      "temp_min": 12.7,
+      "temp_max": 20.4,
+      "precipitation_probability": 0,
+      "uv_index": 6.25,
+      "sunrise": "2026-11-10T06:37",
+      "sunset": "2026-11-10T17:44"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "社区速递 165 | 透明工牌与派友十月购物清单",
+    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "今年双十一，这些鼠标值得一看",
+    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "派评 | 近期值得关注的 App",
     "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
     "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
-    "天花板上的白色盒子，是怎样保护我们的安全的？",
-    "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
-    "派早报：特斯拉将停产 Cybertruck",
-    "苹果产品那些不够颠覆，却值得被学习的细节",
-    "一个 05 后的个人数码编年史",
-    "本周看什么 | 最近值得一看的 9 部作品"
+    "天花板上的白色盒子，是怎样保护我们的安全的？"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "BLG战胜T1挺进决赛"
+      "title": "勇士51分大胜鹈鹕豪取8连胜"
     },
     {
       "platform": "抖音",
-      "title": "后知后觉又过了一个秋"
+      "title": "中美两军移交驼峰航线飞行员遗骸"
     },
     {
       "platform": "抖音",
-      "title": "中国新发展为世界提供新机遇"
+      "title": "前10个月我国外贸保持强劲增长态势"
     },
     {
       "platform": "抖音",
-      "title": "T1发文告别S16"
+      "title": "马刺122:96太阳"
     },
     {
       "platform": "抖音",
-      "title": "攻击11全方位展示"
+      "title": "中国乒协公布混团世界杯名单"
     },
     {
       "platform": "头条",
-      "title": "油价预计将大幅下调"
+      "title": "立陶宛要求所谓“台湾代表处”改名"
     },
     {
       "platform": "头条",
-      "title": "张雪机车米兰展车零件被偷光"
+      "title": "花坛藏尸案庭审画面公开"
     },
     {
       "platform": "头条",
-      "title": "进博会的三种时间刻度"
+      "title": "消费新场景活力迸发"
     },
     {
       "platform": "头条",
-      "title": "郭一鸣：A股缩量轮动"
+      "title": "A股又被谁拖累了"
     },
     {
       "platform": "头条",
-      "title": "王楚钦发文反思：重新审视自己"
+      "title": "我国幼小初学龄人口已达峰"
     },
     {
       "platform": "百度",
-      "title": "永远做党和人民的忠诚卫士"
+      "title": "中国将始终是世界发展的重要机遇"
     }
   ],
   "today_in_history": [
     {
-      "year": "1187",
-      "title": "南宋开国皇帝、宋徽宗第九子赵构逝世"
+      "year": "1444",
+      "title": "瓦尔纳战役，瓦迪斯瓦夫阵亡"
     },
     {
-      "year": "1799",
-      "title": "拿破仑发动雾月政变"
+      "year": "1483",
+      "title": "宗教改革运动的倡导者马丁·路德出生"
     },
     {
-      "year": "1876",
-      "title": "日本医学家野口英世出生"
+      "year": "1520",
+      "title": "斯德哥尔摩惨案"
     }
   ]
 }

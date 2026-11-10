@@ -1,118 +1,128 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T17:06:12.208225+08:00",
-  "total_raw": 60,
-  "total_cleaned": 60,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T17:16:05.311725+08:00",
+  "total_raw": 59,
+  "total_cleaned": 58,
   "category_stats": {
-    "体育": 3,
-    "其他": 50,
-    "生活": 1,
-    "财经": 2,
-    "科技": 2,
-    "社会": 2
+    "其他": 52,
+    "体育": 2,
+    "娱乐": 1,
+    "科技": 1,
+    "财经": 1,
+    "社会": 1
   },
-  "hotspot": [],
+  "hotspot": [
+    {
+      "title": "发改委：照顾老人孩子压力实实在在",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
   "top_trending": [
     {
-      "title": "油价预计将大幅下调",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "张雪机车米兰展车零件被偷光",
+      "title": "立陶宛要求所谓“台湾代表处”改名",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "进博会的三种时间刻度",
+      "title": "花坛藏尸案庭审画面公开",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "郭一鸣：A股缩量轮动",
+      "title": "消费新场景活力迸发",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "王楚钦发文反思：重新审视自己",
+      "title": "A股又被谁拖累了",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "无锡出现“女用站立式小便厕位”",
+      "title": "我国幼小初学龄人口已达峰",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "来哈尔滨吃烤地瓜中的“爱马仕”",
+      "title": "寒潮过后大回暖",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "台退将称解放军加强对台军事布局",
+      "title": "连续冲高回落A股在等什么",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "攻击-11实弹发射首发命中",
+      "title": "国家发改委：鼓励用人单位办托儿所",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "前白宫顾问爆料幕僚把特朗普当婴儿",
+      "title": "胖东来“日本产洗发水”疑云",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "女子买7元早餐发现卡里近26万没了",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "练普拉提就能掰正骨盆？医生辟谣",
+      "title": "重庆江北机场辟谣男孩裤脚卷入扶梯",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "梁家辉独乘高铁奔赴金鸡奖颁奖典礼",
+      "title": "花坛藏尸案凶手下跪画面曝光",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "菲外交部就涉华言论敲打防长",
+      "title": "发改委：照顾老人孩子压力实实在在",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "郑丽文：2028一定要下架民进党",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "内塔尼亚胡会三度回归总理之位吗",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "许飞：我作茧自缚",
+      "title": "花坛藏尸案死者儿子与父亲相拥而泣",
       "platforms": [
         "toutiao"
       ],
@@ -120,67 +130,67 @@
     }
   ],
   "news": [
+    "社区速递 165 | 透明工牌与派友十月购物清单",
+    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "今年双十一，这些鼠标值得一看",
+    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "派评 | 近期值得关注的 App",
     "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
     "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
-    "天花板上的白色盒子，是怎样保护我们的安全的？",
-    "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
-    "派早报：特斯拉将停产 Cybertruck",
-    "苹果产品那些不够颠覆，却值得被学习的细节",
-    "一个 05 后的个人数码编年史",
-    "本周看什么 | 最近值得一看的 9 部作品"
+    "天花板上的白色盒子，是怎样保护我们的安全的？"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【2026全球总决赛】11月9日 BLG vs T1",
-      "author": "哔哩哔哩英雄联盟赛事",
-      "play": 7551065
+      "title": "（内含新忍设定）末日规则怪谈？误入诡异校园的烧脑推理！",
+      "author": "火影忍者手游情报君",
+      "play": 318150
     },
     {
-      "title": "锐评BLG战胜T1晋级决赛：创造历史！BLG做到了淘汰T1！",
-      "author": "喵仙人ovo",
-      "play": 348414
+      "title": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】",
+      "author": "SillyZ_Official",
+      "play": 3552339
     },
     {
-      "title": "【真实锐评】BLG战胜T1晋级决赛 BLG就是LPL外战天花板战队！bin虐爆多兰 交出你的偷来的皮肤！",
-      "author": "真实电竞",
-      "play": 258724
+      "title": "Faker了一辈子的蹲方魂 终于…",
+      "author": "是大洋芋",
+      "play": 553959
     },
     {
-      "title": "楚钧：Nice！这样我才能看到左右手大战！",
-      "author": "楚钧艾克",
-      "play": 225100
+      "title": "【纪录片】蓝色星球 第三季 02 辽阔远洋",
+      "author": "哔哩哔哩纪录片",
+      "play": 403033
     },
     {
-      "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
-      "author": "暴龙电竞",
-      "play": 374079
+      "title": "《阴阳师》笼梦祸津神CG丨祸至无日（CV：中野彩麻）",
+      "author": "网易阴阳师手游",
+      "play": 2013937
+    },
+    {
+      "title": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
+      "author": "小约翰可汗",
+      "play": 592184
     },
     {
       "title": "《虚环》PV03｜致过去与未来的歌",
       "author": "虚环",
-      "play": 1162514
+      "play": 4183649
     },
     {
-      "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
-      "author": "新华社",
-      "play": 690324
-    },
-    {
-      "title": "【神人短剧】🔥最新力作🔥农村大席之抽象盛宴，联动mj宇宙【AI全民制作人】",
-      "author": "闲夜空茫",
-      "play": 1788927
+      "title": "给孩子做了一个半飞行的玩具车",
+      "author": "手工耿",
+      "play": 1072290
     }
   ],
   "zhihu_daily": [
     {
-      "title": "一家三口食用炒鸡蛋后中毒，原因是水洗后储藏导致变质了，为什么这样保存有风险？放冰箱门格子影响有多大？"
+      "title": "不锈钢明明叫「不锈」，为什么保温杯内壁用久了还是会长锈斑？"
     },
     {
-      "title": "为什么做豆腐用黄豆，不用其他豆类？"
+      "title": "AB型爸和A型妈生出O型娃，因爸爸是罕见CisAB血型，如何通俗解释？CisAB血型有哪些特殊之处？"
     },
     {
-      "title": "你什么时候对学术圈祛魅的？"
+      "title": "古人常把酒加热再喝，为什么现代人很少这么做了？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
