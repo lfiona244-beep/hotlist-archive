@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "total": 128,
-  "available": 70,
-  "available_rate": 54.7,
+  "available": 71,
+  "available_rate": 55.5,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -81,10 +81,6 @@
     },
     {
       "name": "字幕库",
-      "status": "unreachable"
-    },
-    {
-      "name": "肥猫",
       "status": "unreachable"
     },
     {
