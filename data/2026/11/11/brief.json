@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T16:50:48.112727+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-11T16:45",
+    "current": {
+      "temperature": 22.1,
+      "feels_like": 21.9,
+      "humidity": 51,
+      "condition": "阴",
+      "weather_code": 3,
+      "wind_speed": 3.8,
+      "wind_direction": 5
+    },
+    "today": {
+      "temp_min": 12.3,
+      "temp_max": 22.7,
+      "precipitation_probability": 0,
+      "uv_index": 6.2,
+      "sunrise": "2026-11-11T06:37",
+      "sunset": "2026-11-11T17:44"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "从优胜美地到金门大桥：跟着 macOS 游览加州",
+    "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+    "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+    "社区速递 165 | 透明工牌与派友十月购物清单",
+    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "今年双十一，这些鼠标值得一看",
+    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "派评 | 近期值得关注的 App"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "开拓者123:103雷霆"
+    },
+    {
+      "platform": "抖音",
+      "title": "大理初雪把风花雪月具象化了"
+    },
+    {
+      "platform": "抖音",
+      "title": "进博会激活消费新活力"
+    },
+    {
+      "platform": "抖音",
+      "title": "在北京定格专属我们的浪漫瞬间"
+    },
+    {
+      "platform": "抖音",
+      "title": "人民空军成立77周年"
+    },
+    {
+      "platform": "头条",
+      "title": "中方回应中日领导人APEC是否会晤"
+    },
+    {
+      "platform": "头条",
+      "title": "油价有望迎来下调"
+    },
+    {
+      "platform": "头条",
+      "title": "外国友人眼中的APEC“中国年”"
+    },
+    {
+      "platform": "头条",
+      "title": "“包子2元停车10元”成历史"
+    },
+    {
+      "platform": "头条",
+      "title": "彩票店主代买彩票中825万私自兑奖"
+    },
+    {
+      "platform": "百度",
+      "title": "总书记这样呼吁海内外全体中华儿女"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1154",
+      "title": "独立葡萄牙第二位国王桑乔一世出生"
+    },
+    {
+      "year": "1155",
+      "title": "卡斯蒂利亚国王阿方索八世出生"
+    },
+    {
+      "year": "1572",
+      "title": "丹麦人第谷·布拉赫第谷超新星"
+    }
+  ]
+}

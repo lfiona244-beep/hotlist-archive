@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T16:51:00.130879+08:00",
+  "total_raw": 59,
+  "total_cleaned": 59,
+  "category_stats": {
+    "其他": 46,
+    "体育": 1,
+    "科技": 3,
+    "娱乐": 1,
+    "社会": 4,
+    "财经": 4
+  },
+  "hotspot": [],
+  "top_trending": [
+    {
+      "title": "中方回应中日领导人APEC是否会晤",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "油价有望迎来下调",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "开拓者123:103雷霆",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "大理初雪把风花雪月具象化了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "外国友人眼中的APEC“中国年”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "进博会激活消费新活力",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "在北京定格专属我们的浪漫瞬间",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "人民空军成立77周年",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "罗大佑怒批赖清德",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "“包子2元停车10元”成历史",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "孙中山后人谈两岸统一",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "人民锐评“画地为牢”出圈",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "新一轮俄美乌三方会谈",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "足球运动员集体在抖音晒年终奖杯",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "我往这你不炸了吗对口型挑战",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "从优胜美地到金门大桥：跟着 macOS 游览加州",
+    "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+    "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+    "社区速递 165 | 透明工牌与派友十月购物清单",
+    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+    "今年双十一，这些鼠标值得一看",
+    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "派评 | 近期值得关注的 App"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
+      "author": "崩坏星穹铁道",
+      "play": 1096963
+    },
+    {
+      "title": "黄仁勋：我想挑战一下我的软肋",
+      "author": "浅澄月",
+      "play": 1222256
+    },
+    {
+      "title": "【BilibiliToy】这个是一个普普通通的人机验证，真的",
+      "author": "魔魔园",
+      "play": 246695
+    },
+    {
+      "title": "财神窦占龙 第15集 寻参【8月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 223294
+    },
+    {
+      "title": "坟围感十足的八种植物，总有一款适合你！",
+      "author": "-阿申呀",
+      "play": 2358887
+    },
+    {
+      "title": "BLG 赛事语音 | 击败心魔，我们去决赛吧！",
+      "author": "BLG电子竞技俱乐部",
+      "play": 146698
+    },
+    {
+      "title": "寰宇频道特别栏目 | 远行",
+      "author": "鸣潮先行公约",
+      "play": 245136
+    },
+    {
+      "title": "传奇历史人物志——麦克斯韦",
+      "author": "抽象历史人物志",
+      "play": 733033
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "鸡蛋煮熟后，蛋黄边缘为什么会出现灰绿色？"
+    },
+    {
+      "title": "钻石明明很硬，为什么受到撞击仍容易碎裂？"
+    },
+    {
+      "title": "为什么鱼龙已经进化出完美的流水线身体，还会被身体像蛇的沧龙所取代?"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
