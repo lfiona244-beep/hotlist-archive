@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T17:17:48.529982+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-12T17:15",
+    "current": {
+      "temperature": 25.7,
+      "feels_like": 28.3,
+      "humidity": 61,
+      "condition": "阴",
+      "weather_code": 2,
+      "wind_speed": 0.9,
+      "wind_direction": 259
+    },
+    "today": {
+      "temp_min": 16.2,
+      "temp_max": 26.8,
+      "precipitation_probability": 0,
+      "uv_index": 6.15,
+      "sunrise": "2026-11-12T06:38",
+      "sunset": "2026-11-12T17:43"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.91"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.65"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.65"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.60"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+    "Mac 选购指南 2026 冬季版",
+    "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+    "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+    "城市漫步指南 | 安特卫普，时尚就在生活中",
+    "从优胜美地到金门大桥：跟着 macOS 游览加州",
+    "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+    "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "纪念孙中山先生诞辰160周年"
+    },
+    {
+      "platform": "抖音",
+      "title": "11月12日24时油价下调"
+    },
+    {
+      "platform": "抖音",
+      "title": "海上风电装机量居全球首位"
+    },
+    {
+      "platform": "抖音",
+      "title": "烟火美食夯吃挑战开赛了"
+    },
+    {
+      "platform": "抖音",
+      "title": "天凉热乎美食登场"
+    },
+    {
+      "platform": "头条",
+      "title": "中方奉劝七国集团管好自己的事情"
+    },
+    {
+      "platform": "头条",
+      "title": "A股市场共47只个股出现放量拉升"
+    },
+    {
+      "platform": "头条",
+      "title": "进博会把全球南方好物送到中国"
+    },
+    {
+      "platform": "头条",
+      "title": "油价13日起下调"
+    },
+    {
+      "platform": "头条",
+      "title": "台陆军前总司令：台湾人就是中国人"
+    },
+    {
+      "platform": "百度",
+      "title": "纪念孙中山先生诞辰160周年大会举行"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1035",
+      "title": "丹麦和英国国王克努特大帝去世"
+    },
+    {
+      "year": "1528",
+      "title": "明代抗倭将领、军事家戚继光出生"
+    },
+    {
+      "year": "1840",
+      "title": "法国著名法国雕塑艺术家奥古斯特·罗丹出生"
+    }
+  ]
+}

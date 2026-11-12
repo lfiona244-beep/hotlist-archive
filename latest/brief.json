@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T16:50:48.112727+08:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T17:17:48.529982+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-11T16:45",
+    "fetched_at": "2026-11-12T17:15",
     "current": {
-      "temperature": 22.1,
-      "feels_like": 21.9,
-      "humidity": 51,
+      "temperature": 25.7,
+      "feels_like": 28.3,
+      "humidity": 61,
       "condition": "阴",
-      "weather_code": 3,
-      "wind_speed": 3.8,
-      "wind_direction": 5
+      "weather_code": 2,
+      "wind_speed": 0.9,
+      "wind_direction": 259
     },
     "today": {
-      "temp_min": 12.3,
-      "temp_max": 22.7,
+      "temp_min": 16.2,
+      "temp_max": 26.8,
       "precipitation_probability": 0,
-      "uv_index": 6.2,
-      "sunrise": "2026-11-11T06:37",
-      "sunset": "2026-11-11T17:44"
+      "uv_index": 6.15,
+      "sunrise": "2026-11-12T06:38",
+      "sunset": "2026-11-12T17:43"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+    "Mac 选购指南 2026 冬季版",
+    "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+    "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+    "城市漫步指南 | 安特卫普，时尚就在生活中",
     "从优胜美地到金门大桥：跟着 macOS 游览加州",
     "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-    "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
-    "社区速递 165 | 透明工牌与派友十月购物清单",
-    "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
-    "今年双十一，这些鼠标值得一看",
-    "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-    "派评 | 近期值得关注的 App"
+    "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "开拓者123:103雷霆"
+      "title": "纪念孙中山先生诞辰160周年"
     },
     {
       "platform": "抖音",
-      "title": "大理初雪把风花雪月具象化了"
+      "title": "11月12日24时油价下调"
     },
     {
       "platform": "抖音",
-      "title": "进博会激活消费新活力"
+      "title": "海上风电装机量居全球首位"
     },
     {
       "platform": "抖音",
-      "title": "在北京定格专属我们的浪漫瞬间"
+      "title": "烟火美食夯吃挑战开赛了"
     },
     {
       "platform": "抖音",
-      "title": "人民空军成立77周年"
+      "title": "天凉热乎美食登场"
     },
     {
       "platform": "头条",
-      "title": "中方回应中日领导人APEC是否会晤"
+      "title": "中方奉劝七国集团管好自己的事情"
     },
     {
       "platform": "头条",
-      "title": "油价有望迎来下调"
+      "title": "A股市场共47只个股出现放量拉升"
     },
     {
       "platform": "头条",
-      "title": "外国友人眼中的APEC“中国年”"
+      "title": "进博会把全球南方好物送到中国"
     },
     {
       "platform": "头条",
-      "title": "“包子2元停车10元”成历史"
+      "title": "油价13日起下调"
     },
     {
       "platform": "头条",
-      "title": "彩票店主代买彩票中825万私自兑奖"
+      "title": "台陆军前总司令：台湾人就是中国人"
     },
     {
       "platform": "百度",
-      "title": "总书记这样呼吁海内外全体中华儿女"
+      "title": "纪念孙中山先生诞辰160周年大会举行"
     }
   ],
   "today_in_history": [
     {
-      "year": "1154",
-      "title": "独立葡萄牙第二位国王桑乔一世出生"
+      "year": "1035",
+      "title": "丹麦和英国国王克努特大帝去世"
     },
     {
-      "year": "1155",
-      "title": "卡斯蒂利亚国王阿方索八世出生"
+      "year": "1528",
+      "title": "明代抗倭将领、军事家戚继光出生"
     },
     {
-      "year": "1572",
-      "title": "丹麦人第谷·布拉赫第谷超新星"
+      "year": "1840",
+      "title": "法国著名法国雕塑艺术家奥古斯特·罗丹出生"
     }
   ]
 }
