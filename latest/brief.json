@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T17:17:48.529982+08:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T17:04:10.667100+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,114 +8,114 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-12T17:15",
+    "fetched_at": "2026-11-13T17:00",
     "current": {
-      "temperature": 25.7,
-      "feels_like": 28.3,
-      "humidity": 61,
-      "condition": "阴",
-      "weather_code": 2,
-      "wind_speed": 0.9,
-      "wind_direction": 259
+      "temperature": 22.5,
+      "feels_like": 25.1,
+      "humidity": 86,
+      "condition": "毛毛雨",
+      "weather_code": 51,
+      "wind_speed": 7.8,
+      "wind_direction": 13
     },
     "today": {
-      "temp_min": 16.2,
-      "temp_max": 26.8,
-      "precipitation_probability": 0,
-      "uv_index": 6.15,
-      "sunrise": "2026-11-12T06:38",
-      "sunset": "2026-11-12T17:43"
+      "temp_min": 19.7,
+      "temp_max": 27.4,
+      "precipitation_probability": 100,
+      "uv_index": 4.9,
+      "sunrise": "2026-11-13T06:39",
+      "sunset": "2026-11-13T17:43"
     }
   },
   "fuel": [
     {
       "name": "广东92#汽油",
-      "price": "8.91"
+      "price": "8.39"
     },
     {
       "name": "广东95#汽油",
-      "price": "9.65"
+      "price": "9.09"
     },
     {
       "name": "广东98#汽油",
-      "price": "11.65"
+      "price": "11.09"
     },
     {
       "name": "广东0#柴油",
-      "price": "8.60"
+      "price": "8.06"
     }
   ],
-  "fuel_changed": false,
-  "fuel_change_detail": "",
+  "fuel_changed": true,
+  "fuel_change_detail": "{'广东92#汽油': '8.91', '广东95#汽油': '9.65', '广东98#汽油': '11.65', '广东0#柴油': '8.60'} → {'广东92#汽油': '8.39', '广东95#汽油': '9.09', '广东98#汽油': '11.09', '广东0#柴油': '8.06'}",
   "news": [
+    "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+    "派早报：英伟达 CEO 黄仁勋宣布辞职等",
     "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
     "Mac 选购指南 2026 冬季版",
     "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
     "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-    "城市漫步指南 | 安特卫普，时尚就在生活中",
-    "从优胜美地到金门大桥：跟着 macOS 游览加州",
-    "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-    "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等"
+    "城市漫步指南 | 安特卫普，时尚就在生活中"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "纪念孙中山先生诞辰160周年"
+      "title": "油价下调 加满一箱油少花约26元"
     },
     {
       "platform": "抖音",
-      "title": "11月12日24时油价下调"
+      "title": "2027研究生报考人数347万"
     },
     {
       "platform": "抖音",
-      "title": "海上风电装机量居全球首位"
+      "title": "双向奔赴的投资"
     },
     {
       "platform": "抖音",
-      "title": "烟火美食夯吃挑战开赛了"
+      "title": "课本里的逍遥游有画面了"
     },
     {
       "platform": "抖音",
-      "title": "天凉热乎美食登场"
+      "title": "76人战胜猛龙"
     },
     {
       "platform": "头条",
-      "title": "中方奉劝七国集团管好自己的事情"
+      "title": "男子花4千多元做AI短剧火了"
     },
     {
       "platform": "头条",
-      "title": "A股市场共47只个股出现放量拉升"
+      "title": "上海通报女童基因编辑试验后死亡"
     },
     {
       "platform": "头条",
-      "title": "进博会把全球南方好物送到中国"
+      "title": "亚太共此时"
     },
     {
       "platform": "头条",
-      "title": "油价13日起下调"
+      "title": "零元面馆老板：愿全额补偿受损商户"
     },
     {
       "platform": "头条",
-      "title": "台陆军前总司令：台湾人就是中国人"
+      "title": "中方回应美方正推动通过芯片法案"
     },
     {
       "platform": "百度",
-      "title": "纪念孙中山先生诞辰160周年大会举行"
+      "title": "习近平将出席APEC深圳会议"
     }
   ],
   "today_in_history": [
     {
-      "year": "1035",
-      "title": "丹麦和英国国王克努特大帝去世"
+      "year": "1312",
+      "title": "英格兰国王爱德华三世出生"
     },
     {
-      "year": "1528",
-      "title": "明代抗倭将领、军事家戚继光出生"
+      "year": "1587",
+      "title": "中国明代历史上著名的清官海瑞逝世"
     },
     {
-      "year": "1840",
-      "title": "法国著名法国雕塑艺术家奥古斯特·罗丹出生"
+      "year": "1760",
+      "title": "中国清朝嘉庆帝出生"
     }
   ]
 }

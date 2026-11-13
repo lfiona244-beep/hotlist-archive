@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T17:04:21.660872+08:00",
+  "total_raw": 60,
+  "total_cleaned": 59,
+  "category_stats": {
+    "其他": 43,
+    "财经": 4,
+    "体育": 1,
+    "科技": 6,
+    "社会": 5
+  },
+  "hotspot": [
+    {
+      "title": "国家卫健委：我国严禁任何形式代孕",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "男子花4千多元做AI短剧火了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "上海通报女童基因编辑试验后死亡",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "亚太共此时",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "零元面馆老板：愿全额补偿受损商户",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方回应美方正推动通过芯片法案",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "新一轮大范围雨雪明夜起来袭",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "冬天洗澡多久一次最好",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "余承东：华为与赛力斯合作进入新阶段",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "东山精密跌停",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "国家卫健委：我国严禁任何形式代孕",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "破译“科学”流言不可不知100个真相",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "叶倩文在南京档案馆找到家人户籍卡",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "伊朗再次打击美军在中东军事设施",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "Outlook崩了日本政府改用电话工作",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "油价下调 加满一箱油少花约26元",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    }
+  ],
+  "news": [
+    "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+    "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+    "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+    "Mac 选购指南 2026 冬季版",
+    "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+    "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+    "城市漫步指南 | 安特卫普，时尚就在生活中"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "无烟酒吧倒闭、张美玉抑郁、大学生无偿代跑拒绝供出同学【抽象周刊】",
+      "author": "喵喵即正义",
+      "play": 1111054
+    },
+    {
+      "title": "他真的太优雅了！灰太狼&红太狼【非凡之爱】",
+      "author": "可口的红糖",
+      "play": 4410117
+    },
+    {
+      "title": "竹子从来都不欺人，只要你顺着它的脾气，会给你惊喜！",
+      "author": "修竹大叔",
+      "play": 763281
+    },
+    {
+      "title": "【独家】《罗小黑战记》第43话 跟师父一起做任务啦【10月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 765172
+    },
+    {
+      "title": "永夜扉间PV及技能初探丨此身为烛",
+      "author": "火影忍者手游情报君",
+      "play": 708186
+    },
+    {
+      "title": "《蓝色星原：旅谣》公测预告PV",
+      "author": "蓝色星原旅谣",
+      "play": 515983
+    },
+    {
+      "title": "臣妾要线上告发熹贵妃 2.0",
+      "author": "岩罗Crv",
+      "play": 1374489
+    },
+    {
+      "title": "提辖老妈《暴躁老妈》雷霆丧病配音1~8大合集",
+      "author": "烟小翼--雷霆配音员",
+      "play": 904709
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "古代没有电灯，晚上过了8点，古人都怎么打发时间？"
+    },
+    {
+      "title": "都说鳄目是完美生物，为什么没有哺乳动物或两栖动物以鳄鱼为标杆趋同演化？"
+    },
+    {
+      "title": "肯德基麦当劳的配方为何能数十年不泄露？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
