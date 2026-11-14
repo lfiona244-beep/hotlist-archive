@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T16:36:49.100845+08:00",
+  "total_raw": 60,
+  "total_cleaned": 59,
+  "category_stats": {
+    "其他": 47,
+    "体育": 1,
+    "生活": 2,
+    "社会": 2,
+    "游戏": 1,
+    "娱乐": 1,
+    "科技": 4,
+    "财经": 1
+  },
+  "hotspot": [
+    {
+      "title": "深圳市长：衷心感谢市民理解支持",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "原价129万/支的天价药进医保了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "女子回应读博3年生3孩",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "APEC独特的“亚太模式”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "曝万斯考虑退出2028年美国总统大选",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小伙5年开出1300家无人健身房",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "持械入宋第十一季",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "赵本山慌啥子嘛上线",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "游戏"
+    },
+    {
+      "title": "瑞幸越来越不像咖啡公司了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中国乘客亲历全美停飞以为被空袭",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "如何看金价走势",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "乌鲁木齐禁售马肉马肠制品？假的",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "乌对俄发动近5年来最大规模空袭",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "什么样的家庭能养出厉娜",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "深圳市长：衷心感谢市民理解支持",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台湾民众谈及沈伯洋一脸嫌弃",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+    "本周看什么 | 最近值得一看的 10 部作品",
+    "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+    "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+    "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+    "Mac 选购指南 2026 冬季版",
+    "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "抽象新闻：11月人类迷惑行为大赏（上）",
+      "author": "我是M菌",
+      "play": 540561
+    },
+    {
+      "title": "离谱答案大合集4",
+      "author": "李大海_差点火了版",
+      "play": 2870156
+    },
+    {
+      "title": "如果小时候幻想过的职业真的成真了？会是怎样？",
+      "author": "李如儒也是李蠕蠕",
+      "play": 1261190
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第24集【总第200集】",
+      "author": "哔哩哔哩国创",
+      "play": 2696584
+    },
+    {
+      "title": "耗资上万！我把匠魂做进了网页版mc... 【B站AI创造公开赛】",
+      "author": "土豆味小哲",
+      "play": 350325
+    },
+    {
+      "title": "【mj】DC班拓展包：不义联盟VS哥几个",
+      "author": "雨落枫台丶",
+      "play": 435881
+    },
+    {
+      "title": "臭肥鱼害我把情书交给辅导员了！【人和肥鱼03】",
+      "author": "双叶吸咖喱",
+      "play": 1130877
+    },
+    {
+      "title": "【唐唐】深度解析伪纪录片《放送禁止》细思极恐的答案！",
+      "author": "Big笑工坊",
+      "play": 425469
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "如何看待全国各地古镇相似度高达 99%，连「特色小吃」都一模一样？为何会出现这一局面？"
+    },
+    {
+      "title": "围棋为啥不以棋盘上的棋子数定输赢"
+    },
+    {
+      "title": "「嘌呤」为什么字典读音为 piàolìng，而民间往往读为 piāolíng？"
+    },
+    {
+      "title": "全身麻醉醒来像「跳过了」几个小时，睡眠为什么没有这种感觉？"
+    }
+  ]
+}

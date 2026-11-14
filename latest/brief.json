@@ -1,32 +1,7 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T17:04:10.667100+08:00",
-  "weather": {
-    "source": "open-meteo",
-    "location": {
-      "name": "广州",
-      "lat": 23.13,
-      "lon": 113.26
-    },
-    "fetched_at": "2026-11-13T17:00",
-    "current": {
-      "temperature": 22.5,
-      "feels_like": 25.1,
-      "humidity": 86,
-      "condition": "毛毛雨",
-      "weather_code": 51,
-      "wind_speed": 7.8,
-      "wind_direction": 13
-    },
-    "today": {
-      "temp_min": 19.7,
-      "temp_max": 27.4,
-      "precipitation_probability": 100,
-      "uv_index": 4.9,
-      "sunrise": "2026-11-13T06:39",
-      "sunset": "2026-11-13T17:43"
-    }
-  },
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T16:36:08.374947+08:00",
+  "weather": null,
   "fuel": [
     {
       "name": "广东92#汽油",
@@ -45,77 +20,77 @@
       "price": "8.06"
     }
   ],
-  "fuel_changed": true,
-  "fuel_change_detail": "{'广东92#汽油': '8.91', '广东95#汽油': '9.65', '广东98#汽油': '11.65', '广东0#柴油': '8.60'} → {'广东92#汽油': '8.39', '广东95#汽油': '9.09', '广东98#汽油': '11.09', '广东0#柴油': '8.06'}",
+  "fuel_changed": false,
+  "fuel_change_detail": "",
   "news": [
+    "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+    "本周看什么 | 最近值得一看的 10 部作品",
     "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
     "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
     "派早报：英伟达 CEO 黄仁勋宣布辞职等",
     "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
     "Mac 选购指南 2026 冬季版",
-    "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
-    "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-    "城市漫步指南 | 安特卫普，时尚就在生活中"
+    "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "油价下调 加满一箱油少花约26元"
+      "title": "KPL年总决战凤凰山"
     },
     {
       "platform": "抖音",
-      "title": "2027研究生报考人数347万"
+      "title": "上抖音看阿图什杯"
     },
     {
       "platform": "抖音",
-      "title": "双向奔赴的投资"
+      "title": "为亚太地区增“绿”"
     },
     {
       "platform": "抖音",
-      "title": "课本里的逍遥游有画面了"
+      "title": "马刺38分大胜勇士豪取11连胜"
     },
     {
       "platform": "抖音",
-      "title": "76人战胜猛龙"
+      "title": "国足对阵马来西亚前瞻"
     },
     {
       "platform": "头条",
-      "title": "男子花4千多元做AI短剧火了"
+      "title": "原价129万/支的天价药进医保了"
     },
     {
       "platform": "头条",
-      "title": "上海通报女童基因编辑试验后死亡"
+      "title": "女子回应读博3年生3孩"
     },
     {
       "platform": "头条",
-      "title": "亚太共此时"
+      "title": "APEC独特的“亚太模式”"
     },
     {
       "platform": "头条",
-      "title": "零元面馆老板：愿全额补偿受损商户"
+      "title": "曝万斯考虑退出2028年美国总统大选"
     },
     {
       "platform": "头条",
-      "title": "中方回应美方正推动通过芯片法案"
+      "title": "小伙5年开出1300家无人健身房"
     },
     {
       "platform": "百度",
-      "title": "习近平将出席APEC深圳会议"
+      "title": "推动构建亚太共同体的中国担当"
     }
   ],
   "today_in_history": [
     {
-      "year": "1312",
-      "title": "英格兰国王爱德华三世出生"
+      "year": "-207",
+      "title": "秦王子婴投降，秦朝灭亡"
     },
     {
-      "year": "1587",
-      "title": "中国明代历史上著名的清官海瑞逝世"
+      "year": "757",
+      "title": "安史之乱，郭子仪收复西京"
     },
     {
-      "year": "1760",
-      "title": "中国清朝嘉庆帝出生"
+      "year": "976",
+      "title": "北宋皇帝宋太祖赵匡胤逝世"
     }
   ]
 }
