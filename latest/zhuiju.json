@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "total": 128,
-  "available": 69,
-  "available_rate": 53.9,
+  "available": 70,
+  "available_rate": 54.7,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -19,10 +19,10 @@
     "搜TV啦",
     "白嫖者联盟",
     "爱电影",
+    "厂长资源",
     "Auete影视",
     "电影人生",
-    "奈菲影视",
-    "PPnix"
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -46,10 +46,6 @@
       "status": "受限 HTTP 403"
     },
     {
-      "name": "厂长资源",
-      "status": "受限 HTTP 403"
-    },
-    {
       "name": "LIBVIO",
       "status": "受限 HTTP 403"
     },
@@ -63,6 +59,10 @@
     },
     {
       "name": "SubHD",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "Kodi",
       "status": "受限 HTTP 403"
     }
   ],
