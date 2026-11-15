@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T16:49:15.079183+08:00",
+  "total_raw": 60,
+  "total_cleaned": 58,
+  "category_stats": {
+    "其他": 50,
+    "科技": 1,
+    "游戏": 1,
+    "财经": 2,
+    "娱乐": 1,
+    "社会": 2,
+    "体育": 1
+  },
+  "hotspot": [
+    {
+      "title": "BLG夺冠",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中国近六成家庭户不超过两个人",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "Ruler燃尽了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "BLG夺冠",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "4分钟读懂APEC",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "BLG 3:1 GEN",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "Knight夺得FMVP",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "葡萄牙不敌丹麦终结四连胜",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中国砒霜治疗白血病成国际方案",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "Bin就是世一上",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "罗圈村千年银杏树进入最佳观赏期",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "12位APEC经济体领导人将出席峰会",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "灵山审美已经next level了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "BLG夺冠恰逢联盟重大更新",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "我的BLG夺冠时刻",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "35岁老粉说等这么多年终于夺冠",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "高铁为什么完全密封",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+    "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+    "本周看什么 | 最近值得一看的 10 部作品",
+    "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+    "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+    "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+    "Mac 选购指南 2026 冬季版"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "【2026全球总决赛】11月15日 GEN vs BLG",
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 15364686
+    },
+    {
+      "title": "BLG S16夺冠赞歌《仰望星空》",
+      "author": "蔚蓝边际",
+      "play": 1444751
+    },
+    {
+      "title": "东西或许是半价的，但爱却不是！",
+      "author": "肥鸡煲",
+      "play": 1499686
+    },
+    {
+      "title": "店里¥788一个的蛋糕，自己在家做，能省多少钱？",
+      "author": "绵羊料理",
+      "play": 372460
+    },
+    {
+      "title": "【独家】牧神记 第109集 无忧剑",
+      "author": "哔哩哔哩国创",
+      "play": 1212154
+    },
+    {
+      "title": "天呐！英雄联盟历史上含金量最高的冠军！BLG传奇1穿4LCK修成正果！【1酱短评】",
+      "author": "你是想气死1酱么",
+      "play": 256973
+    },
+    {
+      "title": "1穿4连斩LCK战队！恭喜BLG，加冕为王！",
+      "author": "央视新闻",
+      "play": 2038237
+    },
+    {
+      "title": "【真实锐评】BLG1穿4LCK拿下S16 S赛冠军！国产中单可以夺冠！超级上单有中国人！",
+      "author": "真实电竞",
+      "play": 688808
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "电影放映中途为什么不暂停给上厕所的时间？"
+    },
+    {
+      "title": "研究称穿袜子睡觉可缩短入睡时间 7.5 分钟，是真的吗？背后的原理是啥？"
+    },
+    {
+      "title": "有哪些技术遗失后又被重复发明的例子?"
+    },
+    {
+      "title": "拆弹的时候为什么不一下把线全剪了?"
+    }
+  ]
+}
