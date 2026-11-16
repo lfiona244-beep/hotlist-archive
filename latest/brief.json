@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T16:49:02.875806+08:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T16:59:34.375080+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-15T16:45",
+    "fetched_at": "2026-11-16T16:45",
     "current": {
-      "temperature": 25.2,
-      "feels_like": 27.7,
-      "humidity": 66,
+      "temperature": 25.6,
+      "feels_like": 28.0,
+      "humidity": 70,
       "condition": "多云",
       "weather_code": 1,
-      "wind_speed": 3.3,
-      "wind_direction": 112
+      "wind_speed": 9.7,
+      "wind_direction": 153
     },
     "today": {
-      "temp_min": 18.7,
-      "temp_max": 25.8,
-      "precipitation_probability": 2,
-      "uv_index": 5.7,
-      "sunrise": "2026-11-15T06:40",
-      "sunset": "2026-11-15T17:42"
+      "temp_min": 19.1,
+      "temp_max": 27.3,
+      "precipitation_probability": 18,
+      "uv_index": 5.9,
+      "sunrise": "2026-11-16T06:40",
+      "sunset": "2026-11-16T17:42"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "Rosetta 2 即将退役，Mac 老应用何去何从？",
+    "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+    "派早报：逾十万人次联署要求黄仁勋复职",
     "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
     "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
     "本周看什么 | 最近值得一看的 10 部作品",
     "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
-    "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-    "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
-    "Mac 选购指南 2026 冬季版"
+    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "Ruler燃尽了"
+      "title": "习近平将同普京特朗普会晤"
     },
     {
       "platform": "抖音",
-      "title": "BLG夺冠"
+      "title": "第一视角记录APEC瞬间"
     },
     {
       "platform": "抖音",
-      "title": "4分钟读懂APEC"
+      "title": "10月国民经济运行总体平稳向新向优"
     },
     {
       "platform": "抖音",
-      "title": "BLG 3:1 GEN"
+      "title": "火箭147:119奇才"
     },
     {
       "platform": "抖音",
-      "title": "Knight夺得FMVP"
+      "title": "苹果糖已经进化到这种程度了"
     },
     {
       "platform": "头条",
-      "title": "中国砒霜治疗白血病成国际方案"
+      "title": "中俄美元首将首次面对面会晤"
     },
     {
       "platform": "头条",
-      "title": "12位APEC经济体领导人将出席峰会"
+      "title": "三军仪仗队迎接APEC会议外国元首"
     },
     {
       "platform": "头条",
-      "title": "在构建亚太共同体之路上携手同行"
+      "title": "中国贸易伙伴网如何越织越密"
     },
     {
       "platform": "头条",
-      "title": "凌晨3点多家电影院爆满"
+      "title": "中国女保镖贴身保护墨西哥总统"
     },
     {
       "platform": "头条",
-      "title": "中国近六成家庭户不超过两个人"
+      "title": "特朗普：期待参加中俄美元首会晤"
     },
     {
       "platform": "百度",
-      "title": "中国携手亚太共启发展繁荣新航程"
+      "title": "习近平将同普京特朗普在深圳会晤"
     }
   ],
   "today_in_history": [
     {
-      "year": "1630",
-      "title": "德国天文学家约翰内斯·开普勒逝世"
+      "year": "-42",
+      "title": "罗马帝国第二任皇帝提庇留出生"
     },
     {
-      "year": "1738",
-      "title": "“恒星天文学之父”威廉·赫歇尔出生"
+      "year": "1161",
+      "title": "唐岛之战爆发"
     },
     {
-      "year": "1864",
-      "title": "美国南北战争，威廉·谢尔曼向大海进军"
+      "year": "1264",
+      "title": "南宋皇帝宋理宗赵昀逝世"
     }
   ]
 }
