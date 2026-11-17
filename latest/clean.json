@@ -1,26 +1,18 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T16:59:45.221715+08:00",
-  "total_raw": 59,
-  "total_cleaned": 57,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T18:11:54.360935+08:00",
+  "total_raw": 60,
+  "total_cleaned": 59,
   "category_stats": {
-    "其他": 40,
-    "财经": 7,
-    "科技": 4,
-    "社会": 1,
-    "娱乐": 5
+    "其他": 53,
+    "生活": 1,
+    "财经": 1,
+    "社会": 2,
+    "科技": 2
   },
   "hotspot": [
     {
-      "title": "中国女保镖贴身保护墨西哥总统",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "那些与气象相关的不靠谱说法",
+      "title": "深圳APEC主持人阵容拉满",
       "platforms": [
         "toutiao",
         "baidu"
@@ -30,28 +22,7 @@
   ],
   "top_trending": [
     {
-      "title": "中俄美元首将首次面对面会晤",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "三军仪仗队迎接APEC会议外国元首",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中国贸易伙伴网如何越织越密",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "中国女保镖贴身保护墨西哥总统",
+      "title": "深圳APEC主持人阵容拉满",
       "platforms": [
         "toutiao",
         "baidu"
@@ -59,145 +30,166 @@
       "category": "其他"
     },
     {
-      "title": "特朗普：期待参加中俄美元首会晤",
+      "title": "特朗普戴红领带开启亚洲行",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "方博夺冠后称自己绝非等闲之辈",
+      "title": "APEC“中国年”系列会议活动丰硕成果",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "金价回落资金加速布局黄金股",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "中俄美元首即将会晤释放强烈信号",
+      "title": "马斯克确认将来中国",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "银行板块独立行情延续",
+      "title": "泰国正大集团董事长想买中国的电",
       "platforms": [
         "toutiao"
       ],
-      "category": "财经"
+      "category": "其他"
     },
     {
-      "title": "习近平将同普京特朗普会晤",
+      "title": "小县城的慢生活为何让网友心动",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC峰会有哪些领导人参加",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "第一视角记录APEC瞬间",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "10月国民经济运行总体平稳向新向优",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "火箭147:119奇才",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "储殷谈AI砍价：打开了潘多拉魔盒",
+      "title": "中方回应特朗普称或在华会见金正恩",
       "platforms": [
         "toutiao"
       ],
-      "category": "科技"
+      "category": "社会"
     },
     {
-      "title": "苹果糖已经进化到这种程度了",
+      "title": "APEC参会嘉宾陆续抵达深圳",
       "platforms": [
         "douyin"
       ],
-      "category": "科技"
+      "category": "其他"
+    },
+    {
+      "title": "鲲鹏乘势共赴亚太之约",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "在深圳读懂APEC中国故事",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "李亚鹏承诺全额承担患病男孩治疗费",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "76人135:123战胜篮网",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC普通人秒懂指南",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "一组数字看深圳与APEC双向奔赴",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
     }
   ],
   "news": [
+    "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+    "TDS REVIEW｜Bose 有线消噪耳塞体验",
+    "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+    "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+    "派评 | 近期值得关注的 App",
     "Rosetta 2 即将退役，Mac 老应用何去何从？",
     "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-    "派早报：逾十万人次联署要求黄仁勋复职",
-    "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-    "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-    "本周看什么 | 最近值得一看的 10 部作品",
-    "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-    "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？"
+    "派早报：逾十万人次联署要求黄仁勋复职"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【伪纪录片】镜 化",
-      "author": "虚构柠檬",
-      "play": 2821853
+      "title": "EUV光刻机 | \"上帝的手术刀\"",
+      "author": "Vibe-SCI",
+      "play": 762971
     },
     {
-      "title": "“46块3，问清一条规则。”",
-      "author": "我爱吃派大星",
-      "play": 1535325
+      "title": "梅耶·马斯克带你走进无限暖暖3.0",
+      "author": "无限暖暖",
+      "play": 1061415
     },
     {
-      "title": "命运让他们彼此对立，也让他们彼此靠近｜上",
-      "author": "Foyege弗曳哥",
-      "play": 1826602
-    },
-    {
-      "title": "“成华大道没有「烂奇迹」”",
-      "author": "Dieorite",
-      "play": 240104
-    },
-    {
-      "title": "术式反转久留美 【泛式】",
-      "author": "泛式",
-      "play": 1047278
-    },
-    {
-      "title": "《美队全家福VS灭霸全家福》灭霸的爸爸叫灭建国！",
-      "author": "音乐老友",
-      "play": 3920438
-    },
-    {
-      "title": "《立贤不立长》",
+      "title": "《最礼乐崩坏の一集》",
       "author": "伤心欲茄222",
-      "play": 2065355
+      "play": 486896
     },
     {
-      "title": "《复联暴雨末日》合集【AI全民制作人】",
-      "author": "看到这个名字的人暴富",
-      "play": 896787
+      "title": "《山海奇旅》兜风测试PV | 落脚小岛，出发兜风！",
+      "author": "山海奇旅官方",
+      "play": 604213
+    },
+    {
+      "title": "小时候去朋友家玩电脑",
+      "author": "破米库",
+      "play": 541535
+    },
+    {
+      "title": "陈翔六点半：假如上学是修仙",
+      "author": "陈翔六点半",
+      "play": 1154345
+    },
+    {
+      "title": "《哈利波特与枪》",
+      "author": "推背兔の",
+      "play": 739545
+    },
+    {
+      "title": "错了就要认，挨打要立正，对不起，这一次是我骗了你们！",
+      "author": "爱画画的子衿",
+      "play": 596768
     }
   ],
   "zhihu_daily": [
     {
-      "title": "有以碱液消化食物的动物吗？"
+      "title": "《福尔摩斯》原著里头的房东太太为什么会像个仆人一样伺候她的租客？"
     },
     {
-      "title": "研究称全球变暖阻断了下一个冰河时代，这一结论具有哪些科学意义？"
+      "title": "如果一个国家没有政府会怎么样?"
     },
     {
-      "title": "有什么廉价但是技术含量很高的东西？"
+      "title": "你觉得哪一项计算机技术被大众严重低估了？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
