@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "total": 128,
-  "available": 71,
-  "available_rate": 55.5,
+  "available": 69,
+  "available_rate": 53.9,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -18,11 +18,11 @@
     "看看鸭",
     "搜TV啦",
     "白嫖者联盟",
-    "APP影院",
     "爱电影",
     "厂长资源",
     "Auete影视",
-    "电影人生"
+    "电影人生",
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -59,10 +63,6 @@
     },
     {
       "name": "Kodi",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "BD影视聚合",
       "status": "受限 HTTP 403"
     }
   ],
@@ -92,6 +92,10 @@
       "status": "unreachable"
     },
     {
+      "name": "嗷呜",
+      "status": "unreachable"
+    },
+    {
       "name": "奈飞工厂",
       "status": "unreachable"
     },
@@ -100,11 +104,7 @@
       "status": "unreachable"
     },
     {
-      "name": "歪比巴卜",
-      "status": "unreachable"
-    },
-    {
-      "name": "可可影视",
+      "name": "追影",
       "status": "unreachable"
     }
   ]
