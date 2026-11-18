@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "total": 128,
-  "available": 69,
-  "available_rate": 53.9,
+  "available": 70,
+  "available_rate": 54.7,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -18,11 +18,11 @@
     "看看鸭",
     "搜TV啦",
     "白嫖者联盟",
+    "APP影院",
     "爱电影",
     "厂长资源",
     "Auete影视",
-    "电影人生",
-    "奈菲影视"
+    "电影人生"
   ],
   "restricted": [
     {
@@ -35,10 +35,6 @@
     },
     {
       "name": "蛋蛋魔法",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -63,6 +59,10 @@
     },
     {
       "name": "Kodi",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "BD影视聚合",
       "status": "受限 HTTP 403"
     }
   ],
@@ -92,7 +92,7 @@
       "status": "unreachable"
     },
     {
-      "name": "嗷呜",
+      "name": "王二小",
       "status": "unreachable"
     },
     {
