@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:43:40.789801+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-18T17:30",
+    "current": {
+      "temperature": 20.7,
+      "feels_like": 19.4,
+      "humidity": 67,
+      "condition": "阴",
+      "weather_code": 3,
+      "wind_speed": 18.1,
+      "wind_direction": 13
+    },
+    "today": {
+      "temp_min": 17.3,
+      "temp_max": 25.4,
+      "precipitation_probability": 72,
+      "uv_index": 3.5,
+      "sunrise": "2026-11-18T06:42",
+      "sunset": "2026-11-18T17:41"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.39"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.09"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.09"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.06"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "习近平迎接特朗普"
+    },
+    {
+      "platform": "抖音",
+      "title": "特朗普抵达深圳"
+    },
+    {
+      "platform": "抖音",
+      "title": "APEC工商界代表参会热度高"
+    },
+    {
+      "platform": "抖音",
+      "title": "APEC峰会有哪些领导人参加"
+    },
+    {
+      "platform": "抖音",
+      "title": "北京的银杏雨你淋到了吗"
+    },
+    {
+      "platform": "头条",
+      "title": "中国与亚太经济体合作故事"
+    },
+    {
+      "platform": "头条",
+      "title": "深圳机场停满各国领导人专机"
+    },
+    {
+      "platform": "头条",
+      "title": "台湾岛内震撼：全世界焦点都在深圳"
+    },
+    {
+      "platform": "百度",
+      "title": "习近平会见韩国总统李在明"
+    },
+    {
+      "platform": "百度",
+      "title": "共绘新图景 共话新机遇"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "-700",
+      "title": "卫国君主卫宣公逝世"
+    },
+    {
+      "year": "763",
+      "title": "吐蕃军入长安"
+    },
+    {
+      "year": "1067",
+      "title": "司马光初进读通志，赐名《资治通鉴》"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T18:11:44.131898+08:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:43:40.789801+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-17T18:00",
+    "fetched_at": "2026-11-18T17:30",
     "current": {
-      "temperature": 25.5,
-      "feels_like": 29.0,
-      "humidity": 79,
-      "condition": "多云",
-      "weather_code": 1,
-      "wind_speed": 7.9,
-      "wind_direction": 133
+      "temperature": 20.7,
+      "feels_like": 19.4,
+      "humidity": 67,
+      "condition": "阴",
+      "weather_code": 3,
+      "wind_speed": 18.1,
+      "wind_direction": 13
     },
     "today": {
-      "temp_min": 21.1,
-      "temp_max": 28.6,
-      "precipitation_probability": 78,
-      "uv_index": 4.95,
-      "sunrise": "2026-11-17T06:41",
-      "sunset": "2026-11-17T17:41"
+      "temp_min": 17.3,
+      "temp_max": 25.4,
+      "precipitation_probability": 72,
+      "uv_index": 3.5,
+      "sunrise": "2026-11-18T06:42",
+      "sunset": "2026-11-18T17:41"
     }
   },
   "fuel": [
@@ -47,75 +47,62 @@
   ],
   "fuel_changed": false,
   "fuel_change_detail": "",
-  "news": [
-    "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-    "TDS REVIEW｜Bose 有线消噪耳塞体验",
-    "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
-    "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-    "派评 | 近期值得关注的 App",
-    "Rosetta 2 即将退役，Mac 老应用何去何从？",
-    "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-    "派早报：逾十万人次联署要求黄仁勋复职"
-  ],
+  "news": [],
   "news_tip": null,
   "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "习近平迎接特朗普"
+    },
+    {
+      "platform": "抖音",
+      "title": "特朗普抵达深圳"
+    },
+    {
+      "platform": "抖音",
+      "title": "APEC工商界代表参会热度高"
+    },
     {
       "platform": "抖音",
       "title": "APEC峰会有哪些领导人参加"
     },
     {
       "platform": "抖音",
-      "title": "APEC参会嘉宾陆续抵达深圳"
-    },
-    {
-      "platform": "抖音",
-      "title": "鲲鹏乘势共赴亚太之约"
-    },
-    {
-      "platform": "抖音",
-      "title": "在深圳读懂APEC中国故事"
-    },
-    {
-      "platform": "抖音",
-      "title": "76人135:123战胜篮网"
+      "title": "北京的银杏雨你淋到了吗"
     },
     {
       "platform": "头条",
-      "title": "深圳APEC主持人阵容拉满"
+      "title": "中国与亚太经济体合作故事"
     },
     {
       "platform": "头条",
-      "title": "特朗普戴红领带开启亚洲行"
+      "title": "深圳机场停满各国领导人专机"
     },
     {
       "platform": "头条",
-      "title": "APEC“中国年”系列会议活动丰硕成果"
-    },
-    {
-      "platform": "头条",
-      "title": "马斯克确认将来中国"
-    },
-    {
-      "platform": "头条",
-      "title": "泰国正大集团董事长想买中国的电"
+      "title": "台湾岛内震撼：全世界焦点都在深圳"
     },
     {
       "platform": "百度",
-      "title": "习近平会见加拿大总理卡尼"
+      "title": "习近平会见韩国总统李在明"
+    },
+    {
+      "platform": "百度",
+      "title": "共绘新图景 共话新机遇"
     }
   ],
   "today_in_history": [
     {
-      "year": "1612",
-      "title": "清朝摄政王多尔衮出生"
+      "year": "-700",
+      "title": "卫国君主卫宣公逝世"
     },
     {
-      "year": "1727",
-      "title": "隆科多被以大罪五十永远禁锢"
+      "year": "763",
+      "title": "吐蕃军入长安"
     },
     {
-      "year": "1755",
-      "title": "法国君王路易十八出生"
+      "year": "1067",
+      "title": "司马光初进读通志，赐名《资治通鉴》"
     }
   ]
 }

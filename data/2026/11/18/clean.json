@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:44:03.325189+08:00",
+  "total_raw": 60,
+  "total_cleaned": 53,
+  "category_stats": {
+    "其他": 47,
+    "财经": 2,
+    "娱乐": 2,
+    "科技": 1,
+    "体育": 1
+  },
+  "hotspot": [
+    {
+      "title": "习近平迎接特朗普",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "特朗普抵达深圳",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小獬豸捉“妖”记",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲总统深夜给特朗普团队送炸鸡",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "中国与亚太经济体合作故事",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "深圳机场停满各国领导人专机",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方回应英伟达停止向华供应H200芯片",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "普京说感谢中国",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲律宾民众为何抗议特朗普到访",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "外国人士热议APEC 共话新期待",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "泰国总理回到老家广东大飙粤语",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "习近平迎接特朗普",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小獬豸捉“妖”记",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "特朗普抵达深圳",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC工商界代表参会热度高",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC峰会有哪些领导人参加",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲总统深夜给特朗普团队送炸鸡",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "北京的银杏雨你淋到了吗",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "bilibili": [
+    {
+      "title": "在普罗米厄的怀抱下",
+      "author": "鸣潮",
+      "play": 1560356
+    },
+    {
+      "title": "非凡魔丸",
+      "author": "伊介书生",
+      "play": 812571
+    },
+    {
+      "title": "【动画】可爱的猫尾草",
+      "author": "青默ya",
+      "play": 1618149
+    },
+    {
+      "title": "【完结】财神窦占龙 第16集 归乡【8月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 458757
+    },
+    {
+      "title": "BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！",
+      "author": "分析师蓝宝石",
+      "play": 123727
+    },
+    {
+      "title": "「幽明志」幽城残梦",
+      "author": "幽明志",
+      "play": 932698
+    },
+    {
+      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
+      "author": "Crazy-face",
+      "play": 3304564
+    },
+    {
+      "title": "蚌埠住的时候就抽出七匹狼",
+      "author": "凶鸭栗",
+      "play": 2490791
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "美国大都会博物馆里面为什么要有中国园林？"
+    },
+    {
+      "title": "古代贵族饭桌上，有哪些流传至今的「点心」？"
+    },
+    {
+      "title": "西安遍地是文物，那罗马是否也是如此？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}

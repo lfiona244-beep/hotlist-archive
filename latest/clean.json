@@ -1,18 +1,52 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T18:11:54.360935+08:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:44:03.325189+08:00",
   "total_raw": 60,
-  "total_cleaned": 59,
+  "total_cleaned": 53,
   "category_stats": {
-    "其他": 53,
-    "生活": 1,
-    "财经": 1,
-    "社会": 2,
-    "科技": 2
+    "其他": 47,
+    "财经": 2,
+    "娱乐": 2,
+    "科技": 1,
+    "体育": 1
   },
   "hotspot": [
     {
-      "title": "深圳APEC主持人阵容拉满",
+      "title": "习近平迎接特朗普",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "特朗普抵达深圳",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小獬豸捉“妖”记",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "菲总统深夜给特朗普团队送炸鸡",
       "platforms": [
         "toutiao",
         "baidu"
@@ -22,7 +56,21 @@
   ],
   "top_trending": [
     {
-      "title": "深圳APEC主持人阵容拉满",
+      "title": "中国与亚太经济体合作故事",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "深圳机场停满各国领导人专机",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "台湾岛内震撼：全世界焦点都在深圳",
       "platforms": [
         "toutiao",
         "baidu"
@@ -30,37 +78,70 @@
       "category": "其他"
     },
     {
-      "title": "特朗普戴红领带开启亚洲行",
+      "title": "中方回应英伟达停止向华供应H200芯片",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "普京说感谢中国",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "APEC“中国年”系列会议活动丰硕成果",
+      "title": "菲律宾民众为何抗议特朗普到访",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "马斯克确认将来中国",
+      "title": "外国人士热议APEC 共话新期待",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "泰国正大集团董事长想买中国的电",
+      "title": "泰国总理回到老家广东大飙粤语",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "小县城的慢生活为何让网友心动",
+      "title": "习近平迎接特朗普",
       "platforms": [
-        "toutiao"
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小獬豸捉“妖”记",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "特朗普抵达深圳",
+      "platforms": [
+        "douyin",
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC工商界代表参会热度高",
+      "platforms": [
+        "douyin"
       ],
       "category": "其他"
     },
@@ -72,124 +153,72 @@
       "category": "其他"
     },
     {
-      "title": "中方回应特朗普称或在华会见金正恩",
+      "title": "菲总统深夜给特朗普团队送炸鸡",
       "platforms": [
-        "toutiao"
+        "toutiao",
+        "baidu"
       ],
-      "category": "社会"
+      "category": "其他"
     },
     {
-      "title": "APEC参会嘉宾陆续抵达深圳",
+      "title": "北京的银杏雨你淋到了吗",
       "platforms": [
         "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "鲲鹏乘势共赴亚太之约",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "在深圳读懂APEC中国故事",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "李亚鹏承诺全额承担患病男孩治疗费",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "76人135:123战胜篮网",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "APEC普通人秒懂指南",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "一组数字看深圳与APEC双向奔赴",
-      "platforms": [
-        "toutiao"
       ],
       "category": "其他"
     }
   ],
-  "news": [
-    "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-    "TDS REVIEW｜Bose 有线消噪耳塞体验",
-    "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
-    "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-    "派评 | 近期值得关注的 App",
-    "Rosetta 2 即将退役，Mac 老应用何去何从？",
-    "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-    "派早报：逾十万人次联署要求黄仁勋复职"
-  ],
-  "news_tip": null,
   "bilibili": [
     {
-      "title": "EUV光刻机 | \"上帝的手术刀\"",
-      "author": "Vibe-SCI",
-      "play": 762971
+      "title": "在普罗米厄的怀抱下",
+      "author": "鸣潮",
+      "play": 1560356
     },
     {
-      "title": "梅耶·马斯克带你走进无限暖暖3.0",
-      "author": "无限暖暖",
-      "play": 1061415
+      "title": "非凡魔丸",
+      "author": "伊介书生",
+      "play": 812571
     },
     {
-      "title": "《最礼乐崩坏の一集》",
-      "author": "伤心欲茄222",
-      "play": 486896
+      "title": "【动画】可爱的猫尾草",
+      "author": "青默ya",
+      "play": 1618149
     },
     {
-      "title": "《山海奇旅》兜风测试PV | 落脚小岛，出发兜风！",
-      "author": "山海奇旅官方",
-      "play": 604213
+      "title": "【完结】财神窦占龙 第16集 归乡【8月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 458757
     },
     {
-      "title": "小时候去朋友家玩电脑",
-      "author": "破米库",
-      "play": 541535
+      "title": "BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！",
+      "author": "分析师蓝宝石",
+      "play": 123727
     },
     {
-      "title": "陈翔六点半：假如上学是修仙",
-      "author": "陈翔六点半",
-      "play": 1154345
+      "title": "「幽明志」幽城残梦",
+      "author": "幽明志",
+      "play": 932698
     },
     {
-      "title": "《哈利波特与枪》",
-      "author": "推背兔の",
-      "play": 739545
+      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
+      "author": "Crazy-face",
+      "play": 3304564
     },
     {
-      "title": "错了就要认，挨打要立正，对不起，这一次是我骗了你们！",
-      "author": "爱画画的子衿",
-      "play": 596768
+      "title": "蚌埠住的时候就抽出七匹狼",
+      "author": "凶鸭栗",
+      "play": 2490791
     }
   ],
   "zhihu_daily": [
     {
-      "title": "《福尔摩斯》原著里头的房东太太为什么会像个仆人一样伺候她的租客？"
+      "title": "美国大都会博物馆里面为什么要有中国园林？"
     },
     {
-      "title": "如果一个国家没有政府会怎么样?"
+      "title": "古代贵族饭桌上，有哪些流传至今的「点心」？"
     },
     {
-      "title": "你觉得哪一项计算机技术被大众严重低估了？"
+      "title": "西安遍地是文物，那罗马是否也是如此？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
