@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:52:57.695549+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-19T17:45",
+    "current": {
+      "temperature": 20.9,
+      "feels_like": 20.6,
+      "humidity": 60,
+      "condition": "阴",
+      "weather_code": 3,
+      "wind_speed": 7.7,
+      "wind_direction": 9
+    },
+    "today": {
+      "temp_min": 15.6,
+      "temp_max": 22.2,
+      "precipitation_probability": 8,
+      "uv_index": 5.8,
+      "sunrise": "2026-11-19T06:42",
+      "sunset": "2026-11-19T17:41"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.39"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.09"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.09"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.06"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "新玩意 256｜少数派的编辑们最近买了啥？",
+    "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+    "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+    "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+    "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+    "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+    "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+    "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "中俄美元首举行会晤"
+    },
+    {
+      "platform": "抖音",
+      "title": "普京特朗普欢迎晚宴互动握手"
+    },
+    {
+      "platform": "抖音",
+      "title": "为何都说APEC需要中国"
+    },
+    {
+      "platform": "抖音",
+      "title": "APEC美食硬控各国来宾"
+    },
+    {
+      "platform": "抖音",
+      "title": "澳大利亚总理发布逛深圳超市照片"
+    },
+    {
+      "platform": "头条",
+      "title": "习近平主持中俄美元首会晤"
+    },
+    {
+      "platform": "头条",
+      "title": "中方回应高市早苗礼宾安排"
+    },
+    {
+      "platform": "头条",
+      "title": "期待中国方案引领亚太合作"
+    },
+    {
+      "platform": "头条",
+      "title": "特朗普说美国不支持“台独”"
+    },
+    {
+      "platform": "头条",
+      "title": "深圳市民在街头偶遇多国政要"
+    },
+    {
+      "platform": "百度",
+      "title": "习近平对老龄工作作出重要指示"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1168",
+      "title": "中国宋朝的第十三位皇帝宋宁宗 赵扩出生"
+    },
+    {
+      "year": "1600",
+      "title": "英格兰查理一世国王出生"
+    },
+    {
+      "year": "1875",
+      "title": "苏联政治家、革命家米哈伊尔·伊万诺维奇·加里宁出生"
+    }
+  ]
+}

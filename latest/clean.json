@@ -1,36 +1,19 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T17:44:03.325189+08:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:53:08.257117+08:00",
   "total_raw": 60,
-  "total_cleaned": 53,
+  "total_cleaned": 57,
   "category_stats": {
-    "其他": 47,
-    "财经": 2,
-    "娱乐": 2,
-    "科技": 1,
-    "体育": 1
+    "其他": 48,
+    "社会": 3,
+    "生活": 1,
+    "科技": 3,
+    "游戏": 1,
+    "娱乐": 1
   },
   "hotspot": [
     {
-      "title": "习近平迎接特朗普",
-      "platforms": [
-        "douyin",
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "特朗普抵达深圳",
-      "platforms": [
-        "douyin",
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "title": "习近平主持中俄美元首会晤",
       "platforms": [
         "toutiao",
         "baidu"
@@ -38,15 +21,15 @@
       "category": "其他"
     },
     {
-      "title": "小獬豸捉“妖”记",
+      "title": "中方回应高市早苗礼宾安排",
       "platforms": [
         "toutiao",
         "baidu"
       ],
-      "category": "其他"
+      "category": "社会"
     },
     {
-      "title": "菲总统深夜给特朗普团队送炸鸡",
+      "title": "普京乘电梯时主动礼让文莱苏丹",
       "platforms": [
         "toutiao",
         "baidu"
@@ -56,21 +39,7 @@
   ],
   "top_trending": [
     {
-      "title": "中国与亚太经济体合作故事",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "深圳机场停满各国领导人专机",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "title": "习近平主持中俄美元首会晤",
       "platforms": [
         "toutiao",
         "baidu"
@@ -78,51 +47,36 @@
       "category": "其他"
     },
     {
-      "title": "中方回应英伟达停止向华供应H200芯片",
+      "title": "中方回应高市早苗礼宾安排",
       "platforms": [
-        "toutiao"
-      ],
-      "category": "科技"
-    },
-    {
-      "title": "普京说感谢中国",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "菲律宾民众为何抗议特朗普到访",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "外国人士热议APEC 共话新期待",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "泰国总理回到老家广东大飙粤语",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "习近平迎接特朗普",
-      "platforms": [
-        "douyin",
         "toutiao",
         "baidu"
       ],
+      "category": "社会"
+    },
+    {
+      "title": "期待中国方案引领亚太合作",
+      "platforms": [
+        "toutiao"
+      ],
       "category": "其他"
     },
     {
-      "title": "小獬豸捉“妖”记",
+      "title": "特朗普说美国不支持“台独”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "深圳市民在街头偶遇多国政要",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "普京乘电梯时主动礼让文莱苏丹",
       "platforms": [
         "toutiao",
         "baidu"
@@ -130,95 +84,131 @@
       "category": "其他"
     },
     {
-      "title": "特朗普抵达深圳",
+      "title": "普京用中文对与会者说谢谢",
       "platforms": [
-        "douyin",
-        "toutiao",
-        "baidu"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "APEC工商界代表参会热度高",
+      "title": "APEC红围巾来自广东顺德",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC礼物别出心裁",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "特朗普和普京会晤时开了个玩笑",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "小番茄的逆袭洗白之路",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "叶连平将成为“大体老师”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中俄美元首举行会晤",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "APEC峰会有哪些领导人参加",
+      "title": "普京特朗普欢迎晚宴互动握手",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "菲总统深夜给特朗普团队送炸鸡",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "北京的银杏雨你淋到了吗",
+      "title": "为何都说APEC需要中国",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     }
   ],
+  "news": [
+    "新玩意 256｜少数派的编辑们最近买了啥？",
+    "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+    "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+    "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+    "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+    "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+    "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+    "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派"
+  ],
+  "news_tip": null,
   "bilibili": [
     {
-      "title": "在普罗米厄的怀抱下",
-      "author": "鸣潮",
-      "play": 1560356
+      "title": "坐牢难，但出狱其实更难，如果你犯罪了，你会面临什么样的人生",
+      "author": "东八区赵光辉",
+      "play": 611108
     },
     {
-      "title": "非凡魔丸",
-      "author": "伊介书生",
-      "play": 812571
+      "title": "以防你不知道GTA6的狗子会开游艇来救你！",
+      "author": "忘川无语",
+      "play": 945694
     },
     {
-      "title": "【动画】可爱的猫尾草",
-      "author": "青默ya",
-      "play": 1618149
+      "title": "【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI",
+      "author": "11的游戏世界",
+      "play": 2962718
     },
     {
-      "title": "【完结】财神窦占龙 第16集 归乡【8月国创】",
-      "author": "哔哩哔哩国创",
-      "play": 458757
+      "title": "【纪录片】人生一串 第四季 03 十二时辰",
+      "author": "哔哩哔哩纪录片",
+      "play": 580238
     },
     {
-      "title": "BLG凭什么一穿四LCK夺冠？万字复盘BLG战胜GEN背后的原因！",
-      "author": "分析师蓝宝石",
-      "play": 123727
+      "title": "老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】",
+      "author": "老戴在此",
+      "play": 1151838
     },
     {
-      "title": "「幽明志」幽城残梦",
-      "author": "幽明志",
-      "play": 932698
+      "title": "“被窝里”玩手机教程",
+      "author": "农民老杨_Shandong",
+      "play": 988206
     },
     {
-      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
-      "author": "Crazy-face",
-      "play": 3304564
+      "title": "村民烟花",
+      "author": "Go1denApple",
+      "play": 1184920
     },
     {
-      "title": "蚌埠住的时候就抽出七匹狼",
-      "author": "凶鸭栗",
-      "play": 2490791
+      "title": "开着理想MEGA,我们要用七天吃遍山西！（哦对了还有玩）",
+      "author": "王师傅の日记",
+      "play": 220482
     }
   ],
   "zhihu_daily": [
     {
-      "title": "美国大都会博物馆里面为什么要有中国园林？"
+      "title": "为什么现在的棉服填充物都是聚酯纤维而不是棉花？"
     },
     {
-      "title": "古代贵族饭桌上，有哪些流传至今的「点心」？"
+      "title": "东市买骏马、西市买鞍鞯、南市买辔头、北市买长鞭，古人为什么不在一个地方一次性买完全部东西？"
     },
     {
-      "title": "西安遍地是文物，那罗马是否也是如此？"
+      "title": "多动症患者（ADHD）既然是缺乏多巴胺，但为什么他们看上去都很快乐？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
