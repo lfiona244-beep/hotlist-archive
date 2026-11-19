@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "total": 128,
-  "available": 70,
-  "available_rate": 54.7,
+  "available": 68,
+  "available_rate": 53.1,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -20,9 +20,9 @@
     "白嫖者联盟",
     "APP影院",
     "爱电影",
-    "厂长资源",
     "Auete影视",
-    "电影人生"
+    "电影人生",
+    "奈菲影视"
   ],
   "restricted": [
     {
@@ -39,6 +39,10 @@
     },
     {
       "name": "爱壹帆",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "厂长资源",
       "status": "受限 HTTP 403"
     },
     {
@@ -59,10 +63,6 @@
     },
     {
       "name": "Kodi",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "BD影视聚合",
       "status": "受限 HTTP 403"
     }
   ],
@@ -96,15 +96,15 @@
       "status": "unreachable"
     },
     {
+      "name": "ACG.RIP",
+      "status": "unreachable"
+    },
+    {
       "name": "奈飞工厂",
       "status": "unreachable"
     },
     {
       "name": "剧OK",
-      "status": "unreachable"
-    },
-    {
-      "name": "追影",
       "status": "unreachable"
     }
   ]
