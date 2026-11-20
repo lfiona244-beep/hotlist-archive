@@ -1,19 +1,20 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T17:53:08.257117+08:00",
-  "total_raw": 60,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T17:40:12.980217+08:00",
+  "total_raw": 59,
   "total_cleaned": 57,
   "category_stats": {
-    "其他": 48,
-    "社会": 3,
-    "生活": 1,
-    "科技": 3,
-    "游戏": 1,
-    "娱乐": 1
+    "其他": 39,
+    "生活": 2,
+    "社会": 6,
+    "财经": 4,
+    "体育": 1,
+    "科技": 4,
+    "游戏": 1
   },
   "hotspot": [
     {
-      "title": "习近平主持中俄美元首会晤",
+      "title": "“全球最大医院”原党委书记被双开",
       "platforms": [
         "toutiao",
         "baidu"
@@ -21,15 +22,7 @@
       "category": "其他"
     },
     {
-      "title": "中方回应高市早苗礼宾安排",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "普京乘电梯时主动礼让文莱苏丹",
+      "title": "特朗普称行程太满没顾上见金正恩",
       "platforms": [
         "toutiao",
         "baidu"
@@ -39,176 +32,173 @@
   ],
   "top_trending": [
     {
-      "title": "习近平主持中俄美元首会晤",
+      "title": "特朗普从中国返美途中发帖",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "中方回应高市早苗礼宾安排",
+      "title": "县委书记说不能过度消费张雪",
       "platforms": [
-        "toutiao",
-        "baidu"
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中国担任2026APEC东道主成果清单",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "日方称中方接待高市早苗符合惯例",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "马光远谈黄金跌破3600美元",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "余承东：L3自动驾驶来了后开车可睡觉",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "中方回应高市在深圳就台湾问题表态",
+      "platforms": [
+        "toutiao"
       ],
       "category": "社会"
     },
     {
-      "title": "期待中国方案引领亚太合作",
+      "title": "国内油价预计下调460元/吨",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "我国智能制造整体迈入世界前列",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "特朗普说美国不支持“台独”",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "深圳市民在街头偶遇多国政要",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "普京乘电梯时主动礼让文莱苏丹",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "普京用中文对与会者说谢谢",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "APEC红围巾来自广东顺德",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "APEC礼物别出心裁",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "特朗普和普京会晤时开了个玩笑",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "小番茄的逆袭洗白之路",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "叶连平将成为“大体老师”",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "中俄美元首举行会晤",
+      "title": "中俄美元首和平宣言",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "普京特朗普欢迎晚宴互动握手",
+      "title": "满分10分 特朗普为中俄美会晤打12分",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "特朗普结束亚洲行返回白宫",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "为何都说APEC需要中国",
+      "title": "APEC的创新也在烟火日常中",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
+    },
+    {
+      "title": "U17男足首战对阵西班牙",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC外宾游深圳邂逅地道美食",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
     }
   ],
   "news": [
+    "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+    "浮屏：截图即可「上岛」，还能帮你记录生活",
+    "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+    "给 Apple 的 2026 年打分，请你一起参与",
     "新玩意 256｜少数派的编辑们最近买了啥？",
     "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
     "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-    "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-    "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
-    "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
-    "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
-    "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派"
+    "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "坐牢难，但出狱其实更难，如果你犯罪了，你会面临什么样的人生",
-      "author": "东八区赵光辉",
-      "play": 611108
+      "title": "火力种田王! 超燃农村大战！",
+      "author": "神奇的老皮",
+      "play": 917672
     },
     {
-      "title": "以防你不知道GTA6的狗子会开游艇来救你！",
-      "author": "忘川无语",
-      "play": 945694
+      "title": "90分钟中俄美会晤，摆了哪些事上桌？王骁APEC观察",
+      "author": "小王Albert",
+      "play": 251564
     },
     {
-      "title": "【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI",
-      "author": "11的游戏世界",
-      "play": 2962718
+      "title": "【独家】《罗小黑战记》第44话 冬冬拯救行动方案五【10月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 1272061
     },
     {
-      "title": "【纪录片】人生一串 第四季 03 十二时辰",
-      "author": "哔哩哔哩纪录片",
-      "play": 580238
+      "title": "【非凡之爱】⚡️但都是正常人⚡️",
+      "author": "酸奶煎个蛋",
+      "play": 2279996
     },
     {
-      "title": "老戴《侠盗猎车手 6》初见开荒全实况流程解说【GTA 6】",
-      "author": "老戴在此",
-      "play": 1151838
+      "title": "尾随NPC的真实反应",
+      "author": "叶猫Gamer",
+      "play": 3043508
     },
     {
-      "title": "“被窝里”玩手机教程",
-      "author": "农民老杨_Shandong",
-      "play": 988206
+      "title": "⚡霸 爸 去 哪 儿⚡",
+      "author": "洛温阿特金森",
+      "play": 2038638
     },
     {
-      "title": "村民烟花",
-      "author": "Go1denApple",
-      "play": 1184920
+      "title": "黑客打开印度骗子的摄像头，顺手把骗子策反了！",
+      "author": "哈里大王",
+      "play": 2169551
     },
     {
-      "title": "开着理想MEGA,我们要用七天吃遍山西！（哦对了还有玩）",
-      "author": "王师傅の日记",
-      "play": 220482
+      "title": "Mili - City Blue（都市之蓝）",
+      "author": "ProjectMili",
+      "play": 510630
     }
   ],
   "zhihu_daily": [
     {
-      "title": "为什么现在的棉服填充物都是聚酯纤维而不是棉花？"
+      "title": "为什么章鱼能有三个心脏，普通动物只有一个？"
     },
     {
-      "title": "东市买骏马、西市买鞍鞯、南市买辔头、北市买长鞭，古人为什么不在一个地方一次性买完全部东西？"
+      "title": "为什么喜欢汉服的人不穿古代的粗布衣服？"
     },
     {
-      "title": "多动症患者（ADHD）既然是缺乏多巴胺，但为什么他们看上去都很快乐？"
+      "title": "历史上假传圣旨多吗？科技不发达的古代，又是如何鉴别的？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
