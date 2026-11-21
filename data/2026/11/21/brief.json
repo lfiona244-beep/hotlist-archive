@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T17:12:03.290771+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-21T17:00",
+    "current": {
+      "temperature": 19.9,
+      "feels_like": 19.1,
+      "humidity": 50,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 3.6,
+      "wind_direction": 84
+    },
+    "today": {
+      "temp_min": 12.2,
+      "temp_max": 21.0,
+      "precipitation_probability": 2,
+      "uv_index": 5.85,
+      "sunrise": "2026-11-21T06:44",
+      "sunset": "2026-11-21T17:41"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.39"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.09"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.09"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.06"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+    "本周看什么 | 最近值得一看的 10 部作品",
+    "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+    "浮屏：截图即可「上岛」，还能帮你记录生活",
+    "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+    "给 Apple 的 2026 年打分，请你一起参与",
+    "新玩意 256｜少数派的编辑们最近买了啥？",
+    "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "终于懂李白走到哪都写诗了"
+    },
+    {
+      "platform": "抖音",
+      "title": "贺炜长文鼓励U17中国队"
+    },
+    {
+      "platform": "抖音",
+      "title": "APEC中国年在深圳奏响华彩乐章"
+    },
+    {
+      "platform": "抖音",
+      "title": "墨西哥总统发视频感谢中方女保镖"
+    },
+    {
+      "platform": "抖音",
+      "title": "哈登51分助骑士击败步行者"
+    },
+    {
+      "platform": "头条",
+      "title": "顺丰速运被暂停参加全军采购活动"
+    },
+    {
+      "platform": "头条",
+      "title": "黄金为啥突然不香了"
+    },
+    {
+      "platform": "头条",
+      "title": "APEC开启经贸合作新空间"
+    },
+    {
+      "platform": "头条",
+      "title": "胖东来原址开的新商场几乎倒闭"
+    },
+    {
+      "platform": "头条",
+      "title": "C罗巨型雕像在上海揭幕"
+    },
+    {
+      "platform": "百度",
+      "title": "习近平主席的深圳APEC时间"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1694",
+      "title": "法国启蒙运动领袖伏尔泰出生"
+    },
+    {
+      "year": "1783",
+      "title": "孟格菲兄弟进行了第一次载人热气球飞行"
+    },
+    {
+      "year": "1818",
+      "title": "美国著名人类学家路易斯·亨利·摩尔根出生"
+    }
+  ]
+}

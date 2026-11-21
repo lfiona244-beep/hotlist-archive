@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T17:12:14.223272+08:00",
+  "total_raw": 58,
+  "total_cleaned": 57,
+  "category_stats": {
+    "其他": 51,
+    "体育": 1,
+    "动漫": 1,
+    "财经": 1,
+    "科技": 1,
+    "生活": 1,
+    "社会": 1
+  },
+  "hotspot": [
+    {
+      "title": "八马茶业被暂停全军采购资格",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "顺丰速运被暂停参加全军采购活动",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "终于懂李白走到哪都写诗了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "贺炜长文鼓励U17中国队",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "APEC中国年在深圳奏响华彩乐章",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "墨西哥总统发视频感谢中方女保镖",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "黄金为啥突然不香了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "哈登51分助骑士击败步行者",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "羽毛球运动员周昊东被禁赛3年",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "体育"
+    },
+    {
+      "title": "APEC开启经贸合作新空间",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "专家分析克里米亚大桥连遭三炸",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "德国车手喊话张雪想做德国代理",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "27岁庞众望完成清华博士答辩",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "新昌林丹杯四冠之争",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "魏建军到许昌考察学习胖东来",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "庞博文20:51不敌农村国宝",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+    "本周看什么 | 最近值得一看的 10 部作品",
+    "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+    "浮屏：截图即可「上岛」，还能帮你记录生活",
+    "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+    "给 Apple 的 2026 年打分，请你一起参与",
+    "新玩意 256｜少数派的编辑们最近买了啥？",
+    "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "【IGN独家】《鸣潮：永明的烬焰》实机演示",
+      "author": "IGN中国",
+      "play": 2466744
+    },
+    {
+      "title": "当我用AI续写爱情公寓4关谷悠悠婚礼【AI全民制作人】",
+      "author": "Nero_闪灵",
+      "play": 1978301
+    },
+    {
+      "title": "戴玉强×龚琳娜 ｜殿堂级嗓音，荒野式放飞！魔性演绎《饥困荒野》1124上线主题曲",
+      "author": "龚琳娜",
+      "play": 983827
+    },
+    {
+      "title": "【纪录片】守护解放西·传承季 第1集 守护不止解放西",
+      "author": "哔哩哔哩纪录片",
+      "play": 3865651
+    },
+    {
+      "title": "小时候眼中的罚抄神器be like:",
+      "author": "罐子pot",
+      "play": 855725
+    },
+    {
+      "title": "“在众人的簇拥下死去吗，倒也不错”｜《虎杖の小曲》【老男孩DJ版/咒术回战】",
+      "author": "卡夫卡在人间",
+      "play": 463895
+    },
+    {
+      "title": "DNFU·2026年度CG",
+      "author": "地下城与勇士手游",
+      "play": 894664
+    },
+    {
+      "title": "村民装备演示",
+      "author": "KKKKKQAQ",
+      "play": 523009
+    }
+  ],
+  "zhihu_daily": []
+}
