@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "total": 128,
-  "available": 66,
-  "available_rate": 51.6,
+  "available": 69,
+  "available_rate": 53.9,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -58,11 +58,11 @@
       "status": "受限 HTTP 403"
     },
     {
-      "name": "SubHD",
+      "name": "Kodi",
       "status": "受限 HTTP 403"
     },
     {
-      "name": "Kodi",
+      "name": "BD影视聚合",
       "status": "受限 HTTP 403"
     }
   ],
@@ -92,19 +92,19 @@
       "status": "unreachable"
     },
     {
-      "name": "小马",
-      "status": "unreachable"
-    },
-    {
-      "name": "POMO",
-      "status": "unreachable"
-    },
-    {
       "name": "饭搭子影视",
       "status": "unreachable"
     },
     {
       "name": "奈飞工厂",
+      "status": "unreachable"
+    },
+    {
+      "name": "剧OK",
+      "status": "unreachable"
+    },
+    {
+      "name": "追影",
       "status": "unreachable"
     }
   ]
