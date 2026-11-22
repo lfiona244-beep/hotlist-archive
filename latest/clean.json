@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T17:12:14.223272+08:00",
-  "total_raw": 58,
-  "total_cleaned": 57,
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T17:21:53.554538+08:00",
+  "total_raw": 59,
+  "total_cleaned": 58,
   "category_stats": {
-    "其他": 51,
-    "体育": 1,
+    "其他": 46,
+    "社会": 2,
+    "体育": 2,
+    "娱乐": 1,
+    "财经": 3,
     "动漫": 1,
-    "财经": 1,
-    "科技": 1,
-    "生活": 1,
-    "社会": 1
+    "科技": 3
   },
   "hotspot": [
     {
-      "title": "八马茶业被暂停全军采购资格",
+      "title": "“防非反诈”系列条漫",
       "platforms": [
         "toutiao",
         "baidu"
@@ -24,163 +24,176 @@
   ],
   "top_trending": [
     {
-      "title": "顺丰速运被暂停参加全军采购活动",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "终于懂李白走到哪都写诗了",
+      "title": "今日小雪",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "贺炜长文鼓励U17中国队",
+      "title": "76人送雄鹿13连败",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "APEC中国年在深圳奏响华彩乐章",
+      "title": "重大工程有序推进助力经济民生",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "黄山迎客松为何成为中国名片",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "墨西哥总统发视频感谢中方女保镖",
+      "title": "特朗普称将与伊朗达成永久性协议",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "黄金为啥突然不香了",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "哈登51分助骑士击败步行者",
+      "title": "特朗普连发三十多张APEC会议照片",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "羽毛球运动员周昊东被禁赛3年",
+      "title": "多国领导人表态恪守一个中国原则",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "文班亚马50分19篮板5封盖4抢断",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国际金价为何持续下跌",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "两大CBA夺冠热门俱乐部杯出局",
       "platforms": [
         "douyin"
       ],
       "category": "体育"
     },
     {
-      "title": "APEC开启经贸合作新空间",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "专家分析克里米亚大桥连遭三炸",
+      "title": "乌解释打击克里米亚大桥行动缘由",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "德国车手喊话张雪想做德国代理",
+      "title": "终于喝到APEC同款荔枝冰酒了",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "27岁庞众望完成清华博士答辩",
+      "title": "kissmysoul手势舞挑战",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "新昌林丹杯四冠之争",
+      "title": "小雪的第一条祝福我想送给你",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "魏建军到许昌考察学习胖东来",
+      "title": "十万狂花婚礼变葬礼虐麻了",
       "platforms": [
         "douyin"
       ],
-      "category": "其他"
-    },
-    {
-      "title": "庞博文20:51不敌农村国宝",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
+      "category": "娱乐"
     }
   ],
   "news": [
+    "从深圳到上海，少数派的共创故事还在继续",
     "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
     "本周看什么 | 最近值得一看的 10 部作品",
     "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
     "浮屏：截图即可「上岛」，还能帮你记录生活",
     "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
     "给 Apple 的 2026 年打分，请你一起参与",
-    "新玩意 256｜少数派的编辑们最近买了啥？",
-    "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制"
+    "新玩意 256｜少数派的编辑们最近买了啥？"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "【IGN独家】《鸣潮：永明的烬焰》实机演示",
-      "author": "IGN中国",
-      "play": 2466744
+      "title": "《无限暖暖》3.0版本套装PV | 若见沐光之窗&于此重见繁星",
+      "author": "无限暖暖",
+      "play": 793765
     },
     {
-      "title": "当我用AI续写爱情公寓4关谷悠悠婚礼【AI全民制作人】",
-      "author": "Nero_闪灵",
-      "play": 1978301
+      "title": "《蓝色星原：旅谣》公测动画短片",
+      "author": "蓝色星原旅谣",
+      "play": 2743231
     },
     {
-      "title": "戴玉强×龚琳娜 ｜殿堂级嗓音，荒野式放飞！魔性演绎《饥困荒野》1124上线主题曲",
-      "author": "龚琳娜",
-      "play": 983827
+      "title": "《猫富贵 狗不让》",
+      "author": "IPx的粉红豹",
+      "play": 2767127
     },
     {
-      "title": "【纪录片】守护解放西·传承季 第1集 守护不止解放西",
-      "author": "哔哩哔哩纪录片",
-      "play": 3865651
+      "title": "【独家】牧神记 第110集 诡异冥谷",
+      "author": "哔哩哔哩国创",
+      "play": 1192870
     },
     {
-      "title": "小时候眼中的罚抄神器be like:",
-      "author": "罐子pot",
-      "play": 855725
+      "title": "《我救不死你》",
+      "author": "伤心欲茄222",
+      "play": 3593191
     },
     {
-      "title": "“在众人的簇拥下死去吗，倒也不错”｜《虎杖の小曲》【老男孩DJ版/咒术回战】",
-      "author": "卡夫卡在人间",
-      "play": 463895
+      "title": "【一百万字·01】我只剩300个字了，说一个少一个｜文字动画《嗯》",
+      "author": "大米画字",
+      "play": 1106487
     },
     {
-      "title": "DNFU·2026年度CG",
-      "author": "地下城与勇士手游",
-      "play": 894664
+      "title": "真相，假是假了点，但看了不烧心。",
+      "author": "吟游诗人AT",
+      "play": 1295350
     },
     {
-      "title": "村民装备演示",
-      "author": "KKKKKQAQ",
-      "play": 523009
+      "title": "《520AM》司凤版⚡思罢吗乐队激情演奏！小时候这集听哭了😭【AI MV大赛】",
+      "author": "69岁牢二次元",
+      "play": 338298
     }
   ],
-  "zhihu_daily": []
+  "zhihu_daily": [
+    {
+      "title": "《猫和老鼠》为何能风靡全球？"
+    },
+    {
+      "title": "有什么有意思的大学名称缩写？"
+    },
+    {
+      "title": "清朝王爷们没有手机如何打发时间？"
+    },
+    {
+      "title": "你见过最抽象的城市道路设计是什么样子的？"
+    }
+  ]
 }
