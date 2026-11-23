@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T18:17:36.933617+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-23T18:15",
+    "current": {
+      "temperature": 23.2,
+      "feels_like": 25.7,
+      "humidity": 83,
+      "condition": "阴",
+      "weather_code": 2,
+      "wind_speed": 9.1,
+      "wind_direction": 150
+    },
+    "today": {
+      "temp_min": 18.5,
+      "temp_max": 24.4,
+      "precipitation_probability": 82,
+      "uv_index": 1.75,
+      "sunrise": "2026-11-23T06:45",
+      "sunset": "2026-11-23T17:40"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.39"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.09"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.09"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.06"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "派评 | 近期值得关注的 App",
+    "怪手机们要回来了吗？",
+    "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+    "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+    "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+    "从深圳到上海，少数派的共创故事还在继续",
+    "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+    "本周看什么 | 最近值得一看的 10 部作品"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "勇士险胜凯尔特人"
+    },
+    {
+      "platform": "抖音",
+      "title": "2027国考今起可打印准考证"
+    },
+    {
+      "platform": "抖音",
+      "title": "2000个公办养老机构将改造升级"
+    },
+    {
+      "platform": "抖音",
+      "title": "与辉同行太懂福建人的宿命感了"
+    },
+    {
+      "platform": "抖音",
+      "title": "厚灰美学穿搭拿捏冬日松弛感"
+    },
+    {
+      "platform": "头条",
+      "title": "县委书记走访红糖厂家说捡点渣渣吃"
+    },
+    {
+      "platform": "头条",
+      "title": "中方就以总理等被发逮捕令表态"
+    },
+    {
+      "platform": "头条",
+      "title": "透过数据看消费之变"
+    },
+    {
+      "platform": "头条",
+      "title": "乌方公布击沉俄护卫舰画面"
+    },
+    {
+      "platform": "头条",
+      "title": "韦东奕拿奖获2位中科院院士提名"
+    },
+    {
+      "platform": "百度",
+      "title": "从深圳出发 携手构建亚太共同体"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "912",
+      "title": "东法兰克国王奥托一世出生"
+    },
+    {
+      "year": "1221",
+      "title": "卡斯蒂利亚王国国王阿方索十世出生"
+    },
+    {
+      "year": "1804",
+      "title": "美国第14任总统富兰克林·皮尔斯出生"
+    }
+  ]
+}

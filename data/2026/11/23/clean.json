@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T18:17:47.449288+08:00",
+  "total_raw": 59,
+  "total_cleaned": 58,
+  "category_stats": {
+    "其他": 44,
+    "社会": 2,
+    "生活": 1,
+    "科技": 8,
+    "财经": 1,
+    "娱乐": 2
+  },
+  "hotspot": [
+    {
+      "title": "希望小学哭是安排的 学生哭好有奖励",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "勇士险胜凯尔特人",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "2027国考今起可打印准考证",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "2000个公办养老机构将改造升级",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "与辉同行太懂福建人的宿命感了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "厚灰美学穿搭拿捏冬日松弛感",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "掘金加时胜公牛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "海军多型舰机将亮相珠海航展",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "A股人形机器人板块上演涨停潮",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "稳股市三项新政发布",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "18只主动ETF今日上市",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "荥阳花80元吃八碗太顶了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "黎曼猜想是什么",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "上海地铁时隔21年首次调价",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "凤凰传奇南昌演唱会舞台突发故障",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "娱乐"
+    },
+    {
+      "title": "看ok了老铁们感性了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "派评 | 近期值得关注的 App",
+    "怪手机们要回来了吗？",
+    "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+    "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+    "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+    "从深圳到上海，少数派的共创故事还在继续",
+    "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+    "本周看什么 | 最近值得一看的 10 部作品"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "全新【求生者】出版编辑故事视频爆料：——“那是我第一次看到，自己本可以成为的样子……”",
+      "author": "网易第五人格手游",
+      "play": 630958
+    },
+    {
+      "title": "路边一块，用心雕刻，保你看了眼前一黑",
+      "author": "小梨家的和田玉",
+      "play": 1289551
+    },
+    {
+      "title": "《这波贪了》",
+      "author": "伤心欲茄222",
+      "play": 489733
+    },
+    {
+      "title": "2026-2027国创动画作品发布会 全程回顾",
+      "author": "哔哩哔哩国创",
+      "play": 1630402
+    },
+    {
+      "title": "两套大连招 雷霆撸猫法 一镜到底",
+      "author": "喵老登的猫",
+      "play": 1273994
+    },
+    {
+      "title": "同时狂炫「垃圾食品+保健品」，美国人的养生观逆天了",
+      "author": "康哟喂",
+      "play": 846972
+    },
+    {
+      "title": "今天还是老样子吗？",
+      "author": "随意饮食店",
+      "play": 679778
+    },
+    {
+      "title": "非正常人物志——哥伦布",
+      "author": "抽象历史人物志",
+      "play": 1237256
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "一块顶级的墨在古代有多贵？真的像《家业》中一样千金难求吗？"
+    },
+    {
+      "title": "为什么一斤粮食还没有一瓶瓶装水贵？"
+    },
+    {
+      "title": "为什么许多科普书经常用「高尔夫球车」「甜甜圈」「咖啡杯」这些中国人日常生活中几乎不接触的东西作比喻？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
