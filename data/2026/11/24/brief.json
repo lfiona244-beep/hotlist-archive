@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:59:35.987036+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-24T19:45",
+    "current": {
+      "temperature": 17.5,
+      "feels_like": 14.6,
+      "humidity": 57,
+      "condition": "多云",
+      "weather_code": 1,
+      "wind_speed": 17.6,
+      "wind_direction": 20
+    },
+    "today": {
+      "temp_min": 15.4,
+      "temp_max": 21.8,
+      "precipitation_probability": 100,
+      "uv_index": 5.7,
+      "sunrise": "2026-11-24T06:46",
+      "sunset": "2026-11-24T17:40"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.39"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.09"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.09"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.06"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+    "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+    "写在动荡之后：漫步巴黎的寻常一日",
+    "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+    "派评 | 近期值得关注的 App",
+    "怪手机们要回来了吗？",
+    "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+    "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "上海市委书记陈吉宁被查"
+    },
+    {
+      "platform": "抖音",
+      "title": "神二十四乘组名单公布"
+    },
+    {
+      "platform": "抖音",
+      "title": "神二十四将开展90项研究"
+    },
+    {
+      "platform": "抖音",
+      "title": "草莓桶蛋糕一吃一个不吱声"
+    },
+    {
+      "platform": "抖音",
+      "title": "这个日常妆值得焊在脸上"
+    },
+    {
+      "platform": "头条",
+      "title": "陈吉宁被查"
+    },
+    {
+      "platform": "头条",
+      "title": "中方回应黄仁勋复职"
+    },
+    {
+      "platform": "头条",
+      "title": "神舟二十四号航天员乘组确定"
+    },
+    {
+      "platform": "头条",
+      "title": "华为MateX8售价12999元起"
+    },
+    {
+      "platform": "头条",
+      "title": "特朗普回国后天天夸深圳"
+    },
+    {
+      "platform": "百度",
+      "title": "培养更多高技能人才和大国工匠"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "1650",
+      "title": "清朝军队攻陷广州，展开“广州大屠杀”"
+    },
+    {
+      "year": "1784",
+      "title": "美国第12任总统扎卡里·泰勒出生"
+    },
+    {
+      "year": "1887",
+      "title": "德国军事家曼施坦因出生"
+    }
+  ]
+}

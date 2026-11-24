@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:59:44.858980+08:00",
+  "total_raw": 60,
+  "total_cleaned": 58,
+  "category_stats": {
+    "其他": 43,
+    "娱乐": 1,
+    "生活": 2,
+    "游戏": 1,
+    "社会": 3,
+    "科技": 6,
+    "体育": 1,
+    "财经": 1
+  },
+  "hotspot": [
+    {
+      "title": "上海市委书记陈吉宁被查",
+      "platforms": [
+        "douyin",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "张纪中妻子自曝领证时才得知丈夫年龄",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "陈吉宁被查",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "中方回应黄仁勋复职",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "神舟二十四号航天员乘组确定",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "华为MateX8售价12999元起",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "特朗普回国后天天夸深圳",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "孙颖莎再破天花板意味着什么",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "余承东现场提词器曝光",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "男子酒后开启智驾脱离驾驶位被追责",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "媒体：每天在校15小时不能成教师日常",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "众多明星出席华为Mate X8发布会",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "使用AI造谣传谣10起典型案例公布",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "张纪中妻子自曝领证时才得知丈夫年龄",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "蒋欣瘦成这样了",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "华为正式推出鸿蒙小折叠电脑",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "李维嘉200平的家干净得找不出1根头发",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+    "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+    "写在动荡之后：漫步巴黎的寻常一日",
+    "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+    "派评 | 近期值得关注的 App",
+    "怪手机们要回来了吗？",
+    "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+    "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "【火影十一年 神临时刻】漩涡鸣人[阳之力]即将登场！",
+      "author": "火影忍者手游情报君",
+      "play": 2232680
+    },
+    {
+      "title": "【TF家族练习生】《第肆象限》演唱会纪录片EP01「向上」",
+      "author": "TF家族",
+      "play": 257462
+    },
+    {
+      "title": "“别人过得好 你就要扣自己的分吗”",
+      "author": "毕检索",
+      "play": 1925834
+    },
+    {
+      "title": "【纪录片】蓝色星球 第三季 04 极地海洋",
+      "author": "哔哩哔哩纪录片",
+      "play": 458625
+    },
+    {
+      "title": "《蓝色星原：旅谣》涂山小玉PV | 一笺桃花",
+      "author": "蓝色星原旅谣",
+      "play": 1298129
+    },
+    {
+      "title": "🐊“Bin哥，我一定会找到冠军皮肤的时间线的！”🐊",
+      "author": "徐Toso",
+      "play": 864077
+    },
+    {
+      "title": "我想回家吃饭（两小时大电影）",
+      "author": "呖猪猫meme",
+      "play": 2107558
+    },
+    {
+      "title": "刘晓艳：“你能考过就是「烂奇迹」”",
+      "author": "Dieorite",
+      "play": 355861
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "史书里有哪些部分是已被现代考古推翻的？"
+    },
+    {
+      "title": "旅途中，有哪些古建筑真正配得上「叹为观止」四个字？"
+    },
+    {
+      "title": "网络作者为什么不能被别人知道真实身份？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}

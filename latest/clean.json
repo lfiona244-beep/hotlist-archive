@@ -1,19 +1,29 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T18:17:47.449288+08:00",
-  "total_raw": 59,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:59:44.858980+08:00",
+  "total_raw": 60,
   "total_cleaned": 58,
   "category_stats": {
-    "其他": 44,
-    "社会": 2,
-    "生活": 1,
-    "科技": 8,
-    "财经": 1,
-    "娱乐": 2
+    "其他": 43,
+    "娱乐": 1,
+    "生活": 2,
+    "游戏": 1,
+    "社会": 3,
+    "科技": 6,
+    "体育": 1,
+    "财经": 1
   },
   "hotspot": [
     {
-      "title": "希望小学哭是安排的 学生哭好有奖励",
+      "title": "上海市委书记陈吉宁被查",
+      "platforms": [
+        "douyin",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "张纪中妻子自曝领证时才得知丈夫年龄",
       "platforms": [
         "toutiao",
         "baidu"
@@ -23,173 +33,174 @@
   ],
   "top_trending": [
     {
-      "title": "勇士险胜凯尔特人",
+      "title": "陈吉宁被查",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "2027国考今起可打印准考证",
+      "title": "中方回应黄仁勋复职",
       "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "2000个公办养老机构将改造升级",
-      "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "社会"
     },
     {
-      "title": "与辉同行太懂福建人的宿命感了",
+      "title": "神舟二十四号航天员乘组确定",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "厚灰美学穿搭拿捏冬日松弛感",
+      "title": "华为MateX8售价12999元起",
       "platforms": [
-        "douyin"
-      ],
-      "category": "生活"
-    },
-    {
-      "title": "掘金加时胜公牛",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "海军多型舰机将亮相珠海航展",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "A股人形机器人板块上演涨停潮",
-      "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "科技"
     },
     {
-      "title": "稳股市三项新政发布",
+      "title": "特朗普回国后天天夸深圳",
       "platforms": [
-        "douyin"
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "孙颖莎再破天花板意味着什么",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "余承东现场提词器曝光",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "男子酒后开启智驾脱离驾驶位被追责",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "媒体：每天在校15小时不能成教师日常",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "众多明星出席华为Mate X8发布会",
+      "platforms": [
+        "toutiao"
       ],
       "category": "科技"
     },
     {
-      "title": "18只主动ETF今日上市",
+      "title": "使用AI造谣传谣10起典型案例公布",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
-      "category": "财经"
+      "category": "科技"
     },
     {
-      "title": "荥阳花80元吃八碗太顶了",
+      "title": "张纪中妻子自曝领证时才得知丈夫年龄",
       "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "黎曼猜想是什么",
-      "platforms": [
-        "douyin"
+        "toutiao",
+        "baidu"
       ],
       "category": "其他"
     },
     {
-      "title": "上海地铁时隔21年首次调价",
+      "title": "蒋欣瘦成这样了",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "凤凰传奇南昌演唱会舞台突发故障",
+      "title": "华为正式推出鸿蒙小折叠电脑",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
-      "category": "娱乐"
+      "category": "科技"
     },
     {
-      "title": "看ok了老铁们感性了",
+      "title": "李维嘉200平的家干净得找不出1根头发",
       "platforms": [
-        "douyin"
+        "toutiao"
       ],
       "category": "其他"
     }
   ],
   "news": [
+    "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+    "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+    "写在动荡之后：漫步巴黎的寻常一日",
+    "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
     "派评 | 近期值得关注的 App",
     "怪手机们要回来了吗？",
     "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-    "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
-    "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-    "从深圳到上海，少数派的共创故事还在继续",
-    "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-    "本周看什么 | 最近值得一看的 10 部作品"
+    "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "全新【求生者】出版编辑故事视频爆料：——“那是我第一次看到，自己本可以成为的样子……”",
-      "author": "网易第五人格手游",
-      "play": 630958
+      "title": "【火影十一年 神临时刻】漩涡鸣人[阳之力]即将登场！",
+      "author": "火影忍者手游情报君",
+      "play": 2232680
     },
     {
-      "title": "路边一块，用心雕刻，保你看了眼前一黑",
-      "author": "小梨家的和田玉",
-      "play": 1289551
+      "title": "【TF家族练习生】《第肆象限》演唱会纪录片EP01「向上」",
+      "author": "TF家族",
+      "play": 257462
     },
     {
-      "title": "《这波贪了》",
-      "author": "伤心欲茄222",
-      "play": 489733
+      "title": "“别人过得好 你就要扣自己的分吗”",
+      "author": "毕检索",
+      "play": 1925834
     },
     {
-      "title": "2026-2027国创动画作品发布会 全程回顾",
-      "author": "哔哩哔哩国创",
-      "play": 1630402
+      "title": "【纪录片】蓝色星球 第三季 04 极地海洋",
+      "author": "哔哩哔哩纪录片",
+      "play": 458625
     },
     {
-      "title": "两套大连招 雷霆撸猫法 一镜到底",
-      "author": "喵老登的猫",
-      "play": 1273994
+      "title": "《蓝色星原：旅谣》涂山小玉PV | 一笺桃花",
+      "author": "蓝色星原旅谣",
+      "play": 1298129
     },
     {
-      "title": "同时狂炫「垃圾食品+保健品」，美国人的养生观逆天了",
-      "author": "康哟喂",
-      "play": 846972
+      "title": "🐊“Bin哥，我一定会找到冠军皮肤的时间线的！”🐊",
+      "author": "徐Toso",
+      "play": 864077
     },
     {
-      "title": "今天还是老样子吗？",
-      "author": "随意饮食店",
-      "play": 679778
+      "title": "我想回家吃饭（两小时大电影）",
+      "author": "呖猪猫meme",
+      "play": 2107558
     },
     {
-      "title": "非正常人物志——哥伦布",
-      "author": "抽象历史人物志",
-      "play": 1237256
+      "title": "刘晓艳：“你能考过就是「烂奇迹」”",
+      "author": "Dieorite",
+      "play": 355861
     }
   ],
   "zhihu_daily": [
     {
-      "title": "一块顶级的墨在古代有多贵？真的像《家业》中一样千金难求吗？"
+      "title": "史书里有哪些部分是已被现代考古推翻的？"
     },
     {
-      "title": "为什么一斤粮食还没有一瓶瓶装水贵？"
+      "title": "旅途中，有哪些古建筑真正配得上「叹为观止」四个字？"
     },
     {
-      "title": "为什么许多科普书经常用「高尔夫球车」「甜甜圈」「咖啡杯」这些中国人日常生活中几乎不接触的东西作比喻？"
+      "title": "网络作者为什么不能被别人知道真实身份？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
