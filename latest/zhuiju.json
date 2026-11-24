@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "total": 128,
-  "available": 66,
-  "available_rate": 51.6,
+  "available": 70,
+  "available_rate": 54.7,
   "categories": {
     "online_video": 54,
     "video_app": 5,
@@ -38,10 +38,6 @@
       "status": "受限 HTTP 403"
     },
     {
-      "name": "APP影院",
-      "status": "受限 HTTP 403"
-    },
-    {
       "name": "爱壹帆",
       "status": "受限 HTTP 403"
     },
@@ -64,9 +60,17 @@
     {
       "name": "Kodi",
       "status": "受限 HTTP 403"
+    },
+    {
+      "name": "BD影视聚合",
+      "status": "受限 HTTP 403"
     }
   ],
   "broken": [
+    {
+      "name": "APP影院",
+      "status": "unreachable"
+    },
     {
       "name": "937影视",
       "status": "unreachable"
@@ -88,23 +92,19 @@
       "status": "unreachable"
     },
     {
-      "name": "肥猫",
-      "status": "unreachable"
-    },
-    {
-      "name": "肥猫",
-      "status": "unreachable"
-    },
-    {
-      "name": "创享影视",
-      "status": "unreachable"
-    },
-    {
-      "name": "饭搭子影视",
-      "status": "unreachable"
-    },
-    {
       "name": "奈飞工厂",
+      "status": "unreachable"
+    },
+    {
+      "name": "剧OK",
+      "status": "unreachable"
+    },
+    {
+      "name": "追影",
+      "status": "unreachable"
+    },
+    {
+      "name": "歪比巴卜",
       "status": "unreachable"
     }
   ]
