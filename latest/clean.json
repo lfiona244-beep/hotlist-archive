@@ -1,125 +1,118 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T18:52:41.868296+08:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:27:40.649448+08:00",
   "total_raw": 60,
-  "total_cleaned": 59,
+  "total_cleaned": 60,
   "category_stats": {
-    "其他": 51,
-    "体育": 2,
-    "娱乐": 1,
-    "社会": 5
+    "其他": 42,
+    "生活": 4,
+    "社会": 4,
+    "财经": 6,
+    "体育": 1,
+    "科技": 3
   },
-  "hotspot": [
-    {
-      "title": "巴航天员接过太空小蛋糕深深闻了闻",
-      "platforms": [
-        "toutiao",
-        "baidu"
-      ],
-      "category": "其他"
-    }
-  ],
+  "hotspot": [],
   "top_trending": [
     {
-      "title": "中外航天员实现首次“太空握手”",
+      "title": "中方回应美拟对华加征新一轮关税",
       "platforms": [
         "toutiao"
       ],
-      "category": "其他"
+      "category": "社会"
     },
     {
-      "title": "上海三套班子开会 就陈吉宁被查表态",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "国货品牌高质量发展步伐坚实",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "火箭发射与朝霞同框浪漫壮美",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "伊朗总统在哈梅内伊墓前下跪致敬",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "安徽4岁走失男童找到已无生命体征",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "巴基斯坦航天员说中国空间站我来了",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "超级厄尔尼诺发威 暴雪袭击日本",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "猝死女教师最后朋友圈称被焦虑填满",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "85秒回顾神24发射",
+      "title": "开拓者116:111击败马刺",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "神舟二十四号发射圆满成功",
+      "title": "提前预习圣诞穿搭",
       "platforms": [
         "douyin"
       ],
-      "category": "其他"
+      "category": "生活"
     },
     {
-      "title": "中国天宫还会接待哪些国家的航天员",
+      "title": "董明珠建议长城进军拖拉机",
       "platforms": [
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "破晓逐梦披霞出征",
+      "title": "深圳奇迹属于奋斗者",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "冰铲铲师傅有求必应",
+      "title": "已被这届烟火榜美食选中",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "中方回应美国称对华加征关税",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "清迈的天灯节也太美了吧",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "真正好吃的小破店在民间",
+      "title": "读懂新一代通信网建设实施方案",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "评论区摄影作品点评大赛开启",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "同频朋友是最好的生日礼物",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "央视网评金价大跌下的购金热",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "11月26日24时油价下调",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "财经"
+    },
+    {
+      "title": "蔡磊回应病情进入终末期",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "76人111:104热火",
       "platforms": [
         "douyin"
       ],
@@ -127,67 +120,67 @@
     }
   ],
   "news": [
+    "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+    "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+    "我用AI做了一张两千年的中国历史地图",
+    "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
     "翻开 2027， 值得入手的新年日历推荐",
     "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
     "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
-    "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
-    "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-    "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
-    "写在动荡之后：漫步巴黎的寻常一日",
-    "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等"
+    "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "他逃，他追，他插翅难飞？！",
-      "author": "KOLONSPORT可隆",
-      "play": 604828
+      "title": "《蓝色星原：旅谣》公测版本PV | 星跃始动",
+      "author": "蓝色星原旅谣",
+      "play": 2166696
     },
     {
-      "title": "不是我害了你......是这个崩坏害了你啊！【泛式】",
-      "author": "泛式",
-      "play": 145643
+      "title": "吴 众",
+      "author": "白手套和马犬旺财",
+      "play": 1079564
     },
     {
-      "title": "《绝区零》挽昼角色展示 | 日陨之前",
-      "author": "绝区零",
-      "play": 868257
+      "title": "考研政治一页纸（3小时速成选择40+）",
+      "author": "澄潇宇",
+      "play": 110230
     },
     {
-      "title": "【李诗雅】属于李诗雅的故事，即将展开【PV】",
-      "author": "哔哩哔哩国创",
-      "play": 247337
+      "title": "【纪录片】人生一串 第四季 04 边城浪子",
+      "author": "哔哩哔哩纪录片",
+      "play": 386049
     },
     {
-      "title": "🚢\"泰坦鲁克号\"🛳️",
-      "author": "沙雕Sanscul",
-      "play": 753597
+      "title": "为什么说火影玩家，是全网最神的玩家群体？",
+      "author": "清酒好可怜",
+      "play": 224773
     },
     {
-      "title": "决赛练英雄？选皮肤原则大公开！BLG冠军中野亲自讲述夺冠故事【视频播客 | 元来如此 EP.10】",
-      "author": "管泽元",
-      "play": 714477
+      "title": "你能绷到第几关",
+      "author": "呱唧菌",
+      "play": 350961
     },
     {
-      "title": "【我在现代当幽差】：守护",
-      "author": "红豆稀饭中",
-      "play": 552919
+      "title": "特朗普与民主党抽象乱斗",
+      "author": "燕三嘤嘤嘤",
+      "play": 624599
     },
     {
-      "title": "美国10岁男孩为救亲妈，开枪爆头16岁少女邻居",
-      "author": "镜哥是本人",
-      "play": 2136244
+      "title": "西（部）游记 5",
+      "author": "三木刃",
+      "play": 1430122
     }
   ],
   "zhihu_daily": [
     {
-      "title": "阿拉伯式建筑的那个葱头是怎么流行起来的？"
+      "title": "鸟类能尝出果实的甜味吗？"
     },
     {
-      "title": "为什么物理世界运行刚好就是那些简单的公式？"
+      "title": "现代人能吃得惯古代普通老百姓家里的菜吗？"
     },
     {
-      "title": "古代镖师走镖，为何区区十几人，却让胆大妄为的土匪不敢抢劫呢？"
+      "title": "为什么龟没有完全抢占鳖的生态位、淘汰掉鳖？"
     },
     {
       "title": "瞎扯 · 如何正确地吐槽"
