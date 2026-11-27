@@ -1,118 +1,144 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T18:27:40.649448+08:00",
-  "total_raw": 60,
-  "total_cleaned": 60,
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:31:31.962081+08:00",
+  "total_raw": 59,
+  "total_cleaned": 56,
   "category_stats": {
-    "其他": 42,
-    "生活": 4,
-    "社会": 4,
-    "财经": 6,
-    "体育": 1,
-    "科技": 3
+    "其他": 47,
+    "生活": 2,
+    "科技": 3,
+    "动漫": 1,
+    "财经": 3
   },
-  "hotspot": [],
+  "hotspot": [
+    {
+      "title": "清谣护苗 护航成长",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "金价银价大涨",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "又一家车企宣布停产燃油车",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
   "top_trending": [
     {
-      "title": "中方回应美拟对华加征新一轮关税",
-      "platforms": [
-        "toutiao"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "开拓者116:111击败马刺",
+      "title": "A股全线收红 创业板涨超11%",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "提前预习圣诞穿搭",
+      "title": "国常会：加力发挥国家队稳市作用",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国家队抄底力度已超“924”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "高交会高在哪里",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "在济南过一个冒热气的周末",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "冬日冷感忧郁穿搭",
       "platforms": [
         "douyin"
       ],
       "category": "生活"
     },
     {
-      "title": "董明珠建议长城进军拖拉机",
+      "title": "金价银价大涨",
       "platforms": [
-        "toutiao"
+        "toutiao",
+        "baidu"
       ],
       "category": "其他"
     },
     {
-      "title": "深圳奇迹属于奋斗者",
+      "title": "2026广州车展开幕",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "已被这届烟火榜美食选中",
+      "title": "你吃的小米其实是狗尾巴草子孙",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "火旺动画定档",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "动漫"
+    },
+    {
+      "title": "羊年贵金属纪念币今日发行",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "普通人冬日彩色穿搭公式",
       "platforms": [
         "douyin"
       ],
       "category": "生活"
     },
     {
-      "title": "中方回应美国称对华加征关税",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "清迈的天灯节也太美了吧",
+      "title": "巴航天员进驻天宫进入工作状态",
       "platforms": [
         "douyin"
       ],
       "category": "其他"
     },
     {
-      "title": "读懂新一代通信网建设实施方案",
+      "title": "清谣护苗 护航成长",
       "platforms": [
+        "douyin",
         "toutiao"
       ],
       "category": "其他"
     },
     {
-      "title": "评论区摄影作品点评大赛开启",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "同频朋友是最好的生日礼物",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "央视网评金价大跌下的购金热",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "其他"
-    },
-    {
-      "title": "11月26日24时油价下调",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "财经"
-    },
-    {
-      "title": "蔡磊回应病情进入终末期",
-      "platforms": [
-        "douyin"
-      ],
-      "category": "社会"
-    },
-    {
-      "title": "76人111:104热火",
+      "title": "复联5万磁王摘毁灭博士面具",
       "platforms": [
         "douyin"
       ],
@@ -120,56 +146,56 @@
     }
   ],
   "news": [
+    "本周看什么 | 最近值得一看的 8 部作品",
+    "「黑五」值得买：不容错过的 App 和服务优惠",
+    "派早报：1Password 确认内部系统遭入侵等",
     "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
     "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
     "我用AI做了一张两千年的中国历史地图",
     "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
-    "翻开 2027， 值得入手的新年日历推荐",
-    "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-    "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
-    "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等"
+    "翻开 2027， 值得入手的新年日历推荐"
   ],
   "news_tip": null,
   "bilibili": [
     {
-      "title": "《蓝色星原：旅谣》公测版本PV | 星跃始动",
-      "author": "蓝色星原旅谣",
-      "play": 2166696
+      "title": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开",
+      "author": "明日方舟终末地",
+      "play": 791144
     },
     {
-      "title": "吴 众",
-      "author": "白手套和马犬旺财",
-      "play": 1079564
+      "title": "《白银之城》世界观PV | 童话的起笔",
+      "author": "白银之城",
+      "play": 1066676
     },
     {
-      "title": "考研政治一页纸（3小时速成选择40+）",
-      "author": "澄潇宇",
-      "play": 110230
+      "title": "《绝区零》挽昼动画短片 | 最后的旅途",
+      "author": "绝区零",
+      "play": 575823
     },
     {
-      "title": "【纪录片】人生一串 第四季 04 边城浪子",
-      "author": "哔哩哔哩纪录片",
-      "play": 386049
+      "title": "【独家】《罗小黑战记》第45话 美好的暑假如此短暂【10月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 1556718
     },
     {
-      "title": "为什么说火影玩家，是全网最神的玩家群体？",
-      "author": "清酒好可怜",
-      "play": 224773
+      "title": "【三角洲全角色/与天齐】⚡我本是天才少年😭👊🏻⚡",
+      "author": "萌宠教主",
+      "play": 447111
     },
     {
-      "title": "你能绷到第几关",
-      "author": "呱唧菌",
-      "play": 350961
+      "title": "我讨厌我的子宫、我的月经和我的胸，讨厌一切女性特质，但没钱做手术，只能靠cosplay来填补内心",
+      "author": "摩的司机徐师傅",
+      "play": 1155576
     },
     {
-      "title": "特朗普与民主党抽象乱斗",
-      "author": "燕三嘤嘤嘤",
-      "play": 624599
+      "title": "看懂前：啊？ 看懂后：啊啊啊！！！",
+      "author": "GM的秘密基地",
+      "play": 1983984
     },
     {
-      "title": "西（部）游记 5",
-      "author": "三木刃",
-      "play": 1430122
+      "title": "顺直大改造S2EP2——顺直男和通讯录的恩怨情仇",
+      "author": "antoxic",
+      "play": 538705
     }
   ],
   "zhihu_daily": [

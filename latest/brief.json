@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T18:27:29.363097+08:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:31:17.328670+08:00",
   "weather": {
     "source": "open-meteo",
     "location": {
@@ -8,23 +8,23 @@
       "lat": 23.13,
       "lon": 113.26
     },
-    "fetched_at": "2026-11-26T18:15",
+    "fetched_at": "2026-11-27T18:30",
     "current": {
-      "temperature": 17.3,
-      "feels_like": 18.3,
-      "humidity": 80,
-      "condition": "多云",
-      "weather_code": 1,
-      "wind_speed": 0.8,
-      "wind_direction": 207
+      "temperature": 21.4,
+      "feels_like": 23.2,
+      "humidity": 77,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 5.0,
+      "wind_direction": 358
     },
     "today": {
-      "temp_min": 12.5,
-      "temp_max": 18.7,
-      "precipitation_probability": 68,
+      "temp_min": 15.0,
+      "temp_max": 24.4,
+      "precipitation_probability": 0,
       "uv_index": 5.7,
-      "sunrise": "2026-11-26T06:47",
-      "sunset": "2026-11-26T17:40"
+      "sunrise": "2026-11-27T06:48",
+      "sunset": "2026-11-27T17:40"
     }
   },
   "fuel": [
@@ -48,74 +48,74 @@
   "fuel_changed": false,
   "fuel_change_detail": "",
   "news": [
+    "本周看什么 | 最近值得一看的 8 部作品",
+    "「黑五」值得买：不容错过的 App 和服务优惠",
+    "派早报：1Password 确认内部系统遭入侵等",
     "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
     "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
     "我用AI做了一张两千年的中国历史地图",
     "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
-    "翻开 2027， 值得入手的新年日历推荐",
-    "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-    "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
-    "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等"
+    "翻开 2027， 值得入手的新年日历推荐"
   ],
   "news_tip": null,
   "hot_topics": [
     {
       "platform": "抖音",
-      "title": "开拓者116:111击败马刺"
+      "title": "A股全线收红 创业板涨超11%"
     },
     {
       "platform": "抖音",
-      "title": "提前预习圣诞穿搭"
+      "title": "国常会：加力发挥国家队稳市作用"
     },
     {
       "platform": "抖音",
-      "title": "深圳奇迹属于奋斗者"
+      "title": "高交会高在哪里"
     },
     {
       "platform": "抖音",
-      "title": "已被这届烟火榜美食选中"
+      "title": "在济南过一个冒热气的周末"
     },
     {
       "platform": "抖音",
-      "title": "中方回应美国称对华加征关税"
+      "title": "冬日冷感忧郁穿搭"
     },
     {
       "platform": "头条",
-      "title": "中方回应美拟对华加征新一轮关税"
+      "title": "国家队抄底力度已超“924”"
     },
     {
       "platform": "头条",
-      "title": "董明珠建议长城进军拖拉机"
+      "title": "金价银价大涨"
     },
     {
       "platform": "头条",
-      "title": "读懂《新一代通信网建设实施方案》"
+      "title": "前10月规模以上工业企业利润增长16.0%"
     },
     {
       "platform": "头条",
-      "title": "特朗普为何再掀关税风波"
+      "title": "A股大爆发"
     },
     {
       "platform": "头条",
-      "title": "75岁正部级蔡赴朝被开除党籍"
+      "title": "正部级蓝天立被判死缓"
     },
     {
       "platform": "百度",
-      "title": "展现公道正义 彰显大国担当"
+      "title": "开放合作推动航天事业造福全人类"
     }
   ],
   "today_in_history": [
     {
-      "year": "656",
-      "title": "唐朝皇帝唐中宗李显出生"
+      "year": "25",
+      "title": "东汉光武帝刘秀定都于雒阳"
     },
     {
-      "year": "1288",
-      "title": "日本第九十六代天皇后醍醐天皇出生"
+      "year": "1127",
+      "title": "南宋第二位皇帝宋孝宗赵昚出生"
     },
     {
-      "year": "1504",
-      "title": "西班牙卡斯提亚女王伊莎贝拉一世逝世"
+      "year": "1874",
+      "title": "第1任以色列总统哈伊姆·魏茨曼出生"
     }
   ]
 }

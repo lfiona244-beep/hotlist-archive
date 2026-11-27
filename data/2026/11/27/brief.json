@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:31:17.328670+08:00",
+  "weather": {
+    "source": "open-meteo",
+    "location": {
+      "name": "广州",
+      "lat": 23.13,
+      "lon": 113.26
+    },
+    "fetched_at": "2026-11-27T18:30",
+    "current": {
+      "temperature": 21.4,
+      "feels_like": 23.2,
+      "humidity": 77,
+      "condition": "晴",
+      "weather_code": 0,
+      "wind_speed": 5.0,
+      "wind_direction": 358
+    },
+    "today": {
+      "temp_min": 15.0,
+      "temp_max": 24.4,
+      "precipitation_probability": 0,
+      "uv_index": 5.7,
+      "sunrise": "2026-11-27T06:48",
+      "sunset": "2026-11-27T17:40"
+    }
+  },
+  "fuel": [
+    {
+      "name": "广东92#汽油",
+      "price": "8.39"
+    },
+    {
+      "name": "广东95#汽油",
+      "price": "9.09"
+    },
+    {
+      "name": "广东98#汽油",
+      "price": "11.09"
+    },
+    {
+      "name": "广东0#柴油",
+      "price": "8.06"
+    }
+  ],
+  "fuel_changed": false,
+  "fuel_change_detail": "",
+  "news": [
+    "本周看什么 | 最近值得一看的 8 部作品",
+    "「黑五」值得买：不容错过的 App 和服务优惠",
+    "派早报：1Password 确认内部系统遭入侵等",
+    "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+    "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+    "我用AI做了一张两千年的中国历史地图",
+    "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+    "翻开 2027， 值得入手的新年日历推荐"
+  ],
+  "news_tip": null,
+  "hot_topics": [
+    {
+      "platform": "抖音",
+      "title": "A股全线收红 创业板涨超11%"
+    },
+    {
+      "platform": "抖音",
+      "title": "国常会：加力发挥国家队稳市作用"
+    },
+    {
+      "platform": "抖音",
+      "title": "高交会高在哪里"
+    },
+    {
+      "platform": "抖音",
+      "title": "在济南过一个冒热气的周末"
+    },
+    {
+      "platform": "抖音",
+      "title": "冬日冷感忧郁穿搭"
+    },
+    {
+      "platform": "头条",
+      "title": "国家队抄底力度已超“924”"
+    },
+    {
+      "platform": "头条",
+      "title": "金价银价大涨"
+    },
+    {
+      "platform": "头条",
+      "title": "前10月规模以上工业企业利润增长16.0%"
+    },
+    {
+      "platform": "头条",
+      "title": "A股大爆发"
+    },
+    {
+      "platform": "头条",
+      "title": "正部级蓝天立被判死缓"
+    },
+    {
+      "platform": "百度",
+      "title": "开放合作推动航天事业造福全人类"
+    }
+  ],
+  "today_in_history": [
+    {
+      "year": "25",
+      "title": "东汉光武帝刘秀定都于雒阳"
+    },
+    {
+      "year": "1127",
+      "title": "南宋第二位皇帝宋孝宗赵昚出生"
+    },
+    {
+      "year": "1874",
+      "title": "第1任以色列总统哈伊姆·魏茨曼出生"
+    }
+  ]
+}

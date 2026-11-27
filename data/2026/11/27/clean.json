@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:31:31.962081+08:00",
+  "total_raw": 59,
+  "total_cleaned": 56,
+  "category_stats": {
+    "其他": 47,
+    "生活": 2,
+    "科技": 3,
+    "动漫": 1,
+    "财经": 3
+  },
+  "hotspot": [
+    {
+      "title": "清谣护苗 护航成长",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "金价银价大涨",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "又一家车企宣布停产燃油车",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "A股全线收红 创业板涨超11%",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国常会：加力发挥国家队稳市作用",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "国家队抄底力度已超“924”",
+      "platforms": [
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "高交会高在哪里",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "在济南过一个冒热气的周末",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "冬日冷感忧郁穿搭",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "金价银价大涨",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "2026广州车展开幕",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "你吃的小米其实是狗尾巴草子孙",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "科技"
+    },
+    {
+      "title": "火旺动画定档",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "动漫"
+    },
+    {
+      "title": "羊年贵金属纪念币今日发行",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "普通人冬日彩色穿搭公式",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "巴航天员进驻天宫进入工作状态",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "清谣护苗 护航成长",
+      "platforms": [
+        "douyin",
+        "toutiao"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "复联5万磁王摘毁灭博士面具",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    }
+  ],
+  "news": [
+    "本周看什么 | 最近值得一看的 8 部作品",
+    "「黑五」值得买：不容错过的 App 和服务优惠",
+    "派早报：1Password 确认内部系统遭入侵等",
+    "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+    "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+    "我用AI做了一张两千年的中国历史地图",
+    "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+    "翻开 2027， 值得入手的新年日历推荐"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开",
+      "author": "明日方舟终末地",
+      "play": 791144
+    },
+    {
+      "title": "《白银之城》世界观PV | 童话的起笔",
+      "author": "白银之城",
+      "play": 1066676
+    },
+    {
+      "title": "《绝区零》挽昼动画短片 | 最后的旅途",
+      "author": "绝区零",
+      "play": 575823
+    },
+    {
+      "title": "【独家】《罗小黑战记》第45话 美好的暑假如此短暂【10月国创】",
+      "author": "哔哩哔哩国创",
+      "play": 1556718
+    },
+    {
+      "title": "【三角洲全角色/与天齐】⚡我本是天才少年😭👊🏻⚡",
+      "author": "萌宠教主",
+      "play": 447111
+    },
+    {
+      "title": "我讨厌我的子宫、我的月经和我的胸，讨厌一切女性特质，但没钱做手术，只能靠cosplay来填补内心",
+      "author": "摩的司机徐师傅",
+      "play": 1155576
+    },
+    {
+      "title": "看懂前：啊？ 看懂后：啊啊啊！！！",
+      "author": "GM的秘密基地",
+      "play": 1983984
+    },
+    {
+      "title": "顺直大改造S2EP2——顺直男和通讯录的恩怨情仇",
+      "author": "antoxic",
+      "play": 538705
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "鸟类能尝出果实的甜味吗？"
+    },
+    {
+      "title": "现代人能吃得惯古代普通老百姓家里的菜吗？"
+    },
+    {
+      "title": "为什么龟没有完全抢占鳖的生态位、淘汰掉鳖？"
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽"
+    }
+  ]
+}
