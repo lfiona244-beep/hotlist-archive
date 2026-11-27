@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-26",
-  "total": 128,
-  "available": 71,
-  "available_rate": 55.5,
+  "date": "2026-11-27",
+  "total": 126,
+  "available": 75,
+  "available_rate": 59.5,
   "categories": {
-    "online_video": 54,
+    "online_video": 50,
     "video_app": 5,
-    "subtitles": 3,
+    "subtitles": 4,
     "player": 7,
     "subscription": 5,
     "tvbox_config": 17,
     "magnet_search": 16,
     "cloud_search": 4,
-    "open_source": 17
+    "open_source": 18
   },
   "available_samples": [
     "看看鸭",
@@ -68,18 +68,6 @@
   ],
   "broken": [
     {
-      "name": "937影视",
-      "status": "unreachable"
-    },
-    {
-      "name": "布布追剧",
-      "status": "unreachable"
-    },
-    {
-      "name": "91毒舌",
-      "status": "unreachable"
-    },
-    {
       "name": "好好看",
       "status": "unreachable"
     },
@@ -88,23 +76,11 @@
       "status": "unreachable"
     },
     {
-      "name": "奈飞工厂",
-      "status": "unreachable"
-    },
-    {
-      "name": "剧OK",
-      "status": "unreachable"
-    },
-    {
-      "name": "追影",
-      "status": "unreachable"
-    },
-    {
       "name": "歪比巴卜",
       "status": "unreachable"
     },
     {
-      "name": "开心影院",
+      "name": "可可影视",
       "status": "unreachable"
     }
   ]
