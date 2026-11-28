@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T17:47:45.417329+08:00",
+  "total_raw": 59,
+  "total_cleaned": 57,
+  "category_stats": {
+    "社会": 4,
+    "其他": 44,
+    "生活": 1,
+    "娱乐": 4,
+    "体育": 2,
+    "科技": 1,
+    "游戏": 1
+  },
+  "hotspot": [
+    {
+      "title": "警方提级调查50人采摘蜜桔仅留10元",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "地面零距离实拍歼-35A",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "其他"
+    }
+  ],
+  "top_trending": [
+    {
+      "title": "巴方官员同巴基斯坦航天员通话",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "U17国足将迎战塞尔维亚",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "养老托育两头难有了国家级解法",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "马刺逆转湖人",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "76人大胜步行者晋级淘汰赛",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "淡人穿出时髦感的冬季穿搭",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "生活"
+    },
+    {
+      "title": "坐火车的正确打开方式",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "歼35A首次近距离展示",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "俄乌两军冬季战前补给成重中之重",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "拿破仑夹克轻松拿捏秋冬混搭风",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "冬天来一口榴莲炒冰夯爆了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "警方提级调查50人采摘蜜桔仅留10元",
+      "platforms": [
+        "toutiao",
+        "baidu"
+      ],
+      "category": "社会"
+    },
+    {
+      "title": "冬装和冷空气一起到货了",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "全校为美术生联考助威",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "其他"
+    },
+    {
+      "title": "张杰武汉演唱会",
+      "platforms": [
+        "douyin"
+      ],
+      "category": "娱乐"
+    }
+  ],
+  "news": [
+    "「黑五」值得买：不容错过的数码硬件优惠",
+    "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+    "本周看什么 | 最近值得一看的 8 部作品",
+    "「黑五」值得买：不容错过的 App 和服务优惠",
+    "派早报：1Password 确认内部系统遭入侵等",
+    "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+    "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+    "我用AI做了一张两千年的中国历史地图"
+  ],
+  "news_tip": null,
+  "bilibili": [
+    {
+      "title": "《爱的缄默法则》首曝PV丨归来",
+      "author": "爱的缄默法则",
+      "play": 1160377
+    },
+    {
+      "title": "《绝区零》挽昼EP | Triple Threat",
+      "author": "绝区零",
+      "play": 692208
+    },
+    {
+      "title": "刷新新地点~再三声明！选择中文和日文，无任何不良引导！！",
+      "author": "_小白大王_",
+      "play": 2122915
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第26集【总第202集】",
+      "author": "哔哩哔哩国创",
+      "play": 2839753
+    },
+    {
+      "title": "一口气看完虫石世界",
+      "author": "林知熹-熹之郎版",
+      "play": 957114
+    },
+    {
+      "title": "东北话魔仙",
+      "author": "神威-狗剩",
+      "play": 1574434
+    },
+    {
+      "title": "前线集结，双边对抗！全新玩法「前线战场-要塞围攻」12月1日即将上线",
+      "author": "暗区突围",
+      "play": 738006
+    },
+    {
+      "title": "一块很宽很宽很宽很宽的人......",
+      "author": "青浦模子",
+      "play": 2488830
+    }
+  ],
+  "zhihu_daily": [
+    {
+      "title": "氮气是惰性气体，为什么大豆等植物能够通过固氮作用将氮气转化为土壤中的养分？"
+    },
+    {
+      "title": "人类现有技术能够建造深度达到1000米的水库么?"
+    },
+    {
+      "title": "汉字简化的过程中，为何很多汉字的部首被用「又」字和叉代替？"
+    },
+    {
+      "title": "中国古代城市的城墙内一定是填满建筑的「建成区」吗？"
+    }
+  ]
+}
