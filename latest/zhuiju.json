@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-27",
-  "total": 126,
-  "available": 75,
-  "available_rate": 59.5,
+  "date": "2026-11-28",
+  "total": 130,
+  "available": 77,
+  "available_rate": 59.2,
   "categories": {
-    "online_video": 50,
+    "online_video": 52,
     "video_app": 5,
     "subtitles": 4,
-    "player": 7,
+    "player": 8,
     "subscription": 5,
     "tvbox_config": 17,
     "magnet_search": 16,
     "cloud_search": 4,
-    "open_source": 18
+    "open_source": 19
   },
   "available_samples": [
+    "多多影视",
+    "好片严选",
     "看看鸭",
     "搜TV啦",
     "白嫖者联盟",
-    "APP影院",
     "爱电影",
     "Auete影视",
-    "电影人生",
-    "奈菲影视"
+    "电影人生"
   ],
   "restricted": [
     {
@@ -35,6 +35,10 @@
     },
     {
       "name": "蛋蛋魔法",
+      "status": "受限 HTTP 403"
+    },
+    {
+      "name": "APP影院",
       "status": "受限 HTTP 403"
     },
     {
@@ -59,10 +63,6 @@
     },
     {
       "name": "Kodi",
-      "status": "受限 HTTP 403"
-    },
-    {
-      "name": "BD影视聚合",
       "status": "受限 HTTP 403"
     }
   ],
